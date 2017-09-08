@@ -1,0 +1,578 @@
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           "Strings displayed in the menus go in this file."
+
+REFERENCE           SCORE_TIED_WITH
+LANG_ENGLISH        "Az állás &&1 a &&2 pontból."
+
+REFERENCE           SCORE_LOSING_WITH
+LANG_ENGLISH        "Vesztésre állsz &&1 ponttal,a &&2 pontból."
+
+REFERENCE           SCORE_WINNING_WITH
+LANG_ENGLISH        "Nyerésre állsz &&1 ponttal,a &&2 pontból."
+
+REFERENCE           YES
+LANG_ENGLISH        "Igen"
+
+REFERENCE           QUIT
+LANG_ENGLISH        "Kilépés"
+
+REFERENCE           NEW_FAVORITE
+LANG_ENGLISH        "Új kedvenc"
+
+REFERENCE           PASSWORD
+LANG_ENGLISH        "Jelszó"
+
+REFERENCE           ADD_TO_FAVORITES
+LANG_ENGLISH        "Kedvencekhez ad"
+
+REFERENCE           DEL_FAVORITE
+LANG_ENGLISH        "Kedvenc törlése"
+
+REFERENCE           SERVER_INFO
+LANG_ENGLISH        "Szerver Infó"
+
+REFERENCE           JOIN_SERVER
+LANG_ENGLISH        "Új Szerver Indítása"
+
+REFERENCE           BACK
+LANG_ENGLISH        "Vissza"
+
+REFERENCE           GAME_TYPE
+LANG_ENGLISH        "Játék mód:  "
+
+REFERENCE           TYPE
+LANG_ENGLISH        "Típus:"
+
+REFERENCE           QUICK_REFRESH
+LANG_ENGLISH        "Gyors frissítés"
+
+REFERENCE           JOIN_SERVER_CAP
+LANG_ENGLISH        "Csatlakozás"
+
+REFERENCE           FILTER_SERVERS
+LANG_ENGLISH        "Szerver szûrés"
+
+REFERENCE           TYPE
+LANG_ENGLISH        "Típus:"
+
+REFERENCE           ALL
+LANG_ENGLISH        "összes"
+
+REFERENCE           MULTIPLAYER_CONTROLS
+LANG_ENGLISH        "Többjátékos beállítások..."
+
+REFERENCE           CONTROLS
+LANG_ENGLISH        "Irányítás"
+
+REFERENCE           LOOK
+LANG_ENGLISH        "Nézelõdés..."
+
+REFERENCE           MOVE
+LANG_ENGLISH        "Mozgás..."
+
+REFERENCE           COMBAT
+LANG_ENGLISH        "Támadás..."
+
+REFERENCE           INTERACT
+LANG_ENGLISH        "Interaktív..."
+
+REFERENCE           SET_DEFAULT_CONTROLS
+LANG_ENGLISH        "Alapértelmezett irányítás"
+
+REFERENCE           NO
+LANG_ENGLISH        "Nem"
+
+REFERENCE           RESTORE_EACH_SETTING
+LANG_ENGLISH        "Néhány beállítás vissza áll eredeti értékre,folytatod?"
+
+REFERENCE           GRAPHICS
+LANG_ENGLISH        "Grafika..."
+
+REFERENCE           TEXTURE_SETTINGS
+LANG_ENGLISH        "Textúra beállítások..."
+
+REFERENCE           VOICECHAT
+LANG_ENGLISH        "Hang csati..."
+
+REFERENCE           GAME_OPTIONS
+LANG_ENGLISH        "Játékmenet..."
+
+REFERENCE           MULTIPLAYER_OPTIONS
+LANG_ENGLISH        "Többjátékos mód beállításai..."
+
+REFERENCE           RESET_SYSTEM_DEFAULTS
+LANG_ENGLISH        "Optimális rendszerbeállítás"
+
+REFERENCE           VIDEO_MODE
+LANG_ENGLISH        "Felbontás"
+
+REFERENCE           SCREEN_REFRESH_RATE
+LANG_ENGLISH        "Képernyõ frissítés"
+
+REFERENCE           ASPECT_RATIO
+LANG_ENGLISH        "Megjelenítés"
+
+REFERENCE           ANTIALIASING
+LANG_ENGLISH        "Élsímitás"
+
+REFERENCE           BRIGHTNESS1
+LANG_ENGLISH        "Fényerõ..."
+
+REFERENCE           SYNC_EVERY_FRAME
+LANG_ENGLISH        "Képkockák szinkronizációja"
+
+REFERENCE           OPTIMIZE_FOR_DUAL_VIDEO_CARDS
+LANG_ENGLISH        "Két videokártya"
+
+REFERENCE           SHADOWS
+LANG_ENGLISH        "Árnyékok"
+
+REFERENCE           SPECULAR_MAP
+LANG_ENGLISH        "Tükrözõdések a pályán"
+
+REFERENCE           DOF
+LANG_ENGLISH        "Színtér mélysége"
+
+REFERENCE           GLOW
+LANG_ENGLISH        "Tûz effekt"
+
+REFERENCE           ZFEATHER_SMOKE
+LANG_ENGLISH        "Füst élek lágyítása"
+
+REFERENCE           RAGDOLL
+LANG_ENGLISH        "Roncsolódás"
+
+REFERENCE           BULLET_IMPACTS
+LANG_ENGLISH        "Lövedéknyomok"
+
+REFERENCE           MODEL_DETAIL
+LANG_ENGLISH        "Modellek felbontása"
+
+REFERENCE           WATER_DETAIL
+LANG_ENGLISH        "Víz felbontása"
+
+REFERENCE           YES
+LANG_ENGLISH        "Igen"
+
+REFERENCE           NO
+LANG_ENGLISH        "Nem"
+
+REFERENCE           OFF
+LANG_ENGLISH        "Ki"
+
+REFERENCE           ON
+LANG_ENGLISH        "Be"
+
+REFERENCE           NORMAL
+LANG_ENGLISH        "Normál"
+
+REFERENCE           LOW
+LANG_ENGLISH        "Alacsony"
+
+REFERENCE           APPLY
+LANG_ENGLISH        "Alkalmaz"
+
+REFERENCE           GRAPHICS_WARNING
+LANG_ENGLISH        "Optimális beállítást ajánljuk.így a teljesítmény jobb lesz mint kézi beállításnál."
+
+REFERENCE           NUMBER_OF_DYNAMIC_LIGHTS
+LANG_ENGLISH        "Dinamikus fények"
+
+REFERENCE           BRIGHTNESS
+LANG_ENGLISH        "Fényerõ"
+
+REFERENCE           SOUND
+LANG_ENGLISH        "Hang..."
+
+REFERENCE           ACCURACY1
+LANG_ENGLISH        "Pontosság:"
+
+REFERENCE           DAMAGE
+LANG_ENGLISH        "Sebzés:"
+
+REFERENCE           RANGE
+LANG_ENGLISH        "Lõtáv:"
+
+REFERENCE           FIRE_RATE
+LANG_ENGLISH        "Tûzgyorsaság:"
+
+REFERENCE           MOBILITY
+LANG_ENGLISH        "Mobilitás:"
+
+REFERENCE           RENAME
+LANG_ENGLISH        "Átnevezés"
+
+REFERENCE           RESET_TO_DEFAULT
+LANG_ENGLISH        "Alapbeállítás"
+
+REFERENCE           PRIMARY_ATTRIBUTES
+LANG_ENGLISH        "Fegyver tulajdonságai"
+
+REFERENCE           JOIN_GAME
+LANG_ENGLISH        "Csatlakozás"
+
+REFERENCE           START_NEW_SERVER
+LANG_ENGLISH        "Új Szerver Indítása"
+
+REFERENCE           SELECT_PROFILE
+LANG_ENGLISH        "Profil választás"
+
+REFERENCE           RANK_AND_CHALLENGES_CAP
+LANG_ENGLISH        "Rangok és kihívások"
+
+REFERENCE           MODS
+LANG_ENGLISH        "Modok"
+
+REFERENCE           ARE_YOU_SURE_QUIT 
+LANG_ENGLISH        "Mész?"
+
+REFERENCE           RANK_AND_CHALLENGES
+LANG_ENGLISH        "Rangok és kihívások"
+
+REFERENCE           LAUNCH_WITHOUT_MODS
+LANG_ENGLISH        "Futtatás mód nélkül"
+
+REFERENCE           LAUNCH
+LANG_ENGLISH        "Futtatás"
+
+REFERENCE           TYPE1
+LANG_ENGLISH        "Játékmód"
+
+REFERENCE           OPTIONS
+LANG_ENGLISH        "Beállítások"
+
+REFERENCE           SPECTATOR
+LANG_ENGLISH        "Nézelõdõ"
+
+REFERENCE           CANCEL
+LANG_ENGLISH        "Mégsem"
+
+REFERENCE           DELETE
+LANG_ENGLISH        "Törlés"
+
+REFERENCE           OK
+LANG_ENGLISH        "Rendben"
+
+REFERENCE           NEW
+LANG_ENGLISH        "Új"
+
+REFERENCE           NAME
+LANG_ENGLISH        "Név"
+
+REFERENCE           START
+LANG_ENGLISH        "Indítás"
+
+REFERENCE           OPTIONS_UPPER_CASE
+LANG_ENGLISH        "Beállítások"
+
+REFERENCE           VIEW_EMPTY
+LANG_ENGLISH        "Üres szerverek:"
+
+REFERENCE           VIEW_FULL
+LANG_ENGLISH        "Teli szerverek:"
+
+REFERENCE           FRIENDLY_FIRE
+LANG_ENGLISH        "Csapat sebzés:  "
+
+REFERENCE           PASSWORD1
+LANG_ENGLISH        "Jelszó:  "
+
+REFERENCE           DEDICATEDONLY
+LANG_ENGLISH        "Csak dedikáltak:"
+
+REFERENCE           MODSWITHCOLON
+LANG_ENGLISH        "Módok:"
+
+REFERENCE           KILLCAM
+LANG_ENGLISH        "Halálkamera:  "
+
+REFERENCE           SERVER_NAME
+LANG_ENGLISH        "Szerver név:  "
+
+REFERENCE           DEDICATED
+LANG_ENGLISH        "Dedikált:  "
+
+REFERENCE           MAXIMUM_PLAYERS
+LANG_ENGLISH        "Maximum játékos:  "
+
+REFERENCE           MINIMUM_PING
+LANG_ENGLISH        "Minimum válaszidõ:  "
+
+REFERENCE           MAXIMUM_PING
+LANG_ENGLISH        "Maximum válaszidõ:  "
+
+REFERENCE           VOICE_CHAT_ENABLE
+LANG_ENGLISH        "Hang csati bekapcsolt:"
+
+REFERENCE           AUTOBALANCE_TEAMS
+LANG_ENGLISH        "Csapatelosztás:  "
+
+REFERENCE           ALLOW_VOTING
+LANG_ENGLISH        "Szavazás:  "
+
+REFERENCE           GAME_TYPE_SETTINGS
+LANG_ENGLISH        "Játéktípus beállításai"
+
+REFERENCE           VOICECHATCOLON
+LANG_ENGLISH        "Hang csati:  "
+
+REFERENCE           LEAVE_GAME
+LANG_ENGLISH        "Kilépés"
+
+REFERENCE           UNTIL_MATCH_BEGIN
+LANG_ENGLISH        "Hátralévõ idõ."
+
+REFERENCE           SCOREBOARD
+LANG_ENGLISH        "Eredményjelzõ"
+
+REFERENCE           TEXTURE_MIPMAPS
+LANG_ENGLISH        "Textura szûrõ"
+
+REFERENCE           TEXTURE_ANISOTROPY
+LANG_ENGLISH        "Anizotroptikus szûrés"
+
+REFERENCE           TEXTURE_QUALITY
+LANG_ENGLISH        "Textura minõsége"
+
+REFERENCE           AUTOMATIC
+LANG_ENGLISH        "Automatikus"
+
+REFERENCE           MANUAL
+LANG_ENGLISH        "Kézi"
+
+REFERENCE           HIGH
+LANG_ENGLISH        "Magas"
+
+REFERENCE           MASTER_VOLUME
+LANG_ENGLISH        "Fõ hangerõ"
+
+REFERENCE           SOUND_EQ
+LANG_ENGLISH        "EQ szûrés"
+
+REFERENCE           SOUND_QUALITY
+LANG_ENGLISH        "Hangzás minõsége"
+
+REFERENCE           SPEAKER_CONFIG
+LANG_ENGLISH        "Hangszóró-beállítás"
+
+REFERENCE           NIGHT_VISION
+LANG_ENGLISH        "Éjjellátó"
+
+REFERENCE           INVERT_MOUSE
+LANG_ENGLISH        "Fordított egérmozgás"
+
+REFERENCE           LEAN_LEFT
+LANG_ENGLISH        "Hajolás balra"
+
+REFERENCE           LEAN_RIGHT
+LANG_ENGLISH        "Hajolás jobbra"
+
+REFERENCE           LOOK_UP
+LANG_ENGLISH        "Felnéz"
+
+REFERENCE           LOOK_DOWN
+LANG_ENGLISH        "Lenéz"
+
+REFERENCE           TURN_LEFT
+LANG_ENGLISH        "Forgás balra"
+
+REFERENCE           TURN_RIGHT
+LANG_ENGLISH        "Forgás jobbra"
+
+REFERENCE           MOUSE_LOOK
+LANG_ENGLISH        "Egeres nézelõdés"
+
+REFERENCE           CENTER_VIEW
+LANG_ENGLISH        "Középre néz"
+
+REFERENCE           FREE_LOOK
+LANG_ENGLISH        "Szabad nézelõdés"
+
+REFERENCE           SMOOTH_MOUSE
+LANG_ENGLISH        "Lágy egér"
+
+REFERENCE           MOUSE_SENSITIVITY
+LANG_ENGLISH        "Egér érzékenysége"
+
+REFERENCE           FORWARD
+LANG_ENGLISH        "Elõre"
+
+REFERENCE           BACKPEDAL
+LANG_ENGLISH        "Hátra"
+
+REFERENCE           MOVE_LEFT
+LANG_ENGLISH        "Balra lép"
+
+REFERENCE           MOVE_RIGHT
+LANG_ENGLISH        "Jobbra lép"
+
+REFERENCE           STANDJUMP
+LANG_ENGLISH        "Alapállás/Ugrás"
+
+REFERENCE           GO_TO_CROUCH
+LANG_ENGLISH        "Folyamatos guggolás"
+
+REFERENCE           GO_TO_PRONE
+LANG_ENGLISH        "Folyamatos hasalás"
+
+REFERENCE           TOGGLE_CROUCH
+LANG_ENGLISH        "Guggoló mód"
+
+REFERENCE           TOGGLE_PRONE
+LANG_ENGLISH        "Hasaló mód"
+
+REFERENCE           CROUCH
+LANG_ENGLISH        "Guggolás"
+
+REFERENCE           PRONE
+LANG_ENGLISH        "Hasalás"
+
+REFERENCE           CHANGE_STANCE
+LANG_ENGLISH        "Alapállás"
+
+REFERENCE           STRAFE
+LANG_ENGLISH        "Oldalazás"
+
+REFERENCE           ATTACK
+LANG_ENGLISH        "Lövés"
+
+REFERENCE           TOGGLE_AIM_DOWN_THE_SIGHT
+LANG_ENGLISH        "Lövés vállgödörbõl"
+
+REFERENCE           AIM_DOWN_THE_SIGHT
+LANG_ENGLISH        "Lövés vállgödörbõl (alap)"
+
+REFERENCE           MELEE_ATTACK
+LANG_ENGLISH        "Késelés"
+
+REFERENCE           RELOAD_WEAPON
+LANG_ENGLISH        "Újra tárazás"
+
+REFERENCE           SWITCH_WEAPON
+LANG_ENGLISH        "Fegyverváltás"
+
+REFERENCE           SPRINT
+LANG_ENGLISH        "Futás"
+
+REFERENCE           SPRINT_STEADY_SNIPER_RIFLE
+LANG_ENGLISH        "Futás/Orvlövész mód"
+
+REFERENCE           AIR_SUPPORT
+LANG_ENGLISH        "Légicsapás"
+
+REFERENCE           STEADY_SNIPER_RIFLE
+LANG_ENGLISH        "Orvlövész mód"
+
+REFERENCE           ACTION_INVENTORY
+LANG_ENGLISH        "Gránátvetõ/Talált tárgyak"
+
+REFERENCE           THROW_SPECIAL_GRENADE
+LANG_ENGLISH        "Speciális gránát"
+
+REFERENCE           THROW_FRAG_GRENADE
+LANG_ENGLISH        "Repeszgránát"
+
+REFERENCE           USE
+LANG_ENGLISH        "Használ"
+
+REFERENCE           SCREENSHOT
+LANG_ENGLISH        "Képernyõfotó"
+
+REFERENCE           SHOW_OBJECTIVES_SCORES
+LANG_ENGLISH        "Feladatok/Pontszámok"
+
+REFERENCE           VOTE_YES
+LANG_ENGLISH        "Szavazás - Igen"
+
+REFERENCE           VOTE_NO
+LANG_ENGLISH        "Szavazás - Nem"
+
+REFERENCE           VOICE_CHAT_BUTTON
+LANG_ENGLISH        "Hang csati"
+
+REFERENCE           CHAT
+LANG_ENGLISH        "Szöveg"
+
+REFERENCE           TEAM_CHAT
+LANG_ENGLISH        "Csapat szöveg"
+
+REFERENCE           QUICK_CHAT
+LANG_ENGLISH        "Gyors szöveg"
+
+REFERENCE           VOICECHAT_RECORD_LEVEL
+LANG_ENGLISH        "Felvétel hangereje"
+
+REFERENCE           VOICECHAT_LEVEL_INDICATOR
+LANG_ENGLISH        "Hangszínt kijelzõ"
+
+REFERENCE           SHOW_BLOOD
+LANG_ENGLISH        "Vér megjelenítése"
+
+REFERENCE           ENABLE_CONSOLE
+LANG_ENGLISH        "Konzol engedélyezése"
+
+REFERENCE           ALLOW_DOWNLOAD
+LANG_ENGLISH        "Letöltések engedélyezése"
+
+REFERENCE           PLAYER_NAME
+LANG_ENGLISH        "Játékos neve"
+
+REFERENCE           ENTER_KEY_CODE
+LANG_ENGLISH        "Termékkulcs beírása"
+
+REFERENCE           RESTORE_DEFAULTS
+LANG_ENGLISH        "Az összes beállítás vissza fog állni az eredeti értékekre,folytatod?"
+
+REFERENCE           KEY_CODE
+LANG_ENGLISH        "Termékkulcs"
+
+REFERENCE           ENTER_YOUR_KEY_CODE_IN_THE_FIELD_BELOW
+LANG_ENGLISH        "Írd be a kapott termékkulcsot a lenti mezõbe."
+
+REFERENCE           VERIFY
+LANG_ENGLISH        "Ellenõrzés"
+
+REFERENCE           CLOSE
+LANG_ENGLISH        "Bezár"
+
+REFERENCE           REFRESH
+LANG_ENGLISH        "Újraolvas"
+
+REFERENCE           APPLY_SETTINGS
+LANG_ENGLISH        "Alkalmazod a beállításokat?"
+
+REFERENCE           VIEW_PASSWORD
+LANG_ENGLISH        "Jelszóval:"
+
+REFERENCE           VIEW_KILLCAM
+LANG_ENGLISH        "Halálkamera:"
+
+REFERENCE           VIEW_FRIENDLY_FIRE
+LANG_ENGLISH        "Csapatsebzés:
+
+REFERENCE           RESET
+LANG_ENGLISH        "Alapbeállítás"
+
+REFERENCE           DISABLED
+LANG_ENGLISH        "Elutasít"
+
+REFERENCE           ENABLED
+LANG_ENGLISH        "Engedélyez"
+
+REFERENCE           CREATE_PLAYER_PROFILE
+LANG_ENGLISH        "Új játékos profil"
+
+REFERENCE           NAME1
+LANG_ENGLISH        "Név: "
+
+REFERENCE           DELETE_PROFILE
+LANG_ENGLISH        "Törlöd a kiválasztott profilt?"
+
+REFERENCE           ACCEPT
+LANG_ENGLISH        "Alkalmaz"
+
+
+ENDMARKER
+
+

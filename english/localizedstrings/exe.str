@@ -1,0 +1,114 @@
+
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SERVERISFULL
+LANG_ENGLISH        "Szerver tele."
+
+REFERENCE           REFRESHTIME
+LANG_ENGLISH        "Újraolvasási idõ: &&1"
+
+REFERENCE           CDKEYVALID
+LANG_ENGLISH        "Cd kulcs eredeti."
+
+REFERENCE           CDKEYINVALID
+LANG_ENGLISH        "Nem eredeti CD kulcs."
+
+REFERENCE           CONNECTINGTO
+LANG_ENGLISH        "Kapcsolódik &&1"
+
+REFERENCE           AWAITINGCONNECTION
+LANG_ENGLISH        "Várj a kapcsolatra^7...&&1"
+
+REFERENCE           AWAITINGCHALLENGE
+LANG_ENGLISH        "Várj a kihívásra...&&1"
+
+REFERENCE           AWAITINGGAMESTATE
+LANG_ENGLISH        "Játék beállítása"
+
+REFERENCE           SERVER_DISCONNECTED
+LANG_ENGLISH        "Szerver szétkapcsolt"
+
+REFERENCE           AWAITINGHOST
+LANG_ENGLISH        "Játékosra várás"
+
+REFERENCE           DOWNLOADING
+LANG_ENGLISH        "Letöltés:"
+
+REFERENCE           HOURS
+LANG_ENGLISH        "Óra"
+
+REFERENCE           MINUTES
+LANG_ENGLISH        "Perc"
+
+REFERENCE           SECONDS
+LANG_ENGLISH        "Másodperc"
+
+REFERENCE           SV_INFO_MOD
+LANG_ENGLISH        "Mód"
+
+REFERENCE           YES
+LANG_ENGLISH        "Igen"
+
+REFERENCE           NO
+LANG_ENGLISH        "Nem"
+
+REFERENCE           ALL
+LANG_ENGLISH        "Összes"
+
+REFERENCE           ENDOFGAME
+LANG_ENGLISH        "Vége a pályának"
+
+REFERENCE           SERVERISFULL
+LANG_ENGLISH        "Szerver tele van."
+
+REFERENCE           NETSOURCE
+LANG_ENGLISH        "Hálozat:     &&1"
+
+REFERENCE           LOCAL
+LANG_ENGLISH        "Helyi"
+
+REFERENCE           UNPURECLIENTDETECTED
+LANG_ENGLISH        "Nem megfelelõ IWD fájl,töröld a játékon belüli mods mappában a megfelelõ könyvtárt!"
+
+REFERENCE           TIMEDOUT
+LANG_ENGLISH        "Idõtullépés"
+
+REFERENCE           ERR_INVALID_CD_KEY
+LANG_ENGLISH        "A CD kulcs nem eredeti.Kérem adj meg másikat!! "
+
+REFERENCE           ERR_LOW_PING_ONLY
+LANG_ENGLISH        "Nagy a ping-ed."
+
+REFERENCE           ERR_BAD_CDKEY
+LANG_ENGLISH        "Rossz kodot adtál!."
+
+REFERENCE           EST_TIME_LEFT
+LANG_ENGLISH        "Hátralévõ idõ:"
+
+REFERENCE           TRANS_RATE
+LANG_ENGLISH        "Átviteli sebesség:"
+
+REFERENCE           OF
+LANG_ENGLISH        "A"
+
+REFERENCE           COPIED
+LANG_ENGLISH        "-ból átmásolva"
+
+REFERENCE           PLAYERKICKED
+LANG_ENGLISH        "Játékos kidobva."
+
+REFERENCE           ERR_HIGH_PING_ONLY
+LANG_ENGLISH        "^1Alacsony a pinged!"
+
+REFERENCE           WAITINGFORMASTERSERVERRESPONSE
+LANG_ENGLISH        "Várakozás a kiszolgáló válaszára"
+
+REFERENCE           GETTINGINFOFORSERVERS
+LANG_ENGLISH        "Megszerzett információ &&1 szerverõl (ESC=Mégsem)"
+
+
+ENDMARKER
+
+

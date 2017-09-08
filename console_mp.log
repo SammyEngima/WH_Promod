@@ -1,0 +1,4443 @@
+Build 568 nightly Wed Jun 18 2008 04:48:38PM
+logfile opened on Mon Mar 13 21:37:34 2017
+
+sv_cheats is write protected.
+      dvar set sv_mapRotation map mp_backlot map mp_crash map mp_crossfire map mp_citystreets map mp_strike
+      dvar set sv_maxclients 21
+      dvar set sv_punkbuster 1
+      dvar set timescale 1
+timescale is cheat protected.
+      dvar set ui_gametype 0
+Hiding channel: error
+Hiding channel: gamenotify
+Hiding channel: boldgame
+Hiding channel: subtitle
+Hiding channel: obituary
+Hiding channel: logfile_only
+Hiding channel: console_only
+Hiding channel: gfx
+Hiding channel: sound
+Hiding channel: files
+Hiding channel: devgui
+Hiding channel: profile
+Hiding channel: ui
+Hiding channel: client
+Hiding channel: server
+Hiding channel: system
+Hiding channel: playerweap
+Hiding channel: ai
+Hiding channel: anim
+Hiding channel: physics
+Hiding channel: fx
+Hiding channel: leaderboards
+Hiding channel: parserscript
+Hiding channel: script
+No channels added or hidden
+Adding channel: error
+Adding channel: gamenotify
+Adding channel: boldgame
+Adding channel: subtitle
+Adding channel: obituary
+Adding channel: logfile_only
+Adding channel: console_only
+Adding channel: gfx
+Adding channel: sound
+Adding channel: files
+Adding channel: devgui
+Adding channel: profile
+Adding channel: ui
+Adding channel: client
+Adding channel: server
+Adding channel: system
+Adding channel: playerweap
+Adding channel: ai
+Adding channel: anim
+Adding channel: physics
+Adding channel: fx
+Adding channel: leaderboards
+Adding channel: parserscript
+Adding channel: script
+      dvar set dedicated dedicated internet server
+      dvar set dedicated dedicated internet server
+      dvar set masterServerName FrozenKiller_RuLeZ.com   
+      dvar set authServerName FrozenKiller_RuLeZ.com   
+      dvar set masterPort 20810
+      dvar set authPort 20800
+      dvar set com_timescale 1
+      dvar set timescale 1
+      dvar set fixedtime 0
+      dvar set sys_configureGHz 8.88183
+      dvar set sys_sysMB 1024
+      dvar set sys_gpu AMD Radeon R7 200 Series
+      dvar set sys_configSum 0
+      dvar set dedicated dedicated internet server
+dedicated is read only.
+      dvar set fs_game Mods/wh_promod
+fs_game is write protected.
+      dvar set sv_punkbuster 1
+      dvar set net_port 29082
+      dvar set g_gametype sd
+      dvar set r_fullscreen 0
+      dvar set r_ignorehwgamma 0
+      dvar set r_picmip_water 0
+      dvar set r_aaSamples 4
+      dvar set r_vsync 0
+      dvar set r_monitor 0
+      dvar set r_rendererPreference Default
+      dvar set r_aspectRatio auto
+      dvar set r_customMode 
+      dvar set r_altModelLightingUpdate 0
+      dvar set r_preloadShaders 0
+      dvar set r_loadForRenderer 0
+      dvar set r_loadForRenderer 0
+Loading fastfile code_post_gfx_mp
+Loading fastfile localized_code_post_gfx_mp
+Loading fastfile mod
+Loaded zone 'code_post_gfx_mp'
+Loaded zone 'localized_code_post_gfx_mp'
+Loaded zone 'mod'
+Loading fastfile common_mp
+Loading fastfile localized_common_mp
+Waiting for $init to finish.  There may be assets missing from code_post_gfx.
+      dvar set version CoD4 MP 1.7 build 568 nightly Wed Jun 18 2008 04:48:38PM win-x86
+CPU vendor is "AuthenticAMD"
+CPU name is "AMD A6-3650 APU with Radeon(tm) HD Graphics"
+4 logical CPUs reported
+4 physical CPUs detected
+Measured CPU speed is 2.68 GHz
+Total CPU performance is estimated as 8.88 GHz
+System memory is 1024 MB (capped at 1 GB)
+Video card is "AMD Radeon R7 200 Series"
+Streaming SIMD Extensions (SSE) supported
+
+      dvar set in_mouse 1
+      dvar set g_gametype sd
+      dvar set ui_maxclients 32
+      dvar set sv_maxclients 21
+Winsock Initialized
+      dvar set net_noudp 0
+      dvar set net_noipx 0
+      dvar set net_socksEnabled 0
+      dvar set net_socksServer 
+      dvar set net_socksPort 1080
+      dvar set net_socksUsername 
+      dvar set net_socksPassword 
+      dvar set net_noudp 0
+      dvar set net_noipx 0
+      dvar set net_socksEnabled 0
+      dvar set net_socksServer 
+      dvar set net_socksPort 1080
+      dvar set net_socksUsername 
+      dvar set net_socksPassword 
+      dvar set net_port 29082
+Opening IP socket: localhost:29082
+      dvar set net_port 29082
+Hostname: domi-PC
+IP: 192.168.0.100
+      dvar set net_port 29082
+      dvar set dedicated dedicated internet server
+dedicated is read only.
+      dvar set fs_game Mods/wh_promod
+fs_game is write protected.
+      dvar set sv_punkbuster 1
+sv_punkbuster is write protected.
+      dvar set net_port 29082
+      dvar set g_gametype sd
+Waited 104 ms for $init to finish.
+end $init 2684 ms
+--- Common Initialization Complete ---
+=============================== DVAR DUMP ========================================
+      ai_corpseCount "10"
+      attach_allow_assault_none "1"
+      attach_allow_assault_silencer "1"
+      attach_allow_pistol_none "1"
+      attach_allow_pistol_silencer "1"
+      attach_allow_specops_none "1"
+      attach_allow_specops_silencer "1"
+      authPort "20800"
+      authServerName "FrozenKiller_RuLeZ.com   "
+      bg_fallDamageMaxHeight "350"
+      bg_fallDamageMinHeight "140"
+      cg_blood "0"
+      cg_brass "0"
+      cg_chatHeight "8"
+      cg_chatTime "12000"
+      cg_connectionIconSize "0"
+      cg_crosshairAlpha "1"
+      cg_crosshairAlphaMin "0.5"
+      cg_crosshairDynamic "0"
+      cg_crosshairEnemyColor "0"
+      cg_cursorHints "4"
+      cg_debugInfoCornerOffset "0 0"
+      cg_descriptiveText "0"
+      cg_drawBreathHint "0"
+      cg_drawCrosshair "1"
+      cg_drawCrosshairNames "0"
+      cg_drawFPS "Simple"
+      cg_drawFPSLabels "1"
+      cg_drawLagometer "0"
+      cg_drawMantleHint "1"
+      cg_drawSnapshot "0"
+      cg_drawTurretCrosshair "1"
+      cg_fov "80"
+      cg_fovscale "1"
+      cg_gameBoldMessageWidth "390"
+      cg_gameMessageWidth "455"
+      cg_headiconminscreenradius "0.015"
+      cg_hintFadeTime "100"
+      cg_hudChatIntermissionPosition "5 110"
+      cg_hudChatPosition "5 204"
+      cg_hudDamageIconHeight "64"
+      cg_hudDamageIconInScope "0"
+      cg_hudDamageIconOffset "128"
+      cg_hudDamageIconTime "2000"
+      cg_hudDamageIconWidth "128"
+      cg_hudGrenadeIconEnabledFlash "0"
+      cg_hudGrenadeIconHeight "25"
+      cg_hudGrenadeIconInScope "0"
+      cg_hudGrenadeIconMaxHeight "104"
+      cg_hudGrenadeIconMaxRangeFrag "250"
+      cg_hudGrenadeIconOffset "50"
+      cg_hudGrenadeIconWidth "25"
+      cg_hudGrenadePointerHeight "12"
+      cg_hudGrenadePointerPivot "12 27"
+      cg_hudGrenadePointerWidth "25"
+      cg_hudlegacysplitscreenscale "2"
+      cg_hudMapBorderWidth "2"
+      cg_hudMapFriendlyHeight "15"
+      cg_hudMapFriendlyWidth "15"
+      cg_hudMapPlayerHeight "20"
+      cg_hudMapPlayerWidth "20"
+      cg_hudMapRadarLineThickness "0.15"
+      cg_hudObjectiveTextScale "0.3"
+      cg_hudProneY "-160"
+      cg_hudSayPosition "5 180"
+      cg_hudsplitscreencompassscale "1.5"
+      cg_hudsplitscreenstancescale "2"
+      cg_hudStanceHintPrints "0"
+      cg_hudVotePosition "5 220"
+      cg_invalidCmdHintBlinkInterval "600"
+      cg_invalidCmdHintDuration "1800"
+      cg_laserLight "0"
+      cg_mapLocationSelectionCursorSpeed "0.6"
+      cg_marks_ents_player_only "0"
+      cg_predictItems "1"
+      cg_ScoresPing_BgColor "0.25098 0.25098 0.25098 0.501961"
+      cg_ScoresPing_HighColor "0.8 0 0 1"
+      cg_ScoresPing_Interval "100"
+      cg_ScoresPing_LowColor "0 0.74902 0 1"
+      cg_ScoresPing_MaxBars "4"
+      cg_ScoresPing_MedColor "0.8 0.8 0 1"
+      cg_scriptIconSize "0"
+      cg_sprintMeterDisabledColor "0.8 0.1 0.1 0.2"
+      cg_sprintMeterEmptyColor "0.7 0.5 0.2 0.8"
+      cg_sprintMeterFullColor "0.8 0.8 0.8 0.8"
+      cg_subtitleMinTime "3"
+      cg_subtitles "1"
+      cg_subtitleWidthStandard "520"
+      cg_subtitleWidthWidescreen "520"
+      cg_teamChatsOnly "0"
+      cg_viewZSmoothingMax "16"
+      cg_viewZSmoothingMin "1"
+      cg_viewZSmoothingTime "0.1"
+      cg_voiceIconSize "0"
+      cg_weaponCycleDelay "0"
+      cg_weaponHintsCoD1Style "1"
+      cg_youInKillCamSize "6"
+      cl_allowDownload "1"
+      cl_autocmd "0"
+      cl_freelook "1"
+      cl_maxpackets "100"
+      cl_maxPing "800"
+      cl_maxppf "5"
+      cl_mouseAccel "0"
+      cl_packetdup "1"
+      cl_paused "0"
+      cl_pitchspeed "140"
+      cl_punkbuster "1"
+      cl_voice "1"
+      cl_wwwDownload "1"
+      cl_yawspeed "140"
+      class_assault_allowdrop "1"
+      class_assault_limit "64"
+      class_demolitions_allowdrop "0"
+      class_demolitions_limit "1"
+      class_sniper_allowdrop "0"
+      class_sniper_limit "1"
+      class_specops_allowdrop "1"
+      class_specops_limit "2"
+      clientSideEffects "1"
+      com_animCheck "0"
+      com_filter_output "0"
+      com_introPlayed "1"
+      com_maxfps "125"
+      com_maxFrameTime "100"
+      com_playerProfile "Domi"
+      com_recommendedSet "1"
+      com_statmon "0"
+      com_timescale "1"
+      compassClampIcons "1"
+      compassCoords "740 3590 400"
+      compassECoordCutoff "37"
+      compassFriendlyHeight "18.75"
+      compassFriendlyWidth "18.75"
+      compassMaxRange "2500"
+      compassMinRadius "0.0001"
+      compassMinRange "0.0001"
+      compassObjectiveArrowHeight "20"
+      compassObjectiveArrowOffset "2"
+      compassObjectiveArrowRotateDist "5"
+      compassObjectiveArrowWidth "20"
+      compassObjectiveDrawLines "1"
+      compassObjectiveHeight "20"
+      compassObjectiveIconHeight "16"
+      compassObjectiveIconWidth "16"
+      compassObjectiveMaxRange "2048"
+      compassObjectiveMinAlpha "1"
+      compassObjectiveNumRings "10"
+      compassObjectiveRingSize "80"
+      compassObjectiveRingTime "10000"
+      compassObjectiveTextHeight "18"
+      compassObjectiveTextScale "0.3"
+      compassObjectiveWidth "20"
+      compassPlayerHeight "18.75"
+      compassPlayerWidth "18.75"
+      compassRadarLineThickness "0.4"
+      compassRadarPingFadeTime "4"
+      compassRadarUpdateTime "4"
+      compassRotation "1"
+      compassSize "1"
+      compassSoundPingFadeTime "2"
+      compassTickertapeStretch "0.5"
+      con_default_console_filter "*"
+      con_errormessagetime "8"
+      con_gameMsgWindow0FadeInTime "0.25"
+      con_gameMsgWindow0FadeOutTime "0.5"
+      con_gameMsgWindow0Filter "gamenotify obituary"
+      con_gameMsgWindow0LineCount "4"
+      con_gameMsgWindow0MsgTime "5"
+      con_gameMsgWindow0ScrollTime "0.25"
+      con_gameMsgWindow0SplitscreenScale "1.5"
+      con_gameMsgWindow1FadeInTime "0.25"
+      con_gameMsgWindow1FadeOutTime "0.01"
+      con_gameMsgWindow1Filter "boldgame"
+      con_gameMsgWindow1LineCount "5"
+      con_gameMsgWindow1MsgTime "8"
+      con_gameMsgWindow1ScrollTime "0.25"
+      con_gameMsgWindow1SplitscreenScale "1.5"
+      con_gameMsgWindow2FadeInTime "0.75"
+      con_gameMsgWindow2FadeOutTime "0.5"
+      con_gameMsgWindow2Filter "subtitle"
+      con_gameMsgWindow2LineCount "7"
+      con_gameMsgWindow2MsgTime "5"
+      con_gameMsgWindow2ScrollTime "0.25"
+      con_gameMsgWindow2SplitscreenScale "1.5"
+      con_gameMsgWindow3FadeInTime "0.25"
+      con_gameMsgWindow3FadeOutTime "0.5"
+      con_gameMsgWindow3Filter ""
+      con_gameMsgWindow3LineCount "5"
+      con_gameMsgWindow3MsgTime "5"
+      con_gameMsgWindow3ScrollTime "0.25"
+      con_gameMsgWindow3SplitscreenScale "1.5"
+      con_inputBoxColor "0.25 0.25 0.2 1"
+      con_inputHintBoxColor "0.4 0.4 0.35 1"
+      con_matchPrefixOnly "1"
+      con_minicon "0"
+      con_miniconlines "5"
+      con_minicontime "4"
+      con_outputBarColor "1 1 0.95 0.6"
+      con_outputSliderColor "0.15 0.15 0.1 0.6"
+      con_outputWindowColor "0.35 0.35 0.3 0.75"
+      con_typewriterColorGlowCheckpoint "0.6 0.5 0.6 1"
+      con_typewriterColorGlowCompleted "0 0.3 0.8 1"
+      con_typewriterColorGlowFailed "0.8 0 0 1"
+      con_typewriterColorGlowUpdated "0 0.6 0.18 1"
+      con_typewriterDecayDuration "700"
+      con_typewriterDecayStartTime "6000"
+      con_typewriterPrintSpeed "50"
+      customclass1 "Custom Slot 1"
+      customclass2 "Custom Slot 2"
+      customclass3 "Custom Slot 3"
+      customclass4 "Custom Slot 4"
+      customclass5 "Custom Slot 5"
+      dedicated "dedicated internet server"
+      developer "0"
+      developer_script "0"
+      drew_notes "5"
+      dvar_msg "0"
+      dvar_msg1 "^1Szabályzat:"
+      dvar_msg2 "^7-Ne sértegesd a többieket."
+      dvar_msg3 "-Ne kempeld végig a mapot attackba."
+      dvar_msg4 "4.-Ha csalót,hibát találsz jelentsd:"
+      dvar_msg5 ""
+      dvar_msgWait "10"
+      dynEnt_active "0"
+      fixedtime "0"
+      fs_basegame ""
+      fs_basepath "C:\cod4 promod mod"
+      fs_cdpath ""
+      fs_copyfiles "0"
+      fs_debug "0"
+      fs_game "mods/wh_promod"
+      fs_homepath "C:\cod4 promod mod"
+      fs_ignoreLocalized "0"
+      fs_restrict "0"
+      fs_usedevdir "0"
+      fx_marks "1"
+      fx_marks_ents "1"
+      fx_marks_smodels "1"
+      g_allowvote "0"
+      g_antilag "1"
+      g_banIPs ""
+      g_clonePlayerMaxVelocity "80"
+      g_compassShowEnemies "0"
+      g_deadChat "1"
+      g_dropForwardSpeed "10"
+      g_dropHorzSpeedRand "100"
+      g_dropUpSpeedBase "10"
+      g_dropUpSpeedRand "5"
+      g_gametype "sd"
+      g_inactivity "0"
+      g_inactivityspectator ""
+      g_log "games_mp.log"
+      g_logSync "0"
+      g_maxDroppedWeapons "16"
+      g_no_script_spam "1"
+      g_oldVoting "1"
+      g_password ""
+      g_playerCollisionEjectSpeed "25"
+      g_redCrosshairs "1"
+      g_smoothClients "1"
+      g_useGear "1"
+      g_useholdspawndelay "500"
+      g_voiceChatTalkingDuration "500"
+      g_voteAbstainWeight "0.5"
+      hiDef "1"
+      hud_deathQuoteFadeTime "1000"
+      hud_enable "1"
+      hud_fade_ammodisplay "0"
+      hud_fade_compass "0"
+      hud_fade_healthbar "2"
+      hud_fade_offhand "0"
+      hud_fade_sprint "1.7"
+      hud_fade_stance "1.7"
+      hud_fadeout_speed "0.1"
+      hud_flash_period_offhand "0.5"
+      hud_flash_time_offhand "2"
+      hud_health_pulserate_critical "0.5"
+      hud_health_pulserate_injured "1"
+      hud_health_startpulse_critical "0.33"
+      hud_health_startpulse_injured "1"
+      in_mouse "1"
+      koth_autodestroytime "60"
+      koth_capturetime "20"
+      koth_delayPlayer "0"
+      koth_destroytime "10"
+      koth_kothmode "0"
+      koth_spawnDelay "60"
+      koth_spawntime "0"
+      loc_forceEnglish "0"
+      loc_language "0"
+      loc_translate "1"
+      loc_warnings "0"
+      loc_warningsAsErrors "0"
+      logfile "1"
+      m_filter "0"
+      m_forward "0.25"
+      m_pitch "0.022"
+      m_side "0.25"
+      m_yaw "0.022"
+      mapname ""
+      masterPort "20810"
+      masterServerName "FrozenKiller_RuLeZ.com   "
+      monkeytoy "0"
+      msg_dumpEnts "0"
+      msg_hudelemspew "0"
+      msg_printEntityNums "0"
+      name "wH?! Domi"
+      net_ip "localhost"
+      net_lanauthorize "0"
+      net_noipx "0"
+      net_noudp "0"
+      net_port "29082"
+      net_profile "0"
+      net_showprofile "0"
+      net_socksEnabled "0"
+      net_socksPassword ""
+      net_socksPort "1080"
+      net_socksServer ""
+      net_socksUsername ""
+      nextmap ""
+      onlinegame "1"
+      packetDebug "0"
+      promod_allow_readyup "0"
+      promod_allow_strattime "10"
+      promod_enable_scorebot "0"
+      promod_hud_show_website "1"
+      promod_hud_website ""
+      promod_kniferound "1"
+      promod_mc_delay "45"
+      promod_mc_enable "1"
+      promod_mc_loopdelay "45"
+      promod_mc_maxmessages "3"
+      promod_mc_message_1 ""
+      promod_mc_message_2 ""
+      promod_mc_message_3 ""
+      promod_mc_message_4 "^1Bármilyen Csalás!!!^1||Bannal Jár ^1|| "
+      promod_mc_message_5 "<*nextmap*>"
+      promod_mc_messagedelay_1 "0"
+      promod_mc_rs_every_round "1"
+      promod_mode "custom_public"
+      protocol "6"
+      r_aaAlpha "dither (fast)"
+      r_aaSamples "4"
+      r_altModelLightingUpdate "0"
+      r_aspectRatio "auto"
+      r_autopriority "0"
+      r_blur "0"
+      r_brightness "0"
+      r_cacheModelLighting "1"
+      r_cacheSModelLighting "1"
+      r_clear "dev-only blink"
+      r_clearColor "0 0 0 0"
+      r_clearColor2 "0 0 0 0"
+      r_colorMap "Unchanged"
+      r_contrast "1"
+      r_customMode ""
+      r_debugLineWidth "1"
+      r_debugShader "none"
+      r_depthPrepass "0"
+      r_desaturation "1"
+      r_detail "1"
+      r_diffuseColorScale "1"
+      r_displayRefresh "60 Hz"
+      r_distortion "0"
+      r_dlightLimit "0"
+      r_dof_bias "0.5"
+      r_dof_enable "0"
+      r_dof_farBlur "1.8"
+      r_dof_farEnd "7000"
+      r_dof_farStart "1000"
+      r_dof_nearBlur "6"
+      r_dof_nearEnd "60"
+      r_dof_nearStart "10"
+      r_dof_tweak "0"
+      r_dof_viewModelEnd "8"
+      r_dof_viewModelStart "2"
+      r_drawDecals "0"
+      r_drawSun "0"
+      r_drawWater "1"
+      r_envMapExponent "5"
+      r_envMapMaxIntensity "0.5"
+      r_envMapMinIntensity "0.2"
+      r_envMapOverride "0"
+      r_envMapSpecular "1"
+      r_envMapSunIntensity "2"
+      r_fastSkin "0"
+      r_filmTweakBrightness "0"
+      r_filmTweakContrast "1.4"
+      r_filmTweakDarkTint "0.7 0.85 1"
+      r_filmTweakDesaturation "0.2"
+      r_filmTweakEnable "0"
+      r_filmTweakInvert "0"
+      r_filmTweakLightTint "1.1 1.05 0.85"
+      r_filmUseTweaks "0"
+      r_floatz "1"
+      r_fog "1"
+      r_forceLod "none"
+      r_fullbright "0"
+      r_fullscreen "0"
+      r_gamma "1.65575"
+      r_glow "1"
+      r_glow_allowed "0"
+      r_glow_allowed_script_forced "0"
+      r_glowTweakBloomCutoff "0.5"
+      r_glowTweakBloomDesaturation "0"
+      r_glowTweakBloomIntensity0 "1"
+      r_glowTweakEnable "0"
+      r_glowTweakRadius0 "5"
+      r_glowUseTweaks "0"
+      r_gpuSync "adaptive"
+      r_highLodDist "-1"
+      r_ignore "0"
+      r_ignorehwgamma "0"
+      r_inGameVideo "1"
+      r_lightMap "Unchanged"
+      r_lightTweakAmbient "0.1"
+      r_lightTweakAmbientColor "1 0 0 1"
+      r_lightTweakDiffuseFraction "0.5"
+      r_lightTweakSunColor "0 1 0 1"
+      r_lightTweakSunDiffuseColor "0 0 1 1"
+      r_lightTweakSunDirection "0 0 0"
+      r_lightTweakSunLight "1"
+      r_loadForRenderer "0"
+      r_lockPvs "0"
+      r_lodBiasRigid "0"
+      r_lodBiasSkinned "0"
+      r_lodScaleRigid "1"
+      r_lodScaleSkinned "1"
+      r_logFile "0"
+      r_lowestLodDist "-1"
+      r_lowLodDist "-1"
+      r_mediumLodDist "-1"
+      r_mode "1152x648"
+      r_modelVertColor "1"
+      r_monitor "0"
+      r_multiGpu "0"
+      r_norefresh "0"
+      r_normal "1"
+      r_normalMap "Unchanged"
+      r_outdoor "1"
+      r_outdoorAwayBias "32"
+      r_outdoorDownBias "0"
+      r_outdoorFeather "8"
+      r_picmip "0"
+      r_picmip_bump "0"
+      r_picmip_manual "0"
+      r_picmip_spec "0"
+      r_picmip_water "0"
+      r_polygonOffsetBias "-1"
+      r_polygonOffsetScale "-1"
+      r_portalBevels "0.7"
+      r_portalBevelsOnly "0"
+      r_portalMinClipArea "0.02"
+      r_portalMinRecurseDepth "2"
+      r_portalWalkLimit "0"
+      r_preloadShaders "0"
+      r_pretess "1"
+      r_reflectionProbeGenerate "0"
+      r_reflectionProbeGenerateExit "0"
+      r_reflectionProbeRegenerateAll "0"
+      r_rendererInUse "Default"
+      r_rendererPreference "Default"
+      r_resampleScene "1"
+      r_scaleViewport "1"
+      r_showFbColorDebug "None"
+      r_showFloatZDebug "0"
+      r_showLightGrid "0"
+      r_showMissingLightGrid "0"
+      r_showPixelCost "off"
+      r_showPortals "0"
+      r_singleCell "0"
+      r_skinCache "1"
+      r_skipPvs "0"
+      r_smc_enable "1"
+      r_smp_backend "1"
+      r_smp_worker "1"
+      r_smp_worker_thread0 "1"
+      r_smp_worker_thread1 "1"
+      r_specular "0"
+      r_specularColorScale "1"
+      r_specularMap "Unchanged"
+      r_spotLightBrightness "14"
+      r_spotLightEndRadius "196"
+      r_spotLightEntityShadows "1"
+      r_spotLightFovInnerFraction "0.7"
+      r_spotLightShadows "1"
+      r_spotLightSModelShadows "1"
+      r_spotLightStartRadius "36"
+      r_sse_skinning "1"
+      r_sun_from_dvars "0"
+      r_sun_fx_position "0 0 0"
+      r_sunblind_fadein "0.5"
+      r_sunblind_fadeout "3"
+      r_sunblind_max_angle "5"
+      r_sunblind_max_darken "0.75"
+      r_sunblind_min_angle "30"
+      r_sunflare_fadein "1"
+      r_sunflare_fadeout "1"
+      r_sunflare_max_alpha "1"
+      r_sunflare_max_angle "2"
+      r_sunflare_max_size "2500"
+      r_sunflare_min_angle "45"
+      r_sunflare_min_size "0"
+      r_sunflare_shader "sun_flare"
+      r_sunglare_fadein "0.5"
+      r_sunglare_fadeout "3"
+      r_sunglare_max_angle "5"
+      r_sunglare_max_lighten "0.75"
+      r_sunglare_min_angle "30"
+      r_sunsprite_shader "sun"
+      r_sunsprite_size "16"
+      r_texFilterAnisoMax "4"
+      r_texFilterAnisoMin "1"
+      r_texFilterDisable "0"
+      r_texFilterMipBias "0"
+      r_texFilterMipMode "Unchanged"
+      r_useLayeredMaterials "0"
+      r_vc_makelog "0"
+      r_vc_showlog "0"
+      r_vsync "0"
+      r_warningRepeatDelay "5"
+      r_zfar "0"
+      r_zFeather "0"
+      r_znear "4"
+      r_znear_depthhack "0.1"
+      ragdoll_enable "0"
+      ragdoll_max_simulating "16"
+      rate "25000"
+      rcon_password "wh.team.2k17"
+      sc_blur "2"
+      sc_count "24"
+      sc_debugCasterCount "24"
+      sc_debugReceiverCount "24"
+      sc_enable "0"
+      sc_fadeRange "0.25"
+      sc_length "400"
+      sc_offscreenCasterLodBias "0"
+      sc_offscreenCasterLodScale "20"
+      sc_shadowInRate "2"
+      sc_shadowOutRate "5"
+      sc_showDebug "0"
+      sc_showOverlay "0"
+      sc_wantCount "12"
+      sc_wantCountMargin "1"
+      scr_allow_testclients "1"
+      scr_ctf_numlives "0"
+      scr_ctf_playerrespawndelay "0"
+      scr_ctf_roundlimit "2"
+      scr_ctf_roundswitch "1"
+      scr_ctf_scorelimit "10"
+      scr_ctf_timelimit "5"
+      scr_ctf_waverespawndelay "15"
+      scr_dm_numlives "0"
+      scr_dm_playerrespawndelay "0"
+      scr_dm_roundlimit "1"
+      scr_dm_scorelimit "150"
+      scr_dm_timelimit "10"
+      scr_dm_waverespawndelay "0"
+      scr_dom_numlives "0"
+      scr_dom_playerrespawndelay "0"
+      scr_dom_roundlimit "1"
+      scr_dom_scorelimit "200"
+      scr_dom_timelimit "0"
+      scr_dom_waverespawndelay "0"
+      scr_drawfriend "1"
+      scr_enable_hiticon "2"
+      scr_enable_scoretext "1"
+      scr_game_allowkillcam "1"
+      scr_game_deathpointloss "0"
+      scr_game_forceuav "0"
+      scr_game_graceperiod "0"
+      scr_game_hardpoints "1"
+      scr_game_matchstarttime "10"
+      scr_game_onlyheadshots "0"
+      scr_game_perks "1"
+      scr_game_spectatetype "1"
+      scr_game_suicidepointloss "0"
+      scr_hardcore "0"
+      scr_hardpoint_allowartillery "1"
+      scr_hardpoint_allowhelicopter "1"
+      scr_hardpoint_allowuav "1"
+      scr_koth_numlives "0"
+      scr_koth_playerrespawndelay "0"
+      scr_koth_roundlimit "1"
+      scr_koth_roundswitch "1"
+      scr_koth_scorelimit "250"
+      scr_koth_timelimit "15"
+      scr_koth_waverespawndelay "0"
+      scr_motd "JÃ³ JÃ¡tÃ©kot"
+      scr_oldschool "0"
+      scr_player_forcerespawn "1"
+      scr_player_healthregentime "5"
+      scr_player_maxhealth "100"
+      scr_player_numlives "0"
+      scr_player_respawndelay "0"
+      scr_player_sprinttime "4"
+      scr_player_suicidespawndelay "0"
+      scr_sab_bombtimer "30"
+      scr_sab_defusetime "5"
+      scr_sab_hotpotato "0"
+      scr_sab_numlives "0"
+      scr_sab_planttime "2.5"
+      scr_sab_playerrespawndelay "7.5"
+      scr_sab_roundlimit "0"
+      scr_sab_roundswitch "1"
+      scr_sab_scorelimit "1"
+      scr_sab_timelimit "20"
+      scr_sab_waverespawndelay "0"
+      scr_sd_bombtimer "45"
+      scr_sd_defusetime "5"
+      scr_sd_multibomb "0"
+      scr_sd_numlives "1"
+      scr_sd_planttime "5"
+      scr_sd_playerrespawndelay "0"
+      scr_sd_roundlimit "0"
+      scr_sd_roundswitch "3"
+      scr_sd_scorelimit "4"
+      scr_sd_timelimit "2.5"
+      scr_sd_waverespawndelay "0"
+      scr_team_fftype "0"
+      scr_team_kickteamkillers "0"
+      scr_team_respawntime "0"
+      scr_team_teamkillpointloss "5"
+      scr_team_teamkillspawndelay "0"
+      scr_testclients "0"
+      scr_war_numlives "0"
+      scr_war_playerrespawndelay "0"
+      scr_war_roundlimit "1"
+      scr_war_scorelimit "750"
+      scr_war_timelimit "10"
+      scr_war_waverespawndelay "0"
+      scr_xpscale "1"
+      sensitivity "5"
+      server1 ""
+      server10 ""
+      server11 ""
+      server12 ""
+      server13 ""
+      server14 ""
+      server15 ""
+      server16 ""
+      server2 ""
+      server3 ""
+      server4 ""
+      server5 ""
+      server6 ""
+      server7 ""
+      server8 ""
+      server9 ""
+      shortversion "1.7"
+      showdrop "0"
+      showpackets "0"
+      sm_enable "0"
+      sm_fastSunShadow "1"
+      sm_lightScore_eyeProjectDist "64"
+      sm_lightScore_spotProjectFrac "0.125"
+      sm_maxLights "4"
+      sm_polygonOffsetBias "0.5"
+      sm_polygonOffsetScale "2"
+      sm_qualitySpotShadow "1"
+      sm_spotEnable "1"
+      sm_spotShadowFadeTime "1"
+      sm_strictCull "1"
+      sm_sunEnable "1"
+      sm_sunSampleSizeNear "0.25"
+      sm_sunShadowCenter "0 0 0"
+      sm_sunShadowScale "1"
+      snaps "30"
+      snd_cinematicVolumeScale "0.85"
+      snd_enableEq "1"
+      snd_errorOnMissing "0"
+      snd_khz "44"
+      snd_levelFadeTime "250"
+      snd_outputConfiguration "Windows default"
+      snd_slaveFadeTime "500"
+      snd_touchStreamFilesOnLoad "0"
+      snd_volume "0"
+      stat_version "10"
+      sv_allowAnonymous "1"
+      sv_allowDownload "1"
+      sv_allowedClan1 ""
+      sv_allowedClan2 ""
+      sv_botsPressAttackBtn "1"
+      sv_cheats "0"
+      sv_clientArchive "1"
+      sv_clientSideBullets "1"
+      sv_connectTimeout "45"
+      sv_debugRate "0"
+      sv_debugReliableCmds "0"
+      sv_disableClientConsole "0"
+      sv_FFCheckSums ""
+      sv_FFNames ""
+      sv_floodprotect "4"
+      sv_fps "20"
+      sv_gamespy "1"
+      sv_hostname "GameTrackerClaimServer"
+      sv_iwdNames ""
+      sv_iwds ""
+      sv_keywords ""
+      sv_kickBanTime "0"
+      sv_log_damage "1"
+      sv_mapRotation "map mp_backlot map mp_crash map mp_crossfire map mp_citystreets map mp_strike"
+      sv_mapRotationCurrent ""
+      sv_master1 "cod4master.activision.com"
+      sv_master2 "cod4authorize.activision.com"
+      sv_master3 "cod4master.infinityward.com"
+      sv_master4 "cod4update.activision.com"
+      sv_master5 "master.gamespy.com:28960"
+      sv_master6 "master0.gamespy.com"
+      sv_master7 "master1.gamespy.com"
+      sv_master8 "clanservers.net"
+      sv_maxclients "21"
+      sv_maxPing "0"
+      sv_maxRate "25000"
+      sv_minPing "0"
+      sv_packet_info "0"
+      sv_padPackets "0"
+      sv_paused "0"
+      sv_privateClients "0"
+      sv_privatePassword ""
+      sv_punkbuster "1"
+      sv_pure "1"
+      sv_reconnectlimit "3"
+      sv_referencedFFCheckSums ""
+      sv_referencedFFNames ""
+      sv_referencedIwdNames ""
+      sv_referencedIwds ""
+      sv_running "0"
+      sv_serverid "0"
+      sv_showAverageBPS "0"
+      sv_showCommands "0"
+      sv_timeout "240"
+      sv_voice "0"
+      sv_voiceQuality "3"
+      sv_wwwBaseURL "http://37.17.172.50/fast/user18/27085/"
+      sv_wwwDIDisconnected "1"
+      sv_wwwDlDisconnected "0"
+      sv_wwwDownload "1"
+      sv_zombietime "2"
+      sys_configSum "0"
+      sys_configureGHz "8.88183"
+      sys_cpuGHz "2.67766"
+      sys_cpuName "AMD A6-3650 APU with Radeon(tm) HD Graphics"
+      sys_gpu "AMD Radeon R7 200 Series"
+      sys_lockThreads "none"
+      sys_smp_allowed "1"
+      sys_SSE "1"
+      sys_sysMB "1024"
+      timescale "1"
+      ui_allow_controlschange "1"
+      ui_bigFont "0.4"
+      ui_borderLowLightScale "0.35"
+      ui_browserFriendlyfire "-1"
+      ui_browserHardcore "-1"
+      ui_browserKillcam "-1"
+      ui_browserMod "0"
+      ui_browserOldSchool "-1"
+      ui_browserShowDedicated "0"
+      ui_browserShowEmpty "1"
+      ui_browserShowFull "1"
+      ui_browserShowPassword "-1"
+      ui_browserShowPunkBuster "-1"
+      ui_browserShowPure "1"
+      ui_buildLocation "-60 460"
+      ui_currentMap "0"
+      ui_currentNetMap "0"
+      ui_dedicated "0"
+      ui_drawCrosshair "1"
+      ui_extraBigFont "0.55"
+      ui_gametype "0"
+      ui_hud_hardcore "0"
+      ui_hud_obituaries "1"
+      ui_hud_showobjicons "1"
+      ui_joinGametype "0"
+      ui_mapname "mp_backlot"
+      ui_maxclients "32"
+      ui_mousePitch "0"
+      ui_netGametype "0"
+      ui_netGametypeName "dm"
+      ui_netSource "1"
+      ui_playerProfileAlreadyChosen "0"
+      ui_serverStatusTimeOut "7000"
+      ui_showmap "1"
+      ui_smallFont "0.25"
+      useFastFile "1"
+      vehDriverViewHeightMax "50"
+      vehDriverViewHeightMin "-15"
+      version "CoD4 MP 1.7 build 568 nightly Wed Jun 18 2008 04:48:38PM win-x86"
+      vid_xpos "547"
+      vid_ypos "326"
+      voice_deadChat "1"
+      voice_global "1"
+      voice_localEcho "1"
+      waypointIconHeight "36"
+      waypointIconWidth "36"
+      waypointOffscreenPointerDistance "20"
+      weap_allow_ak47 "1"
+      weap_allow_ak74u "1"
+      weap_allow_beretta "1"
+      weap_allow_colt45 "1"
+      weap_allow_deserteagle "1"
+      weap_allow_deserteaglegold "1"
+      weap_allow_flash_grenade "1"
+      weap_allow_frag_grenade "1"
+      weap_allow_g3 "1"
+      weap_allow_g36c "1"
+      weap_allow_m1014 "1"
+      weap_allow_m14 "1"
+      weap_allow_m16 "1"
+      weap_allow_m4 "1"
+      weap_allow_m40a3 "1"
+      weap_allow_mp44 "1"
+      weap_allow_mp5 "1"
+      weap_allow_remington700 "1"
+      weap_allow_smoke_grenade "1"
+      weap_allow_usp "1"
+      weap_allow_uzi "1"
+      weap_allow_winchester1200 "1"
+      wideScreen "1"
+      winvoice_mic_mute "0"
+      winvoice_mic_reclevel "0"
+      winvoice_mic_scaler "1"
+      winvoice_save_voice "0"
+
+824 total dvars
+824 dvar indexes
+=============================== END DVAR DUMP =====================================
+      dvar set dedicated dedicated internet server
+dedicated is read only.
+      dvar set fs_game Mods/wh_promod
+fs_game is write protected.
+      dvar set sv_punkbuster 1
+sv_punkbuster is write protected.
+Unknown command "selectStringTableEntryInDvar"
+      dvar set g_gametype sd
+      dvar set g_gametype sd
+Loaded zone 'common_mp'
+Loaded zone 'localized_common_mp'
+      dvar set mapname mp_crash
+------ Server Initialization ------
+Server: mp_crash
+      dvar set ui_maxclients 32
+      dvar set sv_maxclients 21
+      dvar set sv_running 1
+Current language: english
+Current search path:
+C:\cod4 promod mod\mods\wh_promod\wh.iwd (52 files)
+C:\cod4 promod mod/mods/wh_promod
+C:\cod4 promod mod\main\iw_13.iwd (265 files)
+C:\cod4 promod mod\main\iw_12.iwd (33 files)
+C:\cod4 promod mod\main\iw_11.iwd (448 files)
+C:\cod4 promod mod\main\iw_10.iwd (230 files)
+C:\cod4 promod mod\main\iw_09.iwd (447 files)
+C:\cod4 promod mod\main\iw_08.iwd (66 files)
+C:\cod4 promod mod\main\iw_07.iwd (34 files)
+C:\cod4 promod mod\main\iw_06.iwd (416 files)
+C:\cod4 promod mod\main\iw_05.iwd (716 files)
+C:\cod4 promod mod\main\iw_04.iwd (765 files)
+C:\cod4 promod mod\main\iw_03.iwd (670 files)
+C:\cod4 promod mod\main\iw_02.iwd (1296 files)
+C:\cod4 promod mod\main\iw_01.iwd (1456 files)
+C:\cod4 promod mod\main\iw_00.iwd (1054 files)
+C:\cod4 promod mod/main
+C:\cod4 promod mod/main_shared
+C:\cod4 promod mod/players
+C:\cod4 promod mod/mods/wh_promod/english
+    localized assets game folder for english
+C:\cod4 promod mod\main\localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: console_mp.log
+----------------------
+48590 files in iwd files
+      dvar set loc_language 0
+      dvar set loc_forceEnglish 0
+Loading fastfile mp_crash
+      dvar set nextmap map_restart
+      dvar set cl_paused 0
+Waited 383 msec for asset 'maps/mp/mp_crash.d3dbsp' of type 'col_map_mp'.
+      dvar set sv_serverid 16
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Jun 18 2008
+      dvar set g_gametype sd
+      dvar set ui_maxclients 32
+      dvar set sv_maxclients 21
+      dvar set dedicated dedicated internet server
+      dvar set dedicated dedicated internet server
+      dvar set g_compassShowEnemies 0
+      dvar set g_useholdspawndelay 500
+      dvar set g_redCrosshairs 1
+      dvar set bg_fallDamageMinHeight 128
+      dvar set bg_fallDamageMaxHeight 300
+      dvar set masterServerName FrozenKiller_RuLeZ.com   
+      dvar set authServerName FrozenKiller_RuLeZ.com   
+      dvar set masterPort 20810
+      dvar set authPort 20800
+      dvar set com_timescale 1
+      dvar set timescale 1
+      dvar set fixedtime 0
+      dvar set fs_ignoreLocalized 0
+      dvar set bg_fallDamageMaxHeight 300
+      dvar set bg_fallDamageMinHeight 128
+      dvar set g_compassShowEnemies 0
+      dvar set g_useholdspawndelay 500
+      dvar set onlinegame 1
+      dvar set r_texFilterDisable 0
+      dvar set r_texFilterMipBias 0
+      dvar set r_fullbright 0
+      dvar set r_debugShader none
+      dvar set r_znear 4
+      dvar set r_znear_depthhack 0.1
+      dvar set r_zfar 0
+      dvar set r_fog 1
+      dvar set r_lightMap Unchanged
+      dvar set r_colorMap Unchanged
+      dvar set r_normalMap Unchanged
+      dvar set r_specularMap Unchanged
+      dvar set r_specularColorScale 1
+      dvar set r_diffuseColorScale 1
+      dvar set r_resampleScene 1
+      dvar set r_showPixelCost off
+      dvar set r_showLightGrid 0
+      dvar set r_showMissingLightGrid 0
+      dvar set r_lightTweakSunLight 1
+      dvar set r_lightTweakSunColor 0 1 0 1
+      dvar set r_lightTweakSunDirection 0 0 0
+      dvar set r_norefresh 0
+      dvar set r_scaleViewport 1
+      dvar set r_spotLightFovInnerFraction 0.7
+      dvar set r_spotLightStartRadius 36
+      dvar set r_spotLightEndRadius 196
+      dvar set r_spotLightShadows 1
+      dvar set r_spotLightSModelShadows 1
+      dvar set r_spotLightEntityShadows 1
+      dvar set r_spotLightBrightness 14
+      dvar set r_lockPvs 0
+      dvar set r_skipPvs 0
+      dvar set r_singleCell 0
+      dvar set r_portalWalkLimit 0
+      dvar set r_portalMinRecurseDepth 2
+      dvar set r_showPortals 0
+      dvar set r_showFbColorDebug None
+      dvar set r_showFloatZDebug 0
+      dvar set r_highLodDist -1
+      dvar set r_mediumLodDist -1
+      dvar set r_lowLodDist -1
+      dvar set r_lowestLodDist -1
+      dvar set r_forceLod none
+      dvar set r_modelVertColor 1
+      dvar set sc_blur 2
+      dvar set sc_count 24
+      dvar set sc_debugCasterCount 24
+      dvar set sc_debugReceiverCount 24
+      dvar set sc_showOverlay 0
+      dvar set sc_showDebug 0
+      dvar set sc_wantCount 12
+      dvar set sc_wantCountMargin 1
+      dvar set sc_fadeRange 0.25
+      dvar set sc_shadowInRate 2
+      dvar set sc_shadowOutRate 5
+      dvar set sc_length 400
+      dvar set sc_offscreenCasterLodBias 0
+      dvar set sc_offscreenCasterLodScale 20
+      dvar set sm_sunEnable 1
+      dvar set sm_spotEnable 1
+      dvar set sm_sunSampleSizeNear 0.25
+      dvar set sm_sunShadowCenter 0 0 0
+      dvar set sm_sunShadowScale 1
+      dvar set sm_strictCull 1
+      dvar set sm_fastSunShadow 1
+      dvar set sm_qualitySpotShadow 1
+      dvar set r_blur 0
+      dvar set r_glow 1
+      dvar set r_glowUseTweaks 0
+      dvar set r_glowTweakEnable 0
+      dvar set r_glowTweakRadius0 5
+      dvar set r_glowTweakBloomIntensity0 1
+      dvar set r_glowTweakBloomCutoff 0.5
+      dvar set r_glowTweakBloomDesaturation 0
+      dvar set r_filmUseTweaks 0
+      dvar set r_contrast 1
+      dvar set r_brightness 0
+      dvar set r_desaturation 1
+      dvar set r_dof_tweak 0
+      dvar set r_dof_nearBlur 6
+      dvar set r_dof_farBlur 1.8
+      dvar set r_dof_viewModelStart 2
+      dvar set r_dof_viewModelEnd 8
+      dvar set r_dof_nearStart 10
+      dvar set r_dof_nearEnd 60
+      dvar set r_dof_farStart 1000
+      dvar set r_dof_farEnd 7000
+      dvar set r_dof_bias 0.5
+      dvar set r_sun_from_dvars 0
+      dvar set clientSideEffects 1
+      dvar set g_debugDamage 0
+      dvar set g_debugBullets 0
+      dvar set bullet_penetrationEnabled 1
+      dvar set g_entinfo off
+      dvar set g_debugLocDamage 0
+      dvar set g_friendlyfireDist 256
+      dvar set g_friendlyNameDist 15000
+      dvar set melee_debug 0
+      dvar set radius_damage_debug 0
+      dvar set player_throwbackInnerRadius 90
+      dvar set player_throwbackOuterRadius 160
+      dvar set player_MGUseRadius 128
+      dvar set g_minGrenadeDamageSpeed 400
+      dvar set pickupPrints 0
+      dvar set g_dumpAnims -1
+      dvar set g_mantleBlockTimeBuffer 500
+      dvar set vehHelicopterMaxSpeed 150
+      dvar set vehHelicopterMaxSpeedVertical 65
+      dvar set vehHelicopterMaxAccel 45
+      dvar set vehHelicopterMaxAccelVertical 30
+      dvar set vehHelicopterMaxYawRate 120
+      dvar set vehHelicopterMaxYawAccel 90
+      dvar set vehHelicopterMaxPitch 35
+      dvar set vehHelicopterMaxRoll 35
+      dvar set vehHelicopterLookaheadTime 1
+      dvar set vehHelicopterHoverSpeedThreshold 400
+      dvar set vehHelicopterRightStickDeadzone 0.3
+      dvar set vehHelicopterStrafeDeadzone 0.3
+      dvar set vehHelicopterScaleMovement 1
+      dvar set vehHelicopterSoftCollisions 0
+      dvar set vehHelicopterDecelerationFwd 0.5
+      dvar set vehHelicopterDecelerationSide 1
+      dvar set vehHelicopterInvertUpDown 0
+      dvar set vehHelicopterYawOnLeftStick 5
+      dvar set vehHelicopterTiltSpeed 1.2
+      dvar set vehHelicopterTiltFromAcceleration 2
+      dvar set vehHelicopterTiltFromDeceleration 2
+      dvar set vehHelicopterTiltFromVelocity 1
+      dvar set vehHelicopterTiltFromControllerAxes 0
+      dvar set vehHelicopterTiltFromFwdAndYaw 0
+      dvar set vehHelicopterTiltFromFwdAndYaw_VelAtMaxTilt 1
+      dvar set vehHelicopterTiltMomentum 0.4
+      dvar set vehDebugServer 0
+      dvar set vehTextureScrollScale 0
+      dvar set vehTestHorsepower 200
+      dvar set vehTestWeight 5200
+      dvar set vehTestMaxMPH 40
+      dvar set missileHellfireMaxSlope 0.5
+      dvar set missileHellfireUpAccel 1000
+      dvar set missileJavClimbHeightDirect 10000
+      dvar set missileJavClimbHeightTop 15000
+      dvar set missileJavClimbAngleDirect 85
+      dvar set missileJavClimbAngleTop 50
+      dvar set missileJavClimbCeilingDirect 0
+      dvar set missileJavClimbCeilingTop 3000
+      dvar set missileJavTurnRateDirect 60
+      dvar set missileJavTurnRateTop 100
+      dvar set missileJavAccelClimb 300
+      dvar set missileJavAccelDescend 3000
+      dvar set missileJavSpeedLimitClimb 1000
+      dvar set missileJavSpeedLimitDescend 6000
+      dvar set missileJavTurnDecel 0.05
+      dvar set missileJavClimbToOwner 700
+      dvar set missileWaterMaxDepth 60
+      dvar set bg_viewKickScale 0.2
+      dvar set bg_viewKickMax 90
+      dvar set bg_viewKickMin 5
+      dvar set bg_viewKickRandom 0.4
+      dvar set player_view_pitch_up 85
+      dvar set player_view_pitch_down 85
+      dvar set player_lean_shift_left 5
+      dvar set player_lean_shift_right 9
+      dvar set player_lean_shift_crouch_left 4
+      dvar set player_lean_shift_crouch_right 15
+      dvar set player_lean_rotate_left 0.8
+      dvar set player_lean_rotate_right 0.4
+      dvar set player_lean_rotate_crouch_left 0.8
+      dvar set player_lean_rotate_crouch_right 0.3
+      dvar set bg_ladder_yawcap 100
+      dvar set bg_prone_yawcap 85
+      dvar set bg_foliagesnd_minspeed 40
+      dvar set bg_foliagesnd_maxspeed 180
+      dvar set bg_foliagesnd_slowinterval 1500
+      dvar set bg_foliagesnd_fastinterval 500
+      dvar set bg_foliagesnd_resetinterval 500
+      dvar set inertiaMax 50
+      dvar set inertiaDebug 0
+      dvar set inertiaAngle 0
+      dvar set friction 5.5
+      dvar set stopspeed 100
+      dvar set bg_swingSpeed 0.2
+      dvar set bg_legYawTolerance 20
+      dvar set bg_bobAmplitudeSprinting 0.02 0.014
+      dvar set bg_bobAmplitudeStanding 0.007 0.007
+      dvar set bg_bobAmplitudeDucked 0.0075 0.0075
+      dvar set bg_bobAmplitudeProne 0.02 0.005
+      dvar set bg_bobMax 8
+      dvar set bg_aimSpreadMoveSpeedThreshold 11
+      dvar set bg_maxGrenadeIndicatorSpeed 20
+      dvar set player_breath_hold_time 4.5
+      dvar set player_breath_gasp_time 1
+      dvar set player_breath_fire_delay 0
+      dvar set player_breath_gasp_scale 4.5
+      dvar set player_breath_hold_lerp 1
+      dvar set player_breath_gasp_lerp 6
+      dvar set player_breath_snd_lerp 2
+      dvar set player_breath_snd_delay 1
+      dvar set player_scopeExitOnDamage 0
+      dvar set player_adsExitDelay 0
+      dvar set player_move_factor_on_torso 0
+      dvar set player_debugHealth 0
+      dvar set player_sustainAmmo 0
+      dvar set player_moveThreshhold 10
+      dvar set player_footstepsThreshhold 0
+      dvar set player_strafeSpeedScale 0.8
+      dvar set player_backSpeedScale 0.7
+      dvar set player_strafeAnimCosAngle 0.5
+      dvar set player_spectateSpeedScale 1
+      dvar set player_sprintSpeedScale 1.5
+      dvar set player_sprintTime 4
+      dvar set player_sprintMinTime 1
+      dvar set player_sprintRechargePause 0
+      dvar set player_sprintStrafeSpeedScale 0.667
+      dvar set player_sprintCameraBob 0.5
+      dvar set player_turnAnims 0
+      dvar set player_dmgtimer_timePerPoint 100
+      dvar set player_dmgtimer_maxTime 750
+      dvar set player_dmgtimer_minScale 0
+      dvar set player_dmgtimer_stumbleTime 500
+      dvar set player_dmgtimer_flinchTime 500
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set player_meleeRange 64
+      dvar set player_meleeWidth 10
+      dvar set player_meleeHeight 10
+      dvar set player_meleeChargeFriction 1200
+      dvar set player_burstFireCooldown 0.2
+      dvar set bullet_penetrationMinFxDist 30
+      dvar set jump_height 39
+      dvar set jump_stepSize 18
+      dvar set jump_slowdownEnable 1
+      dvar set jump_ladderPushVel 128
+      dvar set jump_spreadAdd 64
+      dvar set mantle_enable 1
+      dvar set mantle_debug 0
+      dvar set mantle_check_range 20
+      dvar set mantle_check_radius 0.1
+      dvar set mantle_check_angle 60
+      dvar set mantle_view_yawcap 60
+      dvar set perk_weapSpreadMultiplier 0.65
+      dvar set perk_weapReloadMultiplier 0.5
+      dvar set perk_weapRateMultiplier 0.75
+      dvar set perk_extraBreath 5
+      dvar set perk_bulletPenetrationMultiplier 2
+      dvar set perk_grenadeDeath frag_grenade_short_mp
+      dvar set perk_parabolicRadius 400
+      dvar set perk_parabolicAngle 180
+      dvar set perk_parabolicIcon specialty_parabolic
+      dvar set perk_sprintMultiplier 2
+      dvar set g_fogColorReadOnly 1 0 0 1
+      dvar set g_fogStartDistReadOnly 0
+      dvar set g_fogHalfDistReadOnly 0.1
+      dvar set g_gravity 800
+Loaded zone 'mp_crash'
+-----------------------------------
+      dvar set scr_sd_bombtimer 45
+      dvar set scr_sd_defusetime 7
+      dvar set scr_sd_multibomb 0
+      dvar set scr_sd_numlives 1
+      dvar set scr_sd_planttime 5
+      dvar set scr_sd_playerrespawndelay 0
+      dvar set scr_sd_roundlimit 20
+      dvar set scr_sd_roundswitch 10
+      dvar set scr_sd_scorelimit 0
+      dvar set scr_sd_timelimit 1.75
+      dvar set scr_sd_waverespawndelay 0
+      dvar set scr_dom_numlives 0
+      dvar set scr_dom_playerrespawndelay 7
+      dvar set scr_dom_roundlimit 2
+      dvar set scr_dom_scorelimit 0
+      dvar set scr_dom_timelimit 15
+      dvar set scr_dom_waverespawndelay 0
+      dvar set koth_autodestroytime 120
+      dvar set koth_capturetime 20
+      dvar set koth_delayPlayer 0
+      dvar set koth_destroytime 10
+      dvar set koth_kothmode 0
+      dvar set koth_spawnDelay 45
+      dvar set koth_spawntime 10
+      dvar set scr_koth_numlives 0
+      dvar set scr_koth_playerrespawndelay 0
+      dvar set scr_koth_roundlimit 2
+      dvar set scr_koth_roundswitch 1
+      dvar set scr_koth_scorelimit 0
+      dvar set scr_koth_timelimit 15
+      dvar set scr_koth_waverespawndelay 0
+      dvar set scr_sab_bombtimer 45
+      dvar set scr_sab_defusetime 5
+      dvar set scr_sab_hotpotato 0
+      dvar set scr_sab_numlives 0
+      dvar set scr_sab_planttime 5
+      dvar set scr_sab_playerrespawndelay 7
+      dvar set scr_sab_roundlimit 4
+      dvar set scr_sab_roundswitch 2
+      dvar set scr_sab_scorelimit 0
+      dvar set scr_sab_timelimit 10
+      dvar set scr_sab_waverespawndelay 0
+      dvar set scr_war_numlives 0
+      dvar set scr_war_playerrespawndelay 0
+      dvar set scr_war_roundlimit 2
+      dvar set scr_war_scorelimit 0
+      dvar set scr_war_timelimit 15
+      dvar set scr_war_waverespawndelay 0
+      dvar set scr_dm_numlives 0
+      dvar set scr_dm_playerrespawndelay 0
+      dvar set scr_dm_roundlimit 1
+      dvar set scr_dm_scorelimit 0
+      dvar set scr_dm_timelimit 10
+      dvar set scr_dm_waverespawndelay 0
+      dvar set class_assault_limit 64
+      dvar set class_specops_limit 2
+      dvar set class_demolitions_limit 1
+      dvar set class_sniper_limit 1
+      dvar set class_assault_allowdrop 1
+      dvar set class_specops_allowdrop 1
+      dvar set class_demolitions_allowdrop 0
+      dvar set class_sniper_allowdrop 0
+      dvar set weap_allow_m16 1
+      dvar set weap_allow_ak47 1
+      dvar set weap_allow_m4 1
+      dvar set weap_allow_g3 1
+      dvar set weap_allow_g36c 1
+      dvar set weap_allow_m14 1
+      dvar set weap_allow_mp44 1
+      dvar set attach_allow_assault_none 1
+      dvar set attach_allow_assault_silencer 1
+      dvar set weap_allow_mp5 1
+      dvar set weap_allow_uzi 1
+      dvar set weap_allow_ak74u 1
+      dvar set attach_allow_specops_none 1
+      dvar set attach_allow_specops_silencer 1
+      dvar set weap_allow_m1014 1
+      dvar set weap_allow_winchester1200 1
+      dvar set weap_allow_m40a3 1
+      dvar set weap_allow_remington700 1
+      dvar set weap_allow_beretta 1
+      dvar set weap_allow_colt45 1
+      dvar set weap_allow_usp 1
+      dvar set weap_allow_deserteagle 1
+      dvar set weap_allow_deserteaglegold 1
+      dvar set attach_allow_pistol_none 1
+      dvar set attach_allow_pistol_silencer 1
+      dvar set weap_allow_flash_grenade 1
+      dvar set weap_allow_frag_grenade 1
+      dvar set weap_allow_smoke_grenade 1
+      dvar set scr_team_fftype 0
+      dvar set scr_team_teamkillpointloss 5
+      dvar set scr_player_forcerespawn 1
+      dvar set scr_game_deathpointloss 0
+      dvar set scr_game_suicidepointloss 0
+      dvar set scr_player_suicidespawndelay 0
+      dvar set bg_fallDamageMinHeight 140
+      dvar set bg_fallDamageMaxHeight 350
+      dvar set logfile 1
+      dvar set g_log games_mp.log
+      dvar set g_logSync 0
+      dvar set g_inactivity 0
+      dvar set g_no_script_spam 1
+      dvar set g_antilag 1
+      dvar set g_smoothClients 1
+      dvar set sv_allowDownload 1
+      dvar set sv_maxPing 0
+      dvar set sv_minPing 0
+      dvar set sv_reconnectlimit 3
+      dvar set sv_timeout 240
+      dvar set sv_zombietime 2
+      dvar set sv_floodprotect 4
+      dvar set sv_kickBanTime 0
+      dvar set sv_disableClientConsole 0
+      dvar set sv_voice 0
+      dvar set sv_clientArchive 1
+      dvar set timescale 1
+      dvar set g_allowVote 0
+      dvar set g_deadChat 1
+      dvar set scr_game_allowkillcam 1
+      dvar set scr_game_spectatetype 1
+      dvar set scr_game_matchstarttime 10
+      dvar set scr_enable_hiticon 2
+      dvar set scr_enable_scoretext 1
+      dvar set promod_allow_strattime 10
+      dvar set promod_allow_readyup 0
+      dvar set promod_kniferound 1
+      dvar set g_maxDroppedWeapons 16
+      dvar set scr_hardcore 0
+      dvar set promod_hud_website 
+      dvar set promod_mc_enable 1
+      dvar set promod_mc_rs_every_round 1
+      dvar set promod_mc_delay 45
+      dvar set promod_mc_loopdelay 45
+      dvar set promod_mc_maxmessages 3
+      dvar set promod_mc_message_1 
+      dvar set promod_mc_message_2 
+      dvar set promod_mc_message_3 
+      dvar set promod_mc_messagedelay_1 0
+      dvar set scr_player_maxhealth 100
+      dvar set authServerName cod4master.activision.com
+      dvar set scr_allies usmc
+      dvar set scr_axis arab
+      dvar set bg_bobMax 0
+      dvar set player_sustainAmmo 0
+      dvar set player_throwbackInnerRadius 0
+      dvar set player_throwbackOuterRadius 0
+      dvar set loc_warnings 0
+      dvar set class_assault_limit 64
+      dvar set class_specops_limit 2
+      dvar set class_demolitions_limit 1
+      dvar set class_sniper_limit 1
+      dvar set class_assault_allowdrop 1
+      dvar set class_specops_allowdrop 1
+      dvar set class_demolitions_allowdrop 0
+      dvar set class_sniper_allowdrop 0
+      dvar set weap_allow_m16 1
+      dvar set weap_allow_ak47 1
+      dvar set weap_allow_m4 1
+      dvar set weap_allow_g3 1
+      dvar set weap_allow_g36c 1
+      dvar set weap_allow_m14 1
+      dvar set weap_allow_mp44 1
+      dvar set attach_allow_assault_none 1
+      dvar set attach_allow_assault_silencer 1
+      dvar set weap_allow_mp5 1
+      dvar set weap_allow_uzi 1
+      dvar set weap_allow_ak74u 1
+      dvar set attach_allow_specops_none 1
+      dvar set attach_allow_specops_silencer 1
+      dvar set weap_allow_m1014 1
+      dvar set weap_allow_winchester1200 1
+      dvar set weap_allow_m40a3 1
+      dvar set weap_allow_remington700 1
+      dvar set weap_allow_beretta 1
+      dvar set weap_allow_colt45 1
+      dvar set weap_allow_usp 1
+      dvar set weap_allow_deserteagle 1
+      dvar set weap_allow_deserteaglegold 1
+      dvar set attach_allow_pistol_none 1
+      dvar set attach_allow_pistol_silencer 1
+      dvar set weap_allow_frag_grenade 1
+      dvar set weap_allow_flash_grenade 1
+      dvar set weap_allow_smoke_grenade 1
+      dvar set class_assault_primary ak47
+      dvar set class_assault_primary_attachment none
+      dvar set class_assault_secondary deserteagle
+      dvar set class_assault_secondary_attachment none
+      dvar set class_assault_grenade smoke_grenade
+      dvar set class_assault_camo camo_none
+      dvar set class_specops_primary ak74u
+      dvar set class_specops_primary_attachment none
+      dvar set class_specops_secondary deserteagle
+      dvar set class_specops_secondary_attachment none
+      dvar set class_specops_grenade smoke_grenade
+      dvar set class_specops_camo camo_none
+      dvar set class_demolitions_primary winchester1200
+      dvar set class_demolitions_primary_attachment none
+      dvar set class_demolitions_secondary deserteagle
+      dvar set class_demolitions_secondary_attachment none
+      dvar set class_demolitions_grenade smoke_grenade
+      dvar set class_demolitions_camo camo_none
+      dvar set class_sniper_primary m40a3
+      dvar set class_sniper_primary_attachment none
+      dvar set class_sniper_secondary deserteagle
+      dvar set class_sniper_secondary_attachment none
+      dvar set class_sniper_grenade smoke_grenade
+      dvar set class_sniper_camo camo_none
+      dvar set scr_enable_hiticon 2
+      dvar set scr_enable_scoretext 1
+      dvar set sv_hostname GameTrackerClaimServer
+      dvar set scr_motd JÃ³ JÃ¡tÃ©kot
+      dvar set g_allowVote 0
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 0
+      dvar set bg_shock_screenFlashShotFadeTime 0
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay -1.5
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay -0.75
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/default.shock'
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 45
+      dvar set bg_shock_lookControl_maxyawspeed 45
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType flashed
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 3.5
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundLoop flashbang_tinnitus_loop
+      dvar set bg_shock_soundLoopSilent flashbang_tinnitus_loop_silent
+      dvar set bg_shock_soundEnd flashbang_tinnitus_end
+      dvar set bg_shock_soundEndAbort flashbang_tinnitus_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2
+      dvar set bg_shock_soundModEndDelay 1.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay 2
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 0.6
+      dvar set bg_shock_soundWetLevel 0.8
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/flashbang.shock'
+      dvar set bg_shock_lookControl 0
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 0
+      dvar set g_TeamIcon_Allies faction_128_usmc
+      dvar set g_TeamColor_Allies 0.6 0.639216 0.690196 0
+      dvar set g_ScoresColor_Allies 0.6 0.639216 0.690196 0
+      dvar set g_TeamIcon_Axis faction_128_arab
+      dvar set g_TeamColor_Axis 0.65098 0.568627 0.411765 0
+      dvar set g_ScoresColor_Axis 0.65098 0.568627 0.411765 0
+      dvar set g_TeamName_Allies Támadók
+      dvar set g_TeamName_Axis Védõk
+      dvar set g_ScoresColor_Spectator 0.25098 0.25098 0.25098 0
+      dvar set g_ScoresColor_Free 0.760784 0.780392 0.101961 0
+      dvar set g_TeamColor_MyTeam 0.6 0.8 0.6 0
+      dvar set g_TeamColor_EnemyTeam 1 0.45098 0.501961 0
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 0
+      dvar set bg_shock_screenFlashShotFadeTime 0
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 1.5
+      dvar set bg_shock_sound 0
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay -1.5
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay -0.75
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/frag_grenade_mp.shock'
+      dvar set bg_shock_lookControl 0
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 0
+      dvar set bg_shock_screenFlashShotFadeTime 0
+      dvar set bg_shock_viewKickPeriod 0.001
+      dvar set bg_shock_viewKickRadius 0
+      dvar set bg_shock_viewKickFadeTime 0.001
+      dvar set bg_shock_sound 0
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay -1.5
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay -0.75
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/damage_mp.shock'
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 35
+      dvar set bg_shock_lookControl_maxyawspeed 35
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.1
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set scr_testclients 0
+      dvar set sv_iwds -731582480 2115322797 1043426064 -292863836 173489706 -1846635013 -1079795827 -1041447890 -715502781 489843315 499941093 309900900 -165391090 648005745 -1190209610 
+      dvar set sv_iwdNames wh iw_13 iw_12 iw_11 iw_10 iw_09 iw_08 iw_07 iw_06 iw_05 iw_04 iw_03 iw_02 iw_01 iw_00
+      dvar set sv_referencedIwds -1190209610 -292863836 -731582480 
+      dvar set sv_referencedIwdNames main/iw_00 main/iw_11 mods/wh_promod/wh
+      dvar set sv_referencedFFCheckSums 89196 132970 13517381 35287381
+      dvar set sv_referencedFFNames code_post_gfx_mp mods/wh_promod/mod common_mp mp_crash
+-----------------------------------
+      dvar set sv_cheats 0
+      dvar set net_port 29082
+      dvar set g_gametype sd
+execing server.cfg from disk
+Unknown command "ï»¿"
+      dvar set sv_hostname GameTrackerClaimServer
+      dvar set sv_privateClients 0
+      dvar set sv_privatePassword 
+      dvar set g_password 
+      dvar set rcon_password wh.team.2k17
+      dvar set sv_allowDownload 1
+      dvar set sv_wwwDownload 1
+      dvar set sv_wwwDIDisconnected 1
+      dvar set cl_wwwDownload 1
+      dvar set sv_wwwBaseURL http://37.17.172.50/fast/user18/27085/
+      dvar set sv_kickBanTime 3600
+      dvar set g_gametype sd
+      dvar set scr_allow_testclients 1
+      dvar set scr_testclients 1
+      dvar set sv_mapRotation map mp_backlot map mp_crash map mp_crossfire map mp_citystreets map mp_strike
+      dvar set promod_mode custom_public
+Working directory: C:\cod4 promod mod
+PunkBuster Server: pb_sv_SsNext = 873059 (0 to 999999)
+PunkBuster Server: pb_sv_LogNext = 237 (1 to 999999)
+PunkBuster Server: PB Log File C:\cod4 promod mod\pb\svlogs\00000237.log Opened for COD4 (w)
+PunkBuster Server: 0 Power Players loaded from C:\cod4 promod mod\pb\pbpower.dat
+PunkBuster Server: 0 PB Rcon Filters loaded from C:\cod4 promod mod\pb\pbrcon.dat
+PunkBuster Server: 0 Map lines loaded from C:\cod4 promod mod\pb\pbsvmaps.cfg
+PunkBuster Server: pb_sv_MsgPrefix = ^3PunkBuster Server
+PunkBuster Server: pb_sv_MaxDlRate = 4 (1 to 4)
+PunkBuster Server: pb_sv_MaxConDls = 6 (1 to 6)
+PunkBuster Server: pb_sv_maxsendrate = 8 (1 to 64)
+PunkBuster Server: pb_sv_CQC = 1 (0=No, 1=Yes)
+PunkBuster Server: pb_sv_Sleep = 60 (20 to 100)
+PunkBuster Server: pb_sv_PowerMin = 10 (1 to 1000)
+PunkBuster Server: pb_sv_PowerDef = 1 (0 to 10)
+PunkBuster Server: pb_sv_PowerKickLen = 5 (0 to 60)
+PunkBuster Server: pb_sv_DupNameGrace = 0 (0 to 90)
+PunkBuster Server: pb_sv_ExtChar = 0 (0 to 1)
+PunkBuster Server: pb_sv_GuidRelax = 0 (0 to 7)
+PunkBuster Server: pb_sv_RconReload = 0 (0 to 1)
+PunkBuster Server: Unknown Command/Setting: pb_sv_LogSync 0
+PunkBuster Server: pb_sv_AutoUpdBan = 1 (0 to 1)
+PunkBuster Server: pb_sv_Restrictions = 1 (0 to 2)
+PunkBuster Server: pb_sv_FileWhitelist = 
+PunkBuster Server: pb_sv_EmptyName = 0 (0 to 1)
+PunkBuster Server: pb_sv_LogFloor = 1 (1 to 999999)
+PunkBuster Server: pb_sv_MinName = 0 (0 to 4)
+PunkBuster Server: pb_sv_MaxName = 0 (0 to 31)
+PunkBuster Server: pb_sv_LanMask = 
+PunkBuster Server: pb_sv_Lan = 0 (0 to 1)
+PunkBuster Server: pb_sv_ChangePeriod = 600 (1 to 999)
+PunkBuster Server: pb_sv_ChangeMax = 5 (1 to 50)
+PunkBuster Server: pb_sv_KickLen = 5 (0 to 60)
+PunkBuster Server: pb_sv_ScoreKick = 0 (-20 to 0)
+PunkBuster Server: pb_sv_UpdateGrace = 2400 (300 to 4800)
+PunkBuster Server: pb_sv_NoGuidGrace = 10 (0 to 300)
+PunkBuster Server: pb_sv_AutoSs = 0 (0=No, 1=Yes)
+PunkBuster Server: pb_sv_SsFloor = 1 (1 to 999999)
+PunkBuster Server: pb_sv_SsCeiling = 1000 (1 to 999999)
+PunkBuster Server: pb_sv_AutoSsFrom = 200 (30 to 300)
+PunkBuster Server: pb_sv_AutoSsTo = 600 (300 to 1500)
+PunkBuster Server: pb_sv_SsCmd = 
+PunkBuster Server: pb_sv_SsWidth = 400 (10 to 4096)
+PunkBuster Server: pb_sv_SsHeight = 204 (10 to 4096)
+PunkBuster Server: pb_sv_SsXpct = 50 (-1 to 100)
+PunkBuster Server: pb_sv_SsYpct = 50 (-1 to 100)
+PunkBuster Server: pb_sv_SsSrate = 1 (0 to 4)
+PunkBuster Server: pb_sv_SsDelay = 3 (0 to 60)
+PunkBuster Server: pb_sv_SsPath = 
+PunkBuster Server: pb_sv_ssLogging = 3 (0 to 3)
+PunkBuster Server: pb_sv_ssTimeout = 300 (0 to 1200)
+PunkBuster Server: pb_sv_HttpPort = 0 (0 to 65535)
+PunkBuster Server: pb_sv_HttpAddr = 
+PunkBuster Server: pb_sv_HttpKey = *****
+PunkBuster Server: pb_sv_HttpRefresh = 30 (10 to 999)
+PunkBuster Server: pb_sv_HttpMaps = 
+PunkBuster Server: pb_sv_HttpMapsPath = 
+PunkBuster Server: pb_sv_HttpColText1 = FFFFFF
+PunkBuster Server: pb_sv_HttpColText2 = 0000FF
+PunkBuster Server: pb_sv_HttpColBack1 = 000000
+PunkBuster Server: pb_sv_HttpColBack2 = 808080
+PunkBuster Server: pb_sv_HttpColLine1 = FF0000
+PunkBuster Server: pb_sv_HttpColLine2 = 0000FF
+PunkBuster Server: pb_sv_HttpColMsg = FF0000
+PunkBuster Server: pb_sv_HttpShowGuid = 1 (0 to 1)
+PunkBuster Server: pb_sv_CvarFreq = 3 (2 to 10)
+PunkBuster Server: pb_sv_CvarLogging = 1 (0 to 3)
+PunkBuster Server: pb_sv_CvarWalk = 2 (0 to 4)
+PunkBuster Server: pb_sv_CvarUserPulse = 99 (10 to 99)
+PunkBuster Server: pb_sv_CvarChangedPulse = 60 (10 to 99)
+PunkBuster Server: pb_sv_md5toolfreq = 50 (10 to 300)
+PunkBuster Server: pb_sv_AliasFn = pbalias.dat
+PunkBuster Server: pb_sv_AliasAutoLoad = 0 (0 to 1)
+PunkBuster Server: pb_sv_AliasMax = 10 (0 to 99)
+PunkBuster Server: pb_sv_AliasMaxEnforce = 0 (0 to 1)
+PunkBuster Server: PB Scheduled Task Added: 0 7200 pb_sv_ver
+PunkBuster Server: PB Scheduled Task Added: 0 86400 pb_sv_update
+PunkBuster Server: PB Scheduled Task Added: 100 600 pb_sv_guidrelax 0
+PunkBuster Server: Bad Name List (in Memory) has been Emptied
+PunkBuster Server: Added Protected Tag: 1 "PBSTAFF"
+PunkBuster Server: Added Protected Tag: 1 "PBBans"
+PunkBuster Server: Ban List (in Memory) has been Emptied
+PunkBuster Server: 0 Bans loaded from C:\cod4 promod mod\pb\pbbans.dat
+PunkBuster Server: pb_sv_USessionLimit = 10 (0 to 16)
+PunkBuster Server: pb_sv_UConTimeout = 300 (60 to 6000)
+PunkBuster Server: PB UCON Profile List (in Memory) has been Emptied
+PunkBuster Server: PB UCON Profile added type=1 mask="66.55.152.232" name="pbbhub3-1"
+PunkBuster Server: PB UCON Profile added type=1 mask="66.55.152.233" name="pbbhub3-2"
+PunkBuster Server: PB UCON Profile added type=1 mask="66.55.152.234" name="pbbhub3-3"
+PunkBuster Server: PB UCON Ignore List (in Memory) has been Emptied
+PunkBuster Server: PB UCON Ignore added "quit"
+PunkBuster Server: PB UCON Ignore added "pb_sv_md5toolfreq"
+PunkBuster Server: Config File written to C:\cod4 promod mod\pb\pbucon.use
+PunkBuster Server: 0 Aliases Loaded from pbalias.dat
+PunkBuster Server: Attempting to resolve master8.evenbalance.com
+PunkBuster Server: Resolved to [50.62.81.163]
+PunkBuster Server: PunkBuster Server for COD4 (v1.828 | A1407 C2.318) Enabled
+Huffman Took 3 Milliseconds
+Hitch warning: 7623 msec frame time
+Resolving FrozenKiller_RuLeZ.com   
+Couldn't resolve address: FrozenKiller_RuLeZ.com   
+      dvar set mc_current_msg 0
+      dvar set scr_testclients 0
+PunkBuster Server: Game Version [CoD4 MP 1.7 build 568 nightly Wed Jun 18 2008 04:48:38PM win-x86]
+PunkBuster Server: Running PB Scheduled Task (slot #1) pb_sv_ver
+PunkBuster Server: PunkBuster Server for COD4 (v1.828 | A1407 C2.318) Enabled
+PunkBuster Server: Running PB Scheduled Task (slot #2) pb_sv_update
+Unknown command "selectStringTableEntryInDvar"
+      dvar set g_gametype sd
+      dvar set g_gametype sd
+      dvar set mapname mp_strike
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_strike
+      dvar set ui_maxclients 32
+      dvar set sv_maxclients 21
+Current language: english
+Current search path:
+C:\cod4 promod mod\mods\wh_promod\wh.iwd (52 files)
+C:\cod4 promod mod/mods/wh_promod
+C:\cod4 promod mod\main\iw_13.iwd (265 files)
+C:\cod4 promod mod\main\iw_12.iwd (33 files)
+C:\cod4 promod mod\main\iw_11.iwd (448 files)
+C:\cod4 promod mod\main\iw_10.iwd (230 files)
+C:\cod4 promod mod\main\iw_09.iwd (447 files)
+C:\cod4 promod mod\main\iw_08.iwd (66 files)
+C:\cod4 promod mod\main\iw_07.iwd (34 files)
+C:\cod4 promod mod\main\iw_06.iwd (416 files)
+C:\cod4 promod mod\main\iw_05.iwd (716 files)
+C:\cod4 promod mod\main\iw_04.iwd (765 files)
+C:\cod4 promod mod\main\iw_03.iwd (670 files)
+C:\cod4 promod mod\main\iw_02.iwd (1296 files)
+C:\cod4 promod mod\main\iw_01.iwd (1456 files)
+C:\cod4 promod mod\main\iw_00.iwd (1054 files)
+C:\cod4 promod mod/main
+C:\cod4 promod mod/main_shared
+C:\cod4 promod mod/players
+C:\cod4 promod mod/mods/wh_promod/english
+    localized assets game folder for english
+C:\cod4 promod mod\main\localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: console_mp.log
+----------------------
+72885 files in iwd files
+      dvar set loc_language 0
+      dvar set loc_forceEnglish 0
+Unloaded fastfile mp_crash
+Loading fastfile mp_strike
+      dvar set nextmap map_restart
+      dvar set cl_paused 0
+Waited 502 msec for asset 'maps/mp/mp_strike.d3dbsp' of type 'col_map_mp'.
+      dvar set sv_serverid 32
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Jun 18 2008
+      dvar set g_gametype sd
+      dvar set ui_maxclients 32
+      dvar set sv_maxclients 21
+      dvar set dedicated dedicated internet server
+      dvar set dedicated dedicated internet server
+      dvar set g_debugDamage 0
+      dvar set g_debugBullets 0
+      dvar set bullet_penetrationEnabled 1
+      dvar set g_entinfo off
+      dvar set g_debugLocDamage 0
+      dvar set g_friendlyfireDist 256
+      dvar set g_friendlyNameDist 15000
+      dvar set melee_debug 0
+      dvar set radius_damage_debug 0
+      dvar set player_throwbackInnerRadius 90
+      dvar set player_throwbackOuterRadius 160
+      dvar set player_MGUseRadius 128
+      dvar set g_minGrenadeDamageSpeed 400
+      dvar set g_compassShowEnemies 0
+      dvar set pickupPrints 0
+      dvar set g_dumpAnims -1
+      dvar set g_useholdspawndelay 500
+      dvar set g_redCrosshairs 1
+      dvar set g_mantleBlockTimeBuffer 500
+      dvar set vehHelicopterMaxSpeed 150
+      dvar set vehHelicopterMaxSpeedVertical 65
+      dvar set vehHelicopterMaxAccel 45
+      dvar set vehHelicopterMaxAccelVertical 30
+      dvar set vehHelicopterMaxYawRate 120
+      dvar set vehHelicopterMaxYawAccel 90
+      dvar set vehHelicopterMaxPitch 35
+      dvar set vehHelicopterMaxRoll 35
+      dvar set vehHelicopterLookaheadTime 1
+      dvar set vehHelicopterHoverSpeedThreshold 400
+      dvar set vehHelicopterRightStickDeadzone 0.3
+      dvar set vehHelicopterStrafeDeadzone 0.3
+      dvar set vehHelicopterScaleMovement 1
+      dvar set vehHelicopterSoftCollisions 0
+      dvar set vehHelicopterDecelerationFwd 0.5
+      dvar set vehHelicopterDecelerationSide 1
+      dvar set vehHelicopterInvertUpDown 0
+      dvar set vehHelicopterYawOnLeftStick 5
+      dvar set vehHelicopterTiltSpeed 1.2
+      dvar set vehHelicopterTiltFromAcceleration 2
+      dvar set vehHelicopterTiltFromDeceleration 2
+      dvar set vehHelicopterTiltFromVelocity 1
+      dvar set vehHelicopterTiltFromControllerAxes 0
+      dvar set vehHelicopterTiltFromFwdAndYaw 0
+      dvar set vehHelicopterTiltFromFwdAndYaw_VelAtMaxTilt 1
+      dvar set vehHelicopterTiltMomentum 0.4
+      dvar set vehDebugServer 0
+      dvar set vehTextureScrollScale 0
+      dvar set vehTestHorsepower 200
+      dvar set vehTestWeight 5200
+      dvar set vehTestMaxMPH 40
+      dvar set missileHellfireMaxSlope 0.5
+      dvar set missileHellfireUpAccel 1000
+      dvar set missileJavClimbHeightDirect 10000
+      dvar set missileJavClimbHeightTop 15000
+      dvar set missileJavClimbAngleDirect 85
+      dvar set missileJavClimbAngleTop 50
+      dvar set missileJavClimbCeilingDirect 0
+      dvar set missileJavClimbCeilingTop 3000
+      dvar set missileJavTurnRateDirect 60
+      dvar set missileJavTurnRateTop 100
+      dvar set missileJavAccelClimb 300
+      dvar set missileJavAccelDescend 3000
+      dvar set missileJavSpeedLimitClimb 1000
+      dvar set missileJavSpeedLimitDescend 6000
+      dvar set missileJavTurnDecel 0.05
+      dvar set missileJavClimbToOwner 700
+      dvar set missileWaterMaxDepth 60
+      dvar set bg_viewKickScale 0.2
+      dvar set bg_viewKickMax 90
+      dvar set bg_viewKickMin 5
+      dvar set bg_viewKickRandom 0.4
+      dvar set player_view_pitch_up 85
+      dvar set player_view_pitch_down 85
+      dvar set player_lean_shift_left 5
+      dvar set player_lean_shift_right 9
+      dvar set player_lean_shift_crouch_left 4
+      dvar set player_lean_shift_crouch_right 15
+      dvar set player_lean_rotate_left 0.8
+      dvar set player_lean_rotate_right 0.4
+      dvar set player_lean_rotate_crouch_left 0.8
+      dvar set player_lean_rotate_crouch_right 0.3
+      dvar set bg_ladder_yawcap 100
+      dvar set bg_prone_yawcap 85
+      dvar set bg_foliagesnd_minspeed 40
+      dvar set bg_foliagesnd_maxspeed 180
+      dvar set bg_foliagesnd_slowinterval 1500
+      dvar set bg_foliagesnd_fastinterval 500
+      dvar set bg_foliagesnd_resetinterval 500
+      dvar set bg_fallDamageMinHeight 128
+      dvar set bg_fallDamageMaxHeight 300
+      dvar set inertiaMax 50
+      dvar set inertiaDebug 0
+      dvar set inertiaAngle 0
+      dvar set friction 5.5
+      dvar set stopspeed 100
+      dvar set bg_swingSpeed 0.2
+      dvar set bg_legYawTolerance 20
+      dvar set bg_bobAmplitudeSprinting 0.02 0.014
+      dvar set bg_bobAmplitudeStanding 0.007 0.007
+      dvar set bg_bobAmplitudeDucked 0.0075 0.0075
+      dvar set bg_bobAmplitudeProne 0.02 0.005
+      dvar set bg_bobMax 8
+      dvar set bg_aimSpreadMoveSpeedThreshold 11
+      dvar set bg_maxGrenadeIndicatorSpeed 20
+      dvar set player_breath_hold_time 4.5
+      dvar set player_breath_gasp_time 1
+      dvar set player_breath_fire_delay 0
+      dvar set player_breath_gasp_scale 4.5
+      dvar set player_breath_hold_lerp 1
+      dvar set player_breath_gasp_lerp 6
+      dvar set player_breath_snd_lerp 2
+      dvar set player_breath_snd_delay 1
+      dvar set player_scopeExitOnDamage 0
+      dvar set player_adsExitDelay 0
+      dvar set player_move_factor_on_torso 0
+      dvar set player_debugHealth 0
+      dvar set player_sustainAmmo 0
+      dvar set player_moveThreshhold 10
+      dvar set player_footstepsThreshhold 0
+      dvar set player_strafeSpeedScale 0.8
+      dvar set player_backSpeedScale 0.7
+      dvar set player_strafeAnimCosAngle 0.5
+      dvar set player_spectateSpeedScale 1
+      dvar set player_sprintSpeedScale 1.5
+      dvar set player_sprintTime 4
+      dvar set player_sprintMinTime 1
+      dvar set player_sprintRechargePause 0
+      dvar set player_sprintStrafeSpeedScale 0.667
+      dvar set player_sprintCameraBob 0.5
+      dvar set player_turnAnims 0
+      dvar set player_dmgtimer_timePerPoint 100
+      dvar set player_dmgtimer_maxTime 750
+      dvar set player_dmgtimer_minScale 0
+      dvar set player_dmgtimer_stumbleTime 500
+      dvar set player_dmgtimer_flinchTime 500
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set player_meleeRange 64
+      dvar set player_meleeWidth 10
+      dvar set player_meleeHeight 10
+      dvar set player_meleeChargeFriction 1200
+      dvar set player_burstFireCooldown 0.2
+      dvar set bullet_penetrationMinFxDist 30
+      dvar set jump_height 39
+      dvar set jump_stepSize 18
+      dvar set jump_slowdownEnable 1
+      dvar set jump_ladderPushVel 128
+      dvar set jump_spreadAdd 64
+      dvar set mantle_enable 1
+      dvar set mantle_debug 0
+      dvar set mantle_check_range 20
+      dvar set mantle_check_radius 0.1
+      dvar set mantle_check_angle 60
+      dvar set mantle_view_yawcap 60
+      dvar set perk_weapSpreadMultiplier 0.65
+      dvar set perk_weapReloadMultiplier 0.5
+      dvar set perk_weapRateMultiplier 0.75
+      dvar set perk_extraBreath 5
+      dvar set perk_bulletPenetrationMultiplier 2
+      dvar set perk_grenadeDeath frag_grenade_short_mp
+      dvar set perk_parabolicRadius 400
+      dvar set perk_parabolicAngle 180
+      dvar set perk_parabolicIcon specialty_parabolic
+      dvar set perk_sprintMultiplier 2
+      dvar set g_fogColorReadOnly 1 0 0 1
+      dvar set g_fogStartDistReadOnly 0
+      dvar set g_fogHalfDistReadOnly 0.1
+      dvar set masterServerName FrozenKiller_RuLeZ.com   
+      dvar set authServerName FrozenKiller_RuLeZ.com   
+      dvar set masterPort 20810
+      dvar set authPort 20800
+      dvar set com_timescale 1
+      dvar set timescale 1
+      dvar set fixedtime 0
+      dvar set fs_ignoreLocalized 0
+      dvar set bg_fallDamageMaxHeight 300
+      dvar set bg_fallDamageMinHeight 128
+      dvar set g_compassShowEnemies 0
+      dvar set g_useholdspawndelay 500
+      dvar set onlinegame 1
+      dvar set r_texFilterDisable 0
+      dvar set r_texFilterMipBias 0
+      dvar set r_fullbright 0
+      dvar set r_debugShader none
+      dvar set r_znear 4
+      dvar set r_znear_depthhack 0.1
+      dvar set r_zfar 0
+      dvar set r_fog 1
+      dvar set r_lightMap Unchanged
+      dvar set r_colorMap Unchanged
+      dvar set r_normalMap Unchanged
+      dvar set r_specularMap Unchanged
+      dvar set r_specularColorScale 1
+      dvar set r_diffuseColorScale 1
+      dvar set r_resampleScene 1
+      dvar set r_showPixelCost off
+      dvar set r_showLightGrid 0
+      dvar set r_showMissingLightGrid 0
+      dvar set r_lightTweakSunLight 1
+      dvar set r_lightTweakSunColor 0 1 0 1
+      dvar set r_lightTweakSunDirection 0 0 0
+      dvar set r_norefresh 0
+      dvar set r_scaleViewport 1
+      dvar set r_spotLightFovInnerFraction 0.7
+      dvar set r_spotLightStartRadius 36
+      dvar set r_spotLightEndRadius 196
+      dvar set r_spotLightShadows 1
+      dvar set r_spotLightSModelShadows 1
+      dvar set r_spotLightEntityShadows 1
+      dvar set r_spotLightBrightness 14
+      dvar set r_lockPvs 0
+      dvar set r_skipPvs 0
+      dvar set r_singleCell 0
+      dvar set r_portalWalkLimit 0
+      dvar set r_portalMinRecurseDepth 2
+      dvar set r_showPortals 0
+      dvar set r_showFbColorDebug None
+      dvar set r_showFloatZDebug 0
+      dvar set r_highLodDist -1
+      dvar set r_mediumLodDist -1
+      dvar set r_lowLodDist -1
+      dvar set r_lowestLodDist -1
+      dvar set r_forceLod none
+      dvar set r_modelVertColor 1
+      dvar set sc_blur 2
+      dvar set sc_count 24
+      dvar set sc_debugCasterCount 24
+      dvar set sc_debugReceiverCount 24
+      dvar set sc_showOverlay 0
+      dvar set sc_showDebug 0
+      dvar set sc_wantCount 12
+      dvar set sc_wantCountMargin 1
+      dvar set sc_fadeRange 0.25
+      dvar set sc_shadowInRate 2
+      dvar set sc_shadowOutRate 5
+      dvar set sc_length 400
+      dvar set sc_offscreenCasterLodBias 0
+      dvar set sc_offscreenCasterLodScale 20
+      dvar set sm_sunEnable 1
+      dvar set sm_spotEnable 1
+      dvar set sm_sunSampleSizeNear 0.25
+      dvar set sm_sunShadowCenter 0 0 0
+      dvar set sm_sunShadowScale 1
+      dvar set sm_strictCull 1
+      dvar set sm_fastSunShadow 1
+      dvar set sm_qualitySpotShadow 1
+      dvar set r_blur 0
+      dvar set r_glow 1
+      dvar set r_glowUseTweaks 0
+      dvar set r_glowTweakEnable 0
+      dvar set r_glowTweakRadius0 5
+      dvar set r_glowTweakBloomIntensity0 1
+      dvar set r_glowTweakBloomCutoff 0.5
+      dvar set r_glowTweakBloomDesaturation 0
+      dvar set r_filmUseTweaks 0
+      dvar set r_contrast 1
+      dvar set r_brightness 0
+      dvar set r_desaturation 1
+      dvar set r_dof_tweak 0
+      dvar set r_dof_nearBlur 6
+      dvar set r_dof_farBlur 1.8
+      dvar set r_dof_viewModelStart 2
+      dvar set r_dof_viewModelEnd 8
+      dvar set r_dof_nearStart 10
+      dvar set r_dof_nearEnd 60
+      dvar set r_dof_farStart 1000
+      dvar set r_dof_farEnd 7000
+      dvar set r_dof_bias 0.5
+      dvar set r_sun_from_dvars 0
+      dvar set clientSideEffects 1
+      dvar set g_debugDamage 0
+      dvar set g_debugBullets 0
+      dvar set bullet_penetrationEnabled 1
+      dvar set g_entinfo off
+      dvar set g_debugLocDamage 0
+      dvar set g_friendlyfireDist 256
+      dvar set g_friendlyNameDist 15000
+      dvar set melee_debug 0
+      dvar set radius_damage_debug 0
+      dvar set player_throwbackInnerRadius 90
+      dvar set player_throwbackOuterRadius 160
+      dvar set player_MGUseRadius 128
+      dvar set g_minGrenadeDamageSpeed 400
+      dvar set pickupPrints 0
+      dvar set g_dumpAnims -1
+      dvar set g_mantleBlockTimeBuffer 500
+      dvar set vehHelicopterMaxSpeed 150
+      dvar set vehHelicopterMaxSpeedVertical 65
+      dvar set vehHelicopterMaxAccel 45
+      dvar set vehHelicopterMaxAccelVertical 30
+      dvar set vehHelicopterMaxYawRate 120
+      dvar set vehHelicopterMaxYawAccel 90
+      dvar set vehHelicopterMaxPitch 35
+      dvar set vehHelicopterMaxRoll 35
+      dvar set vehHelicopterLookaheadTime 1
+      dvar set vehHelicopterHoverSpeedThreshold 400
+      dvar set vehHelicopterRightStickDeadzone 0.3
+      dvar set vehHelicopterStrafeDeadzone 0.3
+      dvar set vehHelicopterScaleMovement 1
+      dvar set vehHelicopterSoftCollisions 0
+      dvar set vehHelicopterDecelerationFwd 0.5
+      dvar set vehHelicopterDecelerationSide 1
+      dvar set vehHelicopterInvertUpDown 0
+      dvar set vehHelicopterYawOnLeftStick 5
+      dvar set vehHelicopterTiltSpeed 1.2
+      dvar set vehHelicopterTiltFromAcceleration 2
+      dvar set vehHelicopterTiltFromDeceleration 2
+      dvar set vehHelicopterTiltFromVelocity 1
+      dvar set vehHelicopterTiltFromControllerAxes 0
+      dvar set vehHelicopterTiltFromFwdAndYaw 0
+      dvar set vehHelicopterTiltFromFwdAndYaw_VelAtMaxTilt 1
+      dvar set vehHelicopterTiltMomentum 0.4
+      dvar set vehDebugServer 0
+      dvar set vehTextureScrollScale 0
+      dvar set vehTestHorsepower 200
+      dvar set vehTestWeight 5200
+      dvar set vehTestMaxMPH 40
+      dvar set missileHellfireMaxSlope 0.5
+      dvar set missileHellfireUpAccel 1000
+      dvar set missileJavClimbHeightDirect 10000
+      dvar set missileJavClimbHeightTop 15000
+      dvar set missileJavClimbAngleDirect 85
+      dvar set missileJavClimbAngleTop 50
+      dvar set missileJavClimbCeilingDirect 0
+      dvar set missileJavClimbCeilingTop 3000
+      dvar set missileJavTurnRateDirect 60
+      dvar set missileJavTurnRateTop 100
+      dvar set missileJavAccelClimb 300
+      dvar set missileJavAccelDescend 3000
+      dvar set missileJavSpeedLimitClimb 1000
+      dvar set missileJavSpeedLimitDescend 6000
+      dvar set missileJavTurnDecel 0.05
+      dvar set missileJavClimbToOwner 700
+      dvar set missileWaterMaxDepth 60
+      dvar set bg_viewKickScale 0.2
+      dvar set bg_viewKickMax 90
+      dvar set bg_viewKickMin 5
+      dvar set bg_viewKickRandom 0.4
+      dvar set player_view_pitch_up 85
+      dvar set player_view_pitch_down 85
+      dvar set player_lean_shift_left 5
+      dvar set player_lean_shift_right 9
+      dvar set player_lean_shift_crouch_left 4
+      dvar set player_lean_shift_crouch_right 15
+      dvar set player_lean_rotate_left 0.8
+      dvar set player_lean_rotate_right 0.4
+      dvar set player_lean_rotate_crouch_left 0.8
+      dvar set player_lean_rotate_crouch_right 0.3
+      dvar set bg_ladder_yawcap 100
+      dvar set bg_prone_yawcap 85
+      dvar set bg_foliagesnd_minspeed 40
+      dvar set bg_foliagesnd_maxspeed 180
+      dvar set bg_foliagesnd_slowinterval 1500
+      dvar set bg_foliagesnd_fastinterval 500
+      dvar set bg_foliagesnd_resetinterval 500
+      dvar set inertiaMax 50
+      dvar set inertiaDebug 0
+      dvar set inertiaAngle 0
+      dvar set friction 5.5
+      dvar set stopspeed 100
+      dvar set bg_swingSpeed 0.2
+      dvar set bg_legYawTolerance 20
+      dvar set bg_bobAmplitudeSprinting 0.02 0.014
+      dvar set bg_bobAmplitudeStanding 0.007 0.007
+      dvar set bg_bobAmplitudeDucked 0.0075 0.0075
+      dvar set bg_bobAmplitudeProne 0.02 0.005
+      dvar set bg_bobMax 8
+      dvar set bg_aimSpreadMoveSpeedThreshold 11
+      dvar set bg_maxGrenadeIndicatorSpeed 20
+      dvar set player_breath_hold_time 4.5
+      dvar set player_breath_gasp_time 1
+      dvar set player_breath_fire_delay 0
+      dvar set player_breath_gasp_scale 4.5
+      dvar set player_breath_hold_lerp 1
+      dvar set player_breath_gasp_lerp 6
+      dvar set player_breath_snd_lerp 2
+      dvar set player_breath_snd_delay 1
+      dvar set player_scopeExitOnDamage 0
+      dvar set player_adsExitDelay 0
+      dvar set player_move_factor_on_torso 0
+      dvar set player_debugHealth 0
+      dvar set player_sustainAmmo 0
+      dvar set player_moveThreshhold 10
+      dvar set player_footstepsThreshhold 0
+      dvar set player_strafeSpeedScale 0.8
+      dvar set player_backSpeedScale 0.7
+      dvar set player_strafeAnimCosAngle 0.5
+      dvar set player_spectateSpeedScale 1
+      dvar set player_sprintSpeedScale 1.5
+      dvar set player_sprintTime 4
+      dvar set player_sprintMinTime 1
+      dvar set player_sprintRechargePause 0
+      dvar set player_sprintStrafeSpeedScale 0.667
+      dvar set player_sprintCameraBob 0.5
+      dvar set player_turnAnims 0
+      dvar set player_dmgtimer_timePerPoint 100
+      dvar set player_dmgtimer_maxTime 750
+      dvar set player_dmgtimer_minScale 0
+      dvar set player_dmgtimer_stumbleTime 500
+      dvar set player_dmgtimer_flinchTime 500
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set player_meleeRange 64
+      dvar set player_meleeWidth 10
+      dvar set player_meleeHeight 10
+      dvar set player_meleeChargeFriction 1200
+      dvar set player_burstFireCooldown 0.2
+      dvar set bullet_penetrationMinFxDist 30
+      dvar set jump_height 39
+      dvar set jump_stepSize 18
+      dvar set jump_slowdownEnable 1
+      dvar set jump_ladderPushVel 128
+      dvar set jump_spreadAdd 64
+      dvar set mantle_enable 1
+      dvar set mantle_debug 0
+      dvar set mantle_check_range 20
+      dvar set mantle_check_radius 0.1
+      dvar set mantle_check_angle 60
+      dvar set mantle_view_yawcap 60
+      dvar set perk_weapSpreadMultiplier 0.65
+      dvar set perk_weapReloadMultiplier 0.5
+      dvar set perk_weapRateMultiplier 0.75
+      dvar set perk_extraBreath 5
+      dvar set perk_bulletPenetrationMultiplier 2
+      dvar set perk_grenadeDeath frag_grenade_short_mp
+      dvar set perk_parabolicRadius 400
+      dvar set perk_parabolicAngle 180
+      dvar set perk_parabolicIcon specialty_parabolic
+      dvar set perk_sprintMultiplier 2
+      dvar set g_fogColorReadOnly 1 0 0 1
+      dvar set g_fogStartDistReadOnly 0
+      dvar set g_fogHalfDistReadOnly 0.1
+      dvar set g_gravity 800
+-----------------------------------
+      dvar set ui_bomb_timer 0
+      dvar set scr_sd_bombtimer 45
+      dvar set scr_sd_defusetime 7
+      dvar set scr_sd_multibomb 0
+      dvar set scr_sd_numlives 1
+      dvar set scr_sd_planttime 5
+      dvar set scr_sd_playerrespawndelay 0
+      dvar set scr_sd_roundlimit 20
+      dvar set scr_sd_roundswitch 10
+      dvar set scr_sd_scorelimit 0
+      dvar set scr_sd_timelimit 1.75
+      dvar set scr_sd_waverespawndelay 0
+      dvar set scr_dom_numlives 0
+      dvar set scr_dom_playerrespawndelay 7
+      dvar set scr_dom_roundlimit 2
+      dvar set scr_dom_roundswitch 1
+      dvar set scr_dom_scorelimit 0
+      dvar set scr_dom_timelimit 15
+      dvar set scr_dom_waverespawndelay 0
+      dvar set koth_autodestroytime 120
+      dvar set koth_capturetime 20
+      dvar set koth_delayPlayer 0
+      dvar set koth_destroytime 10
+      dvar set koth_kothmode 0
+      dvar set koth_spawnDelay 45
+      dvar set koth_spawntime 10
+      dvar set scr_koth_numlives 0
+      dvar set scr_koth_playerrespawndelay 0
+      dvar set scr_koth_roundlimit 2
+      dvar set scr_koth_roundswitch 1
+      dvar set scr_koth_scorelimit 0
+      dvar set scr_koth_timelimit 15
+      dvar set scr_koth_waverespawndelay 0
+      dvar set scr_sab_bombtimer 45
+      dvar set scr_sab_defusetime 5
+      dvar set scr_sab_hotpotato 0
+      dvar set scr_sab_numlives 0
+      dvar set scr_sab_planttime 5
+      dvar set scr_sab_playerrespawndelay 7
+      dvar set scr_sab_roundlimit 4
+      dvar set scr_sab_roundswitch 2
+      dvar set scr_sab_scorelimit 0
+      dvar set scr_sab_timelimit 10
+      dvar set scr_sab_waverespawndelay 0
+      dvar set scr_war_numlives 0
+      dvar set scr_war_playerrespawndelay 0
+      dvar set scr_war_roundlimit 2
+      dvar set scr_war_scorelimit 0
+      dvar set scr_war_roundswitch 1
+      dvar set scr_war_timelimit 15
+      dvar set scr_war_waverespawndelay 0
+      dvar set scr_dm_numlives 0
+      dvar set scr_dm_playerrespawndelay 0
+      dvar set scr_dm_roundlimit 1
+      dvar set scr_dm_scorelimit 0
+      dvar set scr_dm_timelimit 10
+      dvar set scr_dm_waverespawndelay 0
+      dvar set class_assault_limit 64
+      dvar set class_specops_limit 2
+      dvar set class_demolitions_limit 1
+      dvar set class_sniper_limit 1
+      dvar set class_assault_allowdrop 1
+      dvar set class_specops_allowdrop 1
+      dvar set class_demolitions_allowdrop 0
+      dvar set class_sniper_allowdrop 0
+      dvar set weap_allow_m16 1
+      dvar set weap_allow_ak47 1
+      dvar set weap_allow_m4 1
+      dvar set weap_allow_g3 1
+      dvar set weap_allow_g36c 1
+      dvar set weap_allow_m14 1
+      dvar set weap_allow_mp44 1
+      dvar set attach_allow_assault_none 1
+      dvar set attach_allow_assault_silencer 1
+      dvar set weap_allow_mp5 1
+      dvar set weap_allow_uzi 1
+      dvar set weap_allow_ak74u 1
+      dvar set attach_allow_specops_none 1
+      dvar set attach_allow_specops_silencer 1
+      dvar set weap_allow_m1014 1
+      dvar set weap_allow_winchester1200 1
+      dvar set weap_allow_m40a3 1
+      dvar set weap_allow_remington700 1
+      dvar set weap_allow_beretta 1
+      dvar set weap_allow_colt45 1
+      dvar set weap_allow_usp 1
+      dvar set weap_allow_deserteagle 1
+      dvar set weap_allow_deserteaglegold 1
+      dvar set attach_allow_pistol_none 1
+      dvar set attach_allow_pistol_silencer 1
+      dvar set weap_allow_flash_grenade 1
+      dvar set weap_allow_frag_grenade 1
+      dvar set weap_allow_smoke_grenade 1
+      dvar set class_assault_primary ak47
+      dvar set class_assault_primary_attachment none
+      dvar set class_assault_secondary deserteagle
+      dvar set class_assault_secondary_attachment none
+      dvar set class_assault_grenade smoke_grenade
+      dvar set class_assault_camo camo_none
+      dvar set class_specops_primary ak74u
+      dvar set class_specops_primary_attachment none
+      dvar set class_specops_secondary deserteagle
+      dvar set class_specops_secondary_attachment none
+      dvar set class_specops_grenade smoke_grenade
+      dvar set class_specops_camo camo_none
+      dvar set class_demolitions_primary winchester1200
+      dvar set class_demolitions_primary_attachment none
+      dvar set class_demolitions_secondary deserteagle
+      dvar set class_demolitions_secondary_attachment none
+      dvar set class_demolitions_grenade smoke_grenade
+      dvar set class_demolitions_camo camo_none
+      dvar set class_sniper_primary m40a3
+      dvar set class_sniper_primary_attachment none
+      dvar set class_sniper_secondary deserteagle
+      dvar set class_sniper_secondary_attachment none
+      dvar set class_sniper_grenade smoke_grenade
+      dvar set class_sniper_camo camo_none
+      dvar set scr_team_fftype 0
+      dvar set scr_team_teamkillpointloss 5
+      dvar set scr_player_forcerespawn 1
+      dvar set scr_game_deathpointloss 0
+      dvar set scr_game_suicidepointloss 0
+      dvar set scr_player_suicidespawndelay 0
+      dvar set bg_fallDamageMinHeight 140
+      dvar set bg_fallDamageMaxHeight 350
+      dvar set logfile 1
+      dvar set g_log games_mp.log
+      dvar set g_logSync 0
+      dvar set g_inactivity 0
+      dvar set g_no_script_spam 1
+      dvar set g_antilag 1
+      dvar set g_smoothClients 1
+      dvar set sv_allowDownload 1
+      dvar set sv_maxPing 0
+      dvar set sv_minPing 0
+      dvar set sv_reconnectlimit 3
+      dvar set sv_timeout 240
+      dvar set sv_zombietime 2
+      dvar set sv_floodprotect 4
+      dvar set sv_kickBanTime 0
+      dvar set sv_disableClientConsole 0
+      dvar set sv_voice 0
+      dvar set sv_clientArchive 1
+      dvar set timescale 1
+      dvar set g_allowVote 0
+      dvar set g_deadChat 1
+      dvar set scr_game_allowkillcam 1
+      dvar set scr_game_spectatetype 1
+      dvar set scr_game_matchstarttime 10
+      dvar set scr_enable_hiticon 2
+      dvar set scr_enable_scoretext 1
+      dvar set promod_allow_strattime 10
+      dvar set promod_allow_readyup 0
+      dvar set promod_kniferound 1
+      dvar set g_maxDroppedWeapons 16
+      dvar set scr_hardcore 0
+      dvar set promod_hud_website 
+      dvar set promod_mc_enable 1
+      dvar set promod_mc_rs_every_round 1
+      dvar set promod_mc_delay 45
+      dvar set promod_mc_loopdelay 45
+      dvar set promod_mc_maxmessages 3
+      dvar set promod_mc_message_1 
+      dvar set promod_mc_message_2 
+      dvar set promod_mc_message_3 
+      dvar set promod_mc_messagedelay_1 0
+      dvar set promod_mc_messagedelay_2 5
+      dvar set promod_mc_messagedelay_3 10
+      dvar set ui_scorelimit 0
+      dvar set ui_timelimit 1.75
+      dvar set scr_player_maxhealth 100
+      dvar set scr_RequiredMapAspectratio 1
+Waited 41 msec for asset 'vehicle_80s_sedan1_green_destroyed' of type 'xmodel'.
+Loaded zone 'mp_strike'
+      dvar set authServerName cod4master.activision.com
+      dvar set scr_allies usmc
+      dvar set scr_axis arab
+      dvar set bg_bobMax 0
+      dvar set player_sustainAmmo 0
+      dvar set player_throwbackInnerRadius 0
+      dvar set player_throwbackOuterRadius 0
+      dvar set loc_warnings 0
+      dvar set promod_scorebot_ticker_num 0
+      dvar set class_assault_limit 64
+      dvar set class_specops_limit 2
+      dvar set class_demolitions_limit 1
+      dvar set class_sniper_limit 1
+      dvar set class_assault_allowdrop 1
+      dvar set class_specops_allowdrop 1
+      dvar set class_demolitions_allowdrop 0
+      dvar set class_sniper_allowdrop 0
+      dvar set weap_allow_m16 1
+      dvar set weap_allow_ak47 1
+      dvar set weap_allow_m4 1
+      dvar set weap_allow_g3 1
+      dvar set weap_allow_g36c 1
+      dvar set weap_allow_m14 1
+      dvar set weap_allow_mp44 1
+      dvar set attach_allow_assault_none 1
+      dvar set attach_allow_assault_silencer 1
+      dvar set weap_allow_mp5 1
+      dvar set weap_allow_uzi 1
+      dvar set weap_allow_ak74u 1
+      dvar set attach_allow_specops_none 1
+      dvar set attach_allow_specops_silencer 1
+      dvar set weap_allow_m1014 1
+      dvar set weap_allow_winchester1200 1
+      dvar set weap_allow_m40a3 1
+      dvar set weap_allow_remington700 1
+      dvar set weap_allow_beretta 1
+      dvar set weap_allow_colt45 1
+      dvar set weap_allow_usp 1
+      dvar set weap_allow_deserteagle 1
+      dvar set weap_allow_deserteaglegold 1
+      dvar set attach_allow_pistol_none 1
+      dvar set attach_allow_pistol_silencer 1
+      dvar set weap_allow_frag_grenade 1
+      dvar set weap_allow_flash_grenade 1
+      dvar set weap_allow_smoke_grenade 1
+      dvar set allies_allow_assault 1
+      dvar set allies_allow_specops 1
+      dvar set allies_allow_demolitions 1
+      dvar set allies_allow_sniper 1
+      dvar set axis_allow_assault 1
+      dvar set axis_allow_specops 1
+      dvar set axis_allow_demolitions 1
+      dvar set axis_allow_sniper 1
+      dvar set class_assault_primary ak47
+      dvar set class_assault_primary_attachment none
+      dvar set class_assault_secondary deserteagle
+      dvar set class_assault_secondary_attachment none
+      dvar set class_assault_grenade smoke_grenade
+      dvar set class_assault_camo camo_none
+      dvar set class_specops_primary ak74u
+      dvar set class_specops_primary_attachment none
+      dvar set class_specops_secondary deserteagle
+      dvar set class_specops_secondary_attachment none
+      dvar set class_specops_grenade smoke_grenade
+      dvar set class_specops_camo camo_none
+      dvar set class_demolitions_primary winchester1200
+      dvar set class_demolitions_primary_attachment none
+      dvar set class_demolitions_secondary deserteagle
+      dvar set class_demolitions_secondary_attachment none
+      dvar set class_demolitions_grenade smoke_grenade
+      dvar set class_demolitions_camo camo_none
+      dvar set class_sniper_primary m40a3
+      dvar set class_sniper_primary_attachment none
+      dvar set class_sniper_secondary deserteagle
+      dvar set class_sniper_secondary_attachment none
+      dvar set class_sniper_grenade smoke_grenade
+      dvar set class_sniper_camo camo_none
+      dvar set scr_enable_hiticon 2
+      dvar set scr_enable_scoretext 1
+      dvar set sv_hostname GameTrackerClaimServer
+      dvar set ui_hostname GameTrackerClaimServer
+      dvar set scr_motd JÃ³ JÃ¡tÃ©kot
+      dvar set ui_motd JÃ³ JÃ¡tÃ©kot
+      dvar set g_allowVote 0
+      dvar set ui_allowvote 0
+      dvar set ui_friendlyfire 0
+      dvar set scr_mapsize 64
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 0
+      dvar set bg_shock_screenFlashShotFadeTime 0
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay -1.5
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay -0.75
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/default.shock'
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 45
+      dvar set bg_shock_lookControl_maxyawspeed 45
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType flashed
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 3.5
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundLoop flashbang_tinnitus_loop
+      dvar set bg_shock_soundLoopSilent flashbang_tinnitus_loop_silent
+      dvar set bg_shock_soundEnd flashbang_tinnitus_end
+      dvar set bg_shock_soundEndAbort flashbang_tinnitus_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2
+      dvar set bg_shock_soundModEndDelay 1.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay 2
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 0.6
+      dvar set bg_shock_soundWetLevel 0.8
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/flashbang.shock'
+      dvar set bg_shock_lookControl 0
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 0
+      dvar set g_TeamIcon_Allies faction_128_usmc
+      dvar set g_TeamColor_Allies 0.6 0.639216 0.690196 0
+      dvar set g_ScoresColor_Allies 0.6 0.639216 0.690196 0
+      dvar set g_TeamIcon_Axis faction_128_arab
+      dvar set g_TeamColor_Axis 0.65098 0.568627 0.411765 0
+      dvar set g_ScoresColor_Axis 0.65098 0.568627 0.411765 0
+      dvar set g_TeamName_Allies Támadók
+      dvar set g_TeamName_Axis Védõk
+      dvar set g_ScoresColor_Spectator 0.25098 0.25098 0.25098 0
+      dvar set g_ScoresColor_Free 0.760784 0.780392 0.101961 0
+      dvar set g_TeamColor_MyTeam 0.6 0.8 0.6 0
+      dvar set g_TeamColor_EnemyTeam 1 0.45098 0.501961 0
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 0
+      dvar set bg_shock_screenFlashShotFadeTime 0
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 1.5
+      dvar set bg_shock_sound 0
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay -1.5
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay -0.75
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/frag_grenade_mp.shock'
+      dvar set bg_shock_lookControl 0
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 0
+      dvar set bg_shock_screenFlashShotFadeTime 0
+      dvar set bg_shock_viewKickPeriod 0.001
+      dvar set bg_shock_viewKickRadius 0
+      dvar set bg_shock_viewKickFadeTime 0.001
+      dvar set bg_shock_sound 0
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay -1.5
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay -0.75
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/damage_mp.shock'
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 35
+      dvar set bg_shock_lookControl_maxyawspeed 35
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.1
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set scr_testclients 0
+      dvar set mc_current_msg 0
+      dvar set sv_iwds -731582480 2115322797 1043426064 -292863836 173489706 -1846635013 -1079795827 -1041447890 -715502781 489843315 499941093 309900900 -165391090 648005745 -1190209610 
+      dvar set sv_iwdNames wh iw_13 iw_12 iw_11 iw_10 iw_09 iw_08 iw_07 iw_06 iw_05 iw_04 iw_03 iw_02 iw_01 iw_00
+      dvar set sv_referencedIwds -1190209610 -292863836 -731582480 
+      dvar set sv_referencedIwdNames main/iw_00 main/iw_11 mods/wh_promod/wh
+      dvar set sv_referencedFFCheckSums 89196 132970 13517381 35859527
+      dvar set sv_referencedFFNames code_post_gfx_mp mods/wh_promod/mod common_mp mp_strike
+-----------------------------------
+      dvar set sv_punkbuster 1
+      dvar set sv_cheats 0
+PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+Hitch warning: 2640 msec frame time
+      dvar set mc_current_msg 0
+Unknown command "selectStringTableEntryInDvar"
+      dvar set g_gametype sd
+      dvar set g_gametype sd
+      dvar set mapname mp_strike
+==== ShutdownGame (1) ====
+------ Server Initialization ------
+Server: mp_strike
+      dvar set ui_maxclients 32
+      dvar set sv_maxclients 21
+Current language: english
+Current search path:
+C:\cod4 promod mod\mods\wh_promod\wh.iwd (52 files)
+C:\cod4 promod mod/mods/wh_promod
+C:\cod4 promod mod\main\iw_13.iwd (265 files)
+C:\cod4 promod mod\main\iw_12.iwd (33 files)
+C:\cod4 promod mod\main\iw_11.iwd (448 files)
+C:\cod4 promod mod\main\iw_10.iwd (230 files)
+C:\cod4 promod mod\main\iw_09.iwd (447 files)
+C:\cod4 promod mod\main\iw_08.iwd (66 files)
+C:\cod4 promod mod\main\iw_07.iwd (34 files)
+C:\cod4 promod mod\main\iw_06.iwd (416 files)
+C:\cod4 promod mod\main\iw_05.iwd (716 files)
+C:\cod4 promod mod\main\iw_04.iwd (765 files)
+C:\cod4 promod mod\main\iw_03.iwd (670 files)
+C:\cod4 promod mod\main\iw_02.iwd (1296 files)
+C:\cod4 promod mod\main\iw_01.iwd (1456 files)
+C:\cod4 promod mod\main\iw_00.iwd (1054 files)
+C:\cod4 promod mod/main
+C:\cod4 promod mod/main_shared
+C:\cod4 promod mod/players
+C:\cod4 promod mod/mods/wh_promod/english
+    localized assets game folder for english
+C:\cod4 promod mod\main\localized_english_iw06.iwd (7 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw05.iwd (1338 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw04.iwd (1730 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw03.iwd (3705 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw02.iwd (3483 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw01.iwd (3181 files)
+    localized assets iwd file for english
+C:\cod4 promod mod\main\localized_english_iw00.iwd (2903 files)
+    localized assets iwd file for english
+
+File Handles:
+handle 1: console_mp.log
+----------------------
+97180 files in iwd files
+      dvar set loc_language 0
+      dvar set loc_forceEnglish 0
+Unloaded fastfile mp_strike
+Loading fastfile mp_strike
+      dvar set nextmap map_restart
+      dvar set cl_paused 0
+Waited 463 msec for asset 'maps/mp/mp_strike.d3dbsp' of type 'col_map_mp'.
+      dvar set sv_serverid 48
+------- Game Initialization -------
+gamename: Call of Duty 4
+gamedate: Jun 18 2008
+      dvar set g_gametype sd
+      dvar set ui_maxclients 32
+      dvar set sv_maxclients 21
+      dvar set dedicated dedicated internet server
+      dvar set dedicated dedicated internet server
+      dvar set g_debugDamage 0
+      dvar set g_debugBullets 0
+      dvar set bullet_penetrationEnabled 1
+      dvar set g_entinfo off
+      dvar set g_debugLocDamage 0
+      dvar set g_friendlyfireDist 256
+      dvar set g_friendlyNameDist 15000
+      dvar set melee_debug 0
+      dvar set radius_damage_debug 0
+      dvar set player_throwbackInnerRadius 90
+      dvar set player_throwbackOuterRadius 160
+      dvar set player_MGUseRadius 128
+      dvar set g_minGrenadeDamageSpeed 400
+      dvar set g_compassShowEnemies 0
+      dvar set pickupPrints 0
+      dvar set g_dumpAnims -1
+      dvar set g_useholdspawndelay 500
+      dvar set g_redCrosshairs 1
+      dvar set g_mantleBlockTimeBuffer 500
+      dvar set vehHelicopterMaxSpeed 150
+      dvar set vehHelicopterMaxSpeedVertical 65
+      dvar set vehHelicopterMaxAccel 45
+      dvar set vehHelicopterMaxAccelVertical 30
+      dvar set vehHelicopterMaxYawRate 120
+      dvar set vehHelicopterMaxYawAccel 90
+      dvar set vehHelicopterMaxPitch 35
+      dvar set vehHelicopterMaxRoll 35
+      dvar set vehHelicopterLookaheadTime 1
+      dvar set vehHelicopterHoverSpeedThreshold 400
+      dvar set vehHelicopterRightStickDeadzone 0.3
+      dvar set vehHelicopterStrafeDeadzone 0.3
+      dvar set vehHelicopterScaleMovement 1
+      dvar set vehHelicopterSoftCollisions 0
+      dvar set vehHelicopterDecelerationFwd 0.5
+      dvar set vehHelicopterDecelerationSide 1
+      dvar set vehHelicopterInvertUpDown 0
+      dvar set vehHelicopterYawOnLeftStick 5
+      dvar set vehHelicopterTiltSpeed 1.2
+      dvar set vehHelicopterTiltFromAcceleration 2
+      dvar set vehHelicopterTiltFromDeceleration 2
+      dvar set vehHelicopterTiltFromVelocity 1
+      dvar set vehHelicopterTiltFromControllerAxes 0
+      dvar set vehHelicopterTiltFromFwdAndYaw 0
+      dvar set vehHelicopterTiltFromFwdAndYaw_VelAtMaxTilt 1
+      dvar set vehHelicopterTiltMomentum 0.4
+      dvar set vehDebugServer 0
+      dvar set vehTextureScrollScale 0
+      dvar set vehTestHorsepower 200
+      dvar set vehTestWeight 5200
+      dvar set vehTestMaxMPH 40
+      dvar set missileHellfireMaxSlope 0.5
+      dvar set missileHellfireUpAccel 1000
+      dvar set missileJavClimbHeightDirect 10000
+      dvar set missileJavClimbHeightTop 15000
+      dvar set missileJavClimbAngleDirect 85
+      dvar set missileJavClimbAngleTop 50
+      dvar set missileJavClimbCeilingDirect 0
+      dvar set missileJavClimbCeilingTop 3000
+      dvar set missileJavTurnRateDirect 60
+      dvar set missileJavTurnRateTop 100
+      dvar set missileJavAccelClimb 300
+      dvar set missileJavAccelDescend 3000
+      dvar set missileJavSpeedLimitClimb 1000
+      dvar set missileJavSpeedLimitDescend 6000
+      dvar set missileJavTurnDecel 0.05
+      dvar set missileJavClimbToOwner 700
+      dvar set missileWaterMaxDepth 60
+      dvar set bg_viewKickScale 0.2
+      dvar set bg_viewKickMax 90
+      dvar set bg_viewKickMin 5
+      dvar set bg_viewKickRandom 0.4
+      dvar set player_view_pitch_up 85
+      dvar set player_view_pitch_down 85
+      dvar set player_lean_shift_left 5
+      dvar set player_lean_shift_right 9
+      dvar set player_lean_shift_crouch_left 4
+      dvar set player_lean_shift_crouch_right 15
+      dvar set player_lean_rotate_left 0.8
+      dvar set player_lean_rotate_right 0.4
+      dvar set player_lean_rotate_crouch_left 0.8
+      dvar set player_lean_rotate_crouch_right 0.3
+      dvar set bg_ladder_yawcap 100
+      dvar set bg_prone_yawcap 85
+      dvar set bg_foliagesnd_minspeed 40
+      dvar set bg_foliagesnd_maxspeed 180
+      dvar set bg_foliagesnd_slowinterval 1500
+      dvar set bg_foliagesnd_fastinterval 500
+      dvar set bg_foliagesnd_resetinterval 500
+      dvar set bg_fallDamageMinHeight 128
+      dvar set bg_fallDamageMaxHeight 300
+      dvar set inertiaMax 50
+      dvar set inertiaDebug 0
+      dvar set inertiaAngle 0
+      dvar set friction 5.5
+      dvar set stopspeed 100
+      dvar set bg_swingSpeed 0.2
+      dvar set bg_legYawTolerance 20
+      dvar set bg_bobAmplitudeSprinting 0.02 0.014
+      dvar set bg_bobAmplitudeStanding 0.007 0.007
+      dvar set bg_bobAmplitudeDucked 0.0075 0.0075
+      dvar set bg_bobAmplitudeProne 0.02 0.005
+      dvar set bg_bobMax 8
+      dvar set bg_aimSpreadMoveSpeedThreshold 11
+      dvar set bg_maxGrenadeIndicatorSpeed 20
+      dvar set player_breath_hold_time 4.5
+      dvar set player_breath_gasp_time 1
+      dvar set player_breath_fire_delay 0
+      dvar set player_breath_gasp_scale 4.5
+      dvar set player_breath_hold_lerp 1
+      dvar set player_breath_gasp_lerp 6
+      dvar set player_breath_snd_lerp 2
+      dvar set player_breath_snd_delay 1
+      dvar set player_scopeExitOnDamage 0
+      dvar set player_adsExitDelay 0
+      dvar set player_move_factor_on_torso 0
+      dvar set player_debugHealth 0
+      dvar set player_sustainAmmo 0
+      dvar set player_moveThreshhold 10
+      dvar set player_footstepsThreshhold 0
+      dvar set player_strafeSpeedScale 0.8
+      dvar set player_backSpeedScale 0.7
+      dvar set player_strafeAnimCosAngle 0.5
+      dvar set player_spectateSpeedScale 1
+      dvar set player_sprintSpeedScale 1.5
+      dvar set player_sprintTime 4
+      dvar set player_sprintMinTime 1
+      dvar set player_sprintRechargePause 0
+      dvar set player_sprintStrafeSpeedScale 0.667
+      dvar set player_sprintCameraBob 0.5
+      dvar set player_turnAnims 0
+      dvar set player_dmgtimer_timePerPoint 100
+      dvar set player_dmgtimer_maxTime 750
+      dvar set player_dmgtimer_minScale 0
+      dvar set player_dmgtimer_stumbleTime 500
+      dvar set player_dmgtimer_flinchTime 500
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set player_meleeRange 64
+      dvar set player_meleeWidth 10
+      dvar set player_meleeHeight 10
+      dvar set player_meleeChargeFriction 1200
+      dvar set player_burstFireCooldown 0.2
+      dvar set bullet_penetrationMinFxDist 30
+      dvar set jump_height 39
+      dvar set jump_stepSize 18
+      dvar set jump_slowdownEnable 1
+      dvar set jump_ladderPushVel 128
+      dvar set jump_spreadAdd 64
+      dvar set mantle_enable 1
+      dvar set mantle_debug 0
+      dvar set mantle_check_range 20
+      dvar set mantle_check_radius 0.1
+      dvar set mantle_check_angle 60
+      dvar set mantle_view_yawcap 60
+      dvar set perk_weapSpreadMultiplier 0.65
+      dvar set perk_weapReloadMultiplier 0.5
+      dvar set perk_weapRateMultiplier 0.75
+      dvar set perk_extraBreath 5
+      dvar set perk_bulletPenetrationMultiplier 2
+      dvar set perk_grenadeDeath frag_grenade_short_mp
+      dvar set perk_parabolicRadius 400
+      dvar set perk_parabolicAngle 180
+      dvar set perk_parabolicIcon specialty_parabolic
+      dvar set perk_sprintMultiplier 2
+      dvar set g_fogColorReadOnly 1 0 0 1
+      dvar set g_fogStartDistReadOnly 0
+      dvar set g_fogHalfDistReadOnly 0.1
+      dvar set masterServerName FrozenKiller_RuLeZ.com   
+      dvar set authServerName FrozenKiller_RuLeZ.com   
+      dvar set masterPort 20810
+      dvar set authPort 20800
+      dvar set com_timescale 1
+      dvar set timescale 1
+      dvar set fixedtime 0
+      dvar set fs_ignoreLocalized 0
+      dvar set bg_fallDamageMaxHeight 300
+      dvar set bg_fallDamageMinHeight 128
+      dvar set g_compassShowEnemies 0
+      dvar set g_useholdspawndelay 500
+      dvar set onlinegame 1
+      dvar set r_texFilterDisable 0
+      dvar set r_texFilterMipBias 0
+      dvar set r_fullbright 0
+      dvar set r_debugShader none
+      dvar set r_znear 4
+      dvar set r_znear_depthhack 0.1
+      dvar set r_zfar 0
+      dvar set r_fog 1
+      dvar set r_lightMap Unchanged
+      dvar set r_colorMap Unchanged
+      dvar set r_normalMap Unchanged
+      dvar set r_specularMap Unchanged
+      dvar set r_specularColorScale 1
+      dvar set r_diffuseColorScale 1
+      dvar set r_resampleScene 1
+      dvar set r_showPixelCost off
+      dvar set r_showLightGrid 0
+      dvar set r_showMissingLightGrid 0
+      dvar set r_lightTweakSunLight 1
+      dvar set r_lightTweakSunColor 0 1 0 1
+      dvar set r_lightTweakSunDirection 0 0 0
+      dvar set r_norefresh 0
+      dvar set r_scaleViewport 1
+      dvar set r_spotLightFovInnerFraction 0.7
+      dvar set r_spotLightStartRadius 36
+      dvar set r_spotLightEndRadius 196
+      dvar set r_spotLightShadows 1
+      dvar set r_spotLightSModelShadows 1
+      dvar set r_spotLightEntityShadows 1
+      dvar set r_spotLightBrightness 14
+      dvar set r_lockPvs 0
+      dvar set r_skipPvs 0
+      dvar set r_singleCell 0
+      dvar set r_portalWalkLimit 0
+      dvar set r_portalMinRecurseDepth 2
+      dvar set r_showPortals 0
+      dvar set r_showFbColorDebug None
+      dvar set r_showFloatZDebug 0
+      dvar set r_highLodDist -1
+      dvar set r_mediumLodDist -1
+      dvar set r_lowLodDist -1
+      dvar set r_lowestLodDist -1
+      dvar set r_forceLod none
+      dvar set r_modelVertColor 1
+      dvar set sc_blur 2
+      dvar set sc_count 24
+      dvar set sc_debugCasterCount 24
+      dvar set sc_debugReceiverCount 24
+      dvar set sc_showOverlay 0
+      dvar set sc_showDebug 0
+      dvar set sc_wantCount 12
+      dvar set sc_wantCountMargin 1
+      dvar set sc_fadeRange 0.25
+      dvar set sc_shadowInRate 2
+      dvar set sc_shadowOutRate 5
+      dvar set sc_length 400
+      dvar set sc_offscreenCasterLodBias 0
+      dvar set sc_offscreenCasterLodScale 20
+      dvar set sm_sunEnable 1
+      dvar set sm_spotEnable 1
+      dvar set sm_sunSampleSizeNear 0.25
+      dvar set sm_sunShadowCenter 0 0 0
+      dvar set sm_sunShadowScale 1
+      dvar set sm_strictCull 1
+      dvar set sm_fastSunShadow 1
+      dvar set sm_qualitySpotShadow 1
+      dvar set r_blur 0
+      dvar set r_glow 1
+      dvar set r_glowUseTweaks 0
+      dvar set r_glowTweakEnable 0
+      dvar set r_glowTweakRadius0 5
+      dvar set r_glowTweakBloomIntensity0 1
+      dvar set r_glowTweakBloomCutoff 0.5
+      dvar set r_glowTweakBloomDesaturation 0
+      dvar set r_filmUseTweaks 0
+      dvar set r_contrast 1
+      dvar set r_brightness 0
+      dvar set r_desaturation 1
+      dvar set r_dof_tweak 0
+      dvar set r_dof_nearBlur 6
+      dvar set r_dof_farBlur 1.8
+      dvar set r_dof_viewModelStart 2
+      dvar set r_dof_viewModelEnd 8
+      dvar set r_dof_nearStart 10
+      dvar set r_dof_nearEnd 60
+      dvar set r_dof_farStart 1000
+      dvar set r_dof_farEnd 7000
+      dvar set r_dof_bias 0.5
+      dvar set r_sun_from_dvars 0
+      dvar set clientSideEffects 1
+      dvar set g_debugDamage 0
+      dvar set g_debugBullets 0
+      dvar set bullet_penetrationEnabled 1
+      dvar set g_entinfo off
+      dvar set g_debugLocDamage 0
+      dvar set g_friendlyfireDist 256
+      dvar set g_friendlyNameDist 15000
+      dvar set melee_debug 0
+      dvar set radius_damage_debug 0
+      dvar set player_throwbackInnerRadius 90
+      dvar set player_throwbackOuterRadius 160
+      dvar set player_MGUseRadius 128
+      dvar set g_minGrenadeDamageSpeed 400
+      dvar set pickupPrints 0
+      dvar set g_dumpAnims -1
+      dvar set g_mantleBlockTimeBuffer 500
+      dvar set vehHelicopterMaxSpeed 150
+      dvar set vehHelicopterMaxSpeedVertical 65
+      dvar set vehHelicopterMaxAccel 45
+      dvar set vehHelicopterMaxAccelVertical 30
+      dvar set vehHelicopterMaxYawRate 120
+      dvar set vehHelicopterMaxYawAccel 90
+      dvar set vehHelicopterMaxPitch 35
+      dvar set vehHelicopterMaxRoll 35
+      dvar set vehHelicopterLookaheadTime 1
+      dvar set vehHelicopterHoverSpeedThreshold 400
+      dvar set vehHelicopterRightStickDeadzone 0.3
+      dvar set vehHelicopterStrafeDeadzone 0.3
+      dvar set vehHelicopterScaleMovement 1
+      dvar set vehHelicopterSoftCollisions 0
+      dvar set vehHelicopterDecelerationFwd 0.5
+      dvar set vehHelicopterDecelerationSide 1
+      dvar set vehHelicopterInvertUpDown 0
+      dvar set vehHelicopterYawOnLeftStick 5
+      dvar set vehHelicopterTiltSpeed 1.2
+      dvar set vehHelicopterTiltFromAcceleration 2
+      dvar set vehHelicopterTiltFromDeceleration 2
+      dvar set vehHelicopterTiltFromVelocity 1
+      dvar set vehHelicopterTiltFromControllerAxes 0
+      dvar set vehHelicopterTiltFromFwdAndYaw 0
+      dvar set vehHelicopterTiltFromFwdAndYaw_VelAtMaxTilt 1
+      dvar set vehHelicopterTiltMomentum 0.4
+      dvar set vehDebugServer 0
+      dvar set vehTextureScrollScale 0
+      dvar set vehTestHorsepower 200
+      dvar set vehTestWeight 5200
+      dvar set vehTestMaxMPH 40
+      dvar set missileHellfireMaxSlope 0.5
+      dvar set missileHellfireUpAccel 1000
+      dvar set missileJavClimbHeightDirect 10000
+      dvar set missileJavClimbHeightTop 15000
+      dvar set missileJavClimbAngleDirect 85
+      dvar set missileJavClimbAngleTop 50
+      dvar set missileJavClimbCeilingDirect 0
+      dvar set missileJavClimbCeilingTop 3000
+      dvar set missileJavTurnRateDirect 60
+      dvar set missileJavTurnRateTop 100
+      dvar set missileJavAccelClimb 300
+      dvar set missileJavAccelDescend 3000
+      dvar set missileJavSpeedLimitClimb 1000
+      dvar set missileJavSpeedLimitDescend 6000
+      dvar set missileJavTurnDecel 0.05
+      dvar set missileJavClimbToOwner 700
+      dvar set missileWaterMaxDepth 60
+      dvar set bg_viewKickScale 0.2
+      dvar set bg_viewKickMax 90
+      dvar set bg_viewKickMin 5
+      dvar set bg_viewKickRandom 0.4
+      dvar set player_view_pitch_up 85
+      dvar set player_view_pitch_down 85
+      dvar set player_lean_shift_left 5
+      dvar set player_lean_shift_right 9
+      dvar set player_lean_shift_crouch_left 4
+      dvar set player_lean_shift_crouch_right 15
+      dvar set player_lean_rotate_left 0.8
+      dvar set player_lean_rotate_right 0.4
+      dvar set player_lean_rotate_crouch_left 0.8
+      dvar set player_lean_rotate_crouch_right 0.3
+      dvar set bg_ladder_yawcap 100
+      dvar set bg_prone_yawcap 85
+      dvar set bg_foliagesnd_minspeed 40
+      dvar set bg_foliagesnd_maxspeed 180
+      dvar set bg_foliagesnd_slowinterval 1500
+      dvar set bg_foliagesnd_fastinterval 500
+      dvar set bg_foliagesnd_resetinterval 500
+      dvar set inertiaMax 50
+      dvar set inertiaDebug 0
+      dvar set inertiaAngle 0
+      dvar set friction 5.5
+      dvar set stopspeed 100
+      dvar set bg_swingSpeed 0.2
+      dvar set bg_legYawTolerance 20
+      dvar set bg_bobAmplitudeSprinting 0.02 0.014
+      dvar set bg_bobAmplitudeStanding 0.007 0.007
+      dvar set bg_bobAmplitudeDucked 0.0075 0.0075
+      dvar set bg_bobAmplitudeProne 0.02 0.005
+      dvar set bg_bobMax 8
+      dvar set bg_aimSpreadMoveSpeedThreshold 11
+      dvar set bg_maxGrenadeIndicatorSpeed 20
+      dvar set player_breath_hold_time 4.5
+      dvar set player_breath_gasp_time 1
+      dvar set player_breath_fire_delay 0
+      dvar set player_breath_gasp_scale 4.5
+      dvar set player_breath_hold_lerp 1
+      dvar set player_breath_gasp_lerp 6
+      dvar set player_breath_snd_lerp 2
+      dvar set player_breath_snd_delay 1
+      dvar set player_scopeExitOnDamage 0
+      dvar set player_adsExitDelay 0
+      dvar set player_move_factor_on_torso 0
+      dvar set player_debugHealth 0
+      dvar set player_sustainAmmo 0
+      dvar set player_moveThreshhold 10
+      dvar set player_footstepsThreshhold 0
+      dvar set player_strafeSpeedScale 0.8
+      dvar set player_backSpeedScale 0.7
+      dvar set player_strafeAnimCosAngle 0.5
+      dvar set player_spectateSpeedScale 1
+      dvar set player_sprintSpeedScale 1.5
+      dvar set player_sprintTime 4
+      dvar set player_sprintMinTime 1
+      dvar set player_sprintRechargePause 0
+      dvar set player_sprintStrafeSpeedScale 0.667
+      dvar set player_sprintCameraBob 0.5
+      dvar set player_turnAnims 0
+      dvar set player_dmgtimer_timePerPoint 100
+      dvar set player_dmgtimer_maxTime 750
+      dvar set player_dmgtimer_minScale 0
+      dvar set player_dmgtimer_stumbleTime 500
+      dvar set player_dmgtimer_flinchTime 500
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set player_meleeRange 64
+      dvar set player_meleeWidth 10
+      dvar set player_meleeHeight 10
+      dvar set player_meleeChargeFriction 1200
+      dvar set player_burstFireCooldown 0.2
+      dvar set bullet_penetrationMinFxDist 30
+      dvar set jump_height 39
+      dvar set jump_stepSize 18
+      dvar set jump_slowdownEnable 1
+      dvar set jump_ladderPushVel 128
+      dvar set jump_spreadAdd 64
+      dvar set mantle_enable 1
+      dvar set mantle_debug 0
+      dvar set mantle_check_range 20
+      dvar set mantle_check_radius 0.1
+      dvar set mantle_check_angle 60
+      dvar set mantle_view_yawcap 60
+      dvar set perk_weapSpreadMultiplier 0.65
+      dvar set perk_weapReloadMultiplier 0.5
+      dvar set perk_weapRateMultiplier 0.75
+      dvar set perk_extraBreath 5
+      dvar set perk_bulletPenetrationMultiplier 2
+      dvar set perk_grenadeDeath frag_grenade_short_mp
+      dvar set perk_parabolicRadius 400
+      dvar set perk_parabolicAngle 180
+      dvar set perk_parabolicIcon specialty_parabolic
+      dvar set perk_sprintMultiplier 2
+      dvar set g_fogColorReadOnly 1 0 0 1
+      dvar set g_fogStartDistReadOnly 0
+      dvar set g_fogHalfDistReadOnly 0.1
+      dvar set g_gravity 800
+-----------------------------------
+      dvar set ui_bomb_timer 0
+      dvar set scr_sd_bombtimer 45
+      dvar set scr_sd_defusetime 7
+      dvar set scr_sd_multibomb 0
+      dvar set scr_sd_numlives 1
+      dvar set scr_sd_planttime 5
+      dvar set scr_sd_playerrespawndelay 0
+      dvar set scr_sd_roundlimit 20
+      dvar set scr_sd_roundswitch 10
+      dvar set scr_sd_scorelimit 0
+      dvar set scr_sd_timelimit 1.75
+      dvar set scr_sd_waverespawndelay 0
+      dvar set scr_dom_numlives 0
+      dvar set scr_dom_playerrespawndelay 7
+      dvar set scr_dom_roundlimit 2
+      dvar set scr_dom_roundswitch 1
+      dvar set scr_dom_scorelimit 0
+      dvar set scr_dom_timelimit 15
+      dvar set scr_dom_waverespawndelay 0
+      dvar set koth_autodestroytime 120
+      dvar set koth_capturetime 20
+      dvar set koth_delayPlayer 0
+      dvar set koth_destroytime 10
+      dvar set koth_kothmode 0
+      dvar set koth_spawnDelay 45
+      dvar set koth_spawntime 10
+      dvar set scr_koth_numlives 0
+      dvar set scr_koth_playerrespawndelay 0
+      dvar set scr_koth_roundlimit 2
+      dvar set scr_koth_roundswitch 1
+      dvar set scr_koth_scorelimit 0
+      dvar set scr_koth_timelimit 15
+      dvar set scr_koth_waverespawndelay 0
+      dvar set scr_sab_bombtimer 45
+      dvar set scr_sab_defusetime 5
+      dvar set scr_sab_hotpotato 0
+      dvar set scr_sab_numlives 0
+      dvar set scr_sab_planttime 5
+      dvar set scr_sab_playerrespawndelay 7
+      dvar set scr_sab_roundlimit 4
+      dvar set scr_sab_roundswitch 2
+      dvar set scr_sab_scorelimit 0
+      dvar set scr_sab_timelimit 10
+      dvar set scr_sab_waverespawndelay 0
+      dvar set scr_war_numlives 0
+      dvar set scr_war_playerrespawndelay 0
+      dvar set scr_war_roundlimit 2
+      dvar set scr_war_scorelimit 0
+      dvar set scr_war_roundswitch 1
+      dvar set scr_war_timelimit 15
+      dvar set scr_war_waverespawndelay 0
+      dvar set scr_dm_numlives 0
+      dvar set scr_dm_playerrespawndelay 0
+      dvar set scr_dm_roundlimit 1
+      dvar set scr_dm_scorelimit 0
+      dvar set scr_dm_timelimit 10
+      dvar set scr_dm_waverespawndelay 0
+      dvar set class_assault_limit 64
+      dvar set class_specops_limit 2
+      dvar set class_demolitions_limit 1
+      dvar set class_sniper_limit 1
+      dvar set class_assault_allowdrop 1
+      dvar set class_specops_allowdrop 1
+      dvar set class_demolitions_allowdrop 0
+      dvar set class_sniper_allowdrop 0
+      dvar set weap_allow_m16 1
+      dvar set weap_allow_ak47 1
+      dvar set weap_allow_m4 1
+      dvar set weap_allow_g3 1
+      dvar set weap_allow_g36c 1
+      dvar set weap_allow_m14 1
+      dvar set weap_allow_mp44 1
+      dvar set attach_allow_assault_none 1
+      dvar set attach_allow_assault_silencer 1
+      dvar set weap_allow_mp5 1
+      dvar set weap_allow_uzi 1
+      dvar set weap_allow_ak74u 1
+      dvar set attach_allow_specops_none 1
+      dvar set attach_allow_specops_silencer 1
+      dvar set weap_allow_m1014 1
+      dvar set weap_allow_winchester1200 1
+      dvar set weap_allow_m40a3 1
+      dvar set weap_allow_remington700 1
+      dvar set weap_allow_beretta 1
+      dvar set weap_allow_colt45 1
+      dvar set weap_allow_usp 1
+      dvar set weap_allow_deserteagle 1
+      dvar set weap_allow_deserteaglegold 1
+      dvar set attach_allow_pistol_none 1
+      dvar set attach_allow_pistol_silencer 1
+      dvar set weap_allow_flash_grenade 1
+      dvar set weap_allow_frag_grenade 1
+      dvar set weap_allow_smoke_grenade 1
+      dvar set class_assault_primary ak47
+      dvar set class_assault_primary_attachment none
+      dvar set class_assault_secondary deserteagle
+      dvar set class_assault_secondary_attachment none
+      dvar set class_assault_grenade smoke_grenade
+      dvar set class_assault_camo camo_none
+      dvar set class_specops_primary ak74u
+      dvar set class_specops_primary_attachment none
+      dvar set class_specops_secondary deserteagle
+      dvar set class_specops_secondary_attachment none
+      dvar set class_specops_grenade smoke_grenade
+      dvar set class_specops_camo camo_none
+      dvar set class_demolitions_primary winchester1200
+      dvar set class_demolitions_primary_attachment none
+      dvar set class_demolitions_secondary deserteagle
+      dvar set class_demolitions_secondary_attachment none
+      dvar set class_demolitions_grenade smoke_grenade
+      dvar set class_demolitions_camo camo_none
+      dvar set class_sniper_primary m40a3
+      dvar set class_sniper_primary_attachment none
+      dvar set class_sniper_secondary deserteagle
+      dvar set class_sniper_secondary_attachment none
+      dvar set class_sniper_grenade smoke_grenade
+      dvar set class_sniper_camo camo_none
+      dvar set scr_team_fftype 0
+      dvar set scr_team_teamkillpointloss 5
+      dvar set scr_player_forcerespawn 1
+      dvar set scr_game_deathpointloss 0
+      dvar set scr_game_suicidepointloss 0
+      dvar set scr_player_suicidespawndelay 0
+      dvar set bg_fallDamageMinHeight 140
+      dvar set bg_fallDamageMaxHeight 350
+      dvar set logfile 1
+      dvar set g_log games_mp.log
+      dvar set g_logSync 0
+      dvar set g_inactivity 0
+      dvar set g_no_script_spam 1
+      dvar set g_antilag 1
+      dvar set g_smoothClients 1
+      dvar set sv_allowDownload 1
+      dvar set sv_maxPing 0
+      dvar set sv_minPing 0
+      dvar set sv_reconnectlimit 3
+      dvar set sv_timeout 240
+      dvar set sv_zombietime 2
+      dvar set sv_floodprotect 4
+      dvar set sv_kickBanTime 0
+      dvar set sv_disableClientConsole 0
+      dvar set sv_voice 0
+      dvar set sv_clientArchive 1
+      dvar set timescale 1
+      dvar set g_allowVote 0
+      dvar set g_deadChat 1
+      dvar set scr_game_allowkillcam 1
+      dvar set scr_game_spectatetype 1
+      dvar set scr_game_matchstarttime 10
+      dvar set scr_enable_hiticon 2
+      dvar set scr_enable_scoretext 1
+      dvar set promod_allow_strattime 10
+      dvar set promod_allow_readyup 0
+      dvar set promod_kniferound 1
+      dvar set g_maxDroppedWeapons 16
+      dvar set scr_hardcore 0
+      dvar set promod_hud_website 
+      dvar set promod_mc_enable 1
+      dvar set promod_mc_rs_every_round 1
+      dvar set promod_mc_delay 45
+      dvar set promod_mc_loopdelay 45
+      dvar set promod_mc_maxmessages 3
+      dvar set promod_mc_message_1 
+      dvar set promod_mc_message_2 
+      dvar set promod_mc_message_3 
+      dvar set promod_mc_messagedelay_1 0
+      dvar set promod_mc_messagedelay_2 5
+      dvar set promod_mc_messagedelay_3 10
+      dvar set ui_scorelimit 0
+      dvar set ui_timelimit 1.75
+      dvar set scr_player_maxhealth 100
+      dvar set scr_RequiredMapAspectratio 1
+Waited 32 msec for asset 'vehicle_80s_sedan1_green_destroyed' of type 'xmodel'.
+Loaded zone 'mp_strike'
+      dvar set authServerName cod4master.activision.com
+      dvar set scr_allies usmc
+      dvar set scr_axis arab
+      dvar set bg_bobMax 0
+      dvar set player_sustainAmmo 0
+      dvar set player_throwbackInnerRadius 0
+      dvar set player_throwbackOuterRadius 0
+      dvar set loc_warnings 0
+      dvar set promod_scorebot_ticker_num 0
+      dvar set class_assault_limit 64
+      dvar set class_specops_limit 2
+      dvar set class_demolitions_limit 1
+      dvar set class_sniper_limit 1
+      dvar set class_assault_allowdrop 1
+      dvar set class_specops_allowdrop 1
+      dvar set class_demolitions_allowdrop 0
+      dvar set class_sniper_allowdrop 0
+      dvar set weap_allow_m16 1
+      dvar set weap_allow_ak47 1
+      dvar set weap_allow_m4 1
+      dvar set weap_allow_g3 1
+      dvar set weap_allow_g36c 1
+      dvar set weap_allow_m14 1
+      dvar set weap_allow_mp44 1
+      dvar set attach_allow_assault_none 1
+      dvar set attach_allow_assault_silencer 1
+      dvar set weap_allow_mp5 1
+      dvar set weap_allow_uzi 1
+      dvar set weap_allow_ak74u 1
+      dvar set attach_allow_specops_none 1
+      dvar set attach_allow_specops_silencer 1
+      dvar set weap_allow_m1014 1
+      dvar set weap_allow_winchester1200 1
+      dvar set weap_allow_m40a3 1
+      dvar set weap_allow_remington700 1
+      dvar set weap_allow_beretta 1
+      dvar set weap_allow_colt45 1
+      dvar set weap_allow_usp 1
+      dvar set weap_allow_deserteagle 1
+      dvar set weap_allow_deserteaglegold 1
+      dvar set attach_allow_pistol_none 1
+      dvar set attach_allow_pistol_silencer 1
+      dvar set weap_allow_frag_grenade 1
+      dvar set weap_allow_flash_grenade 1
+      dvar set weap_allow_smoke_grenade 1
+      dvar set allies_allow_assault 1
+      dvar set allies_allow_specops 1
+      dvar set allies_allow_demolitions 1
+      dvar set allies_allow_sniper 1
+      dvar set axis_allow_assault 1
+      dvar set axis_allow_specops 1
+      dvar set axis_allow_demolitions 1
+      dvar set axis_allow_sniper 1
+      dvar set class_assault_primary ak47
+      dvar set class_assault_primary_attachment none
+      dvar set class_assault_secondary deserteagle
+      dvar set class_assault_secondary_attachment none
+      dvar set class_assault_grenade smoke_grenade
+      dvar set class_assault_camo camo_none
+      dvar set class_specops_primary ak74u
+      dvar set class_specops_primary_attachment none
+      dvar set class_specops_secondary deserteagle
+      dvar set class_specops_secondary_attachment none
+      dvar set class_specops_grenade smoke_grenade
+      dvar set class_specops_camo camo_none
+      dvar set class_demolitions_primary winchester1200
+      dvar set class_demolitions_primary_attachment none
+      dvar set class_demolitions_secondary deserteagle
+      dvar set class_demolitions_secondary_attachment none
+      dvar set class_demolitions_grenade smoke_grenade
+      dvar set class_demolitions_camo camo_none
+      dvar set class_sniper_primary m40a3
+      dvar set class_sniper_primary_attachment none
+      dvar set class_sniper_secondary deserteagle
+      dvar set class_sniper_secondary_attachment none
+      dvar set class_sniper_grenade smoke_grenade
+      dvar set class_sniper_camo camo_none
+      dvar set scr_enable_hiticon 2
+      dvar set scr_enable_scoretext 1
+      dvar set sv_hostname GameTrackerClaimServer
+      dvar set ui_hostname GameTrackerClaimServer
+      dvar set scr_motd JÃ³ JÃ¡tÃ©kot
+      dvar set ui_motd JÃ³ JÃ¡tÃ©kot
+      dvar set g_allowVote 0
+      dvar set ui_allowvote 0
+      dvar set ui_friendlyfire 0
+      dvar set scr_mapsize 64
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 0
+      dvar set bg_shock_screenFlashShotFadeTime 0
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay -1.5
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay -0.75
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/default.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/default.shock'
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 45
+      dvar set bg_shock_lookControl_maxyawspeed 45
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType flashed
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 3.5
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundLoop flashbang_tinnitus_loop
+      dvar set bg_shock_soundLoopSilent flashbang_tinnitus_loop_silent
+      dvar set bg_shock_soundEnd flashbang_tinnitus_end
+      dvar set bg_shock_soundEndAbort flashbang_tinnitus_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2
+      dvar set bg_shock_soundModEndDelay 1.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay 2
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 0.6
+      dvar set bg_shock_soundWetLevel 0.8
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/flashbang.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/flashbang.shock'
+      dvar set bg_shock_lookControl 0
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 0
+      dvar set g_TeamIcon_Allies faction_128_usmc
+      dvar set g_TeamColor_Allies 0.6 0.639216 0.690196 0
+      dvar set g_ScoresColor_Allies 0.6 0.639216 0.690196 0
+      dvar set g_TeamIcon_Axis faction_128_arab
+      dvar set g_TeamColor_Axis 0.65098 0.568627 0.411765 0
+      dvar set g_ScoresColor_Axis 0.65098 0.568627 0.411765 0
+      dvar set g_TeamName_Allies Támadók
+      dvar set g_TeamName_Axis Védõk
+      dvar set g_ScoresColor_Spectator 0.25098 0.25098 0.25098 0
+      dvar set g_ScoresColor_Free 0.760784 0.780392 0.101961 0
+      dvar set g_TeamColor_MyTeam 0.6 0.8 0.6 0
+      dvar set g_TeamColor_EnemyTeam 1 0.45098 0.501961 0
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 0
+      dvar set bg_shock_screenFlashShotFadeTime 0
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 1.5
+      dvar set bg_shock_sound 0
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay -1.5
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay -0.75
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/frag_grenade_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/frag_grenade_mp.shock'
+      dvar set bg_shock_lookControl 0
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 1
+      dvar set bg_shock_screenFlashShotFadeTime 1
+      dvar set bg_shock_viewKickPeriod 0.75
+      dvar set bg_shock_viewKickRadius 0.05
+      dvar set bg_shock_viewKickFadeTime 3
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_sound 1
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 1.5
+      dvar set bg_shock_soundLoopEndDelay -3
+      dvar set bg_shock_soundRoomType generic
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay 2
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 90
+      dvar set bg_shock_lookControl_maxyawspeed 90
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.5
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set bg_shock_screenType blurred
+      dvar set bg_shock_screenBlurBlendTime 0.4
+      dvar set bg_shock_screenBlurBlendFadeTime 1
+      dvar set bg_shock_screenFlashWhiteFadeTime 0
+      dvar set bg_shock_screenFlashShotFadeTime 0
+      dvar set bg_shock_viewKickPeriod 0.001
+      dvar set bg_shock_viewKickRadius 0
+      dvar set bg_shock_viewKickFadeTime 0.001
+      dvar set bg_shock_sound 0
+      dvar set bg_shock_soundLoop shellshock_loop
+      dvar set bg_shock_soundLoopSilent shellshock_loop_silent
+      dvar set bg_shock_soundEnd shellshock_end
+      dvar set bg_shock_soundEndAbort shellshock_end_abort
+      dvar set bg_shock_soundFadeInTime 0.25
+      dvar set bg_shock_soundFadeOutTime 2.5
+      dvar set bg_shock_soundLoopFadeTime 2
+      dvar set bg_shock_soundLoopEndDelay -1.5
+      dvar set bg_shock_soundRoomType underwater
+      dvar set bg_shock_soundDryLevel 1
+      dvar set bg_shock_soundWetLevel 0.5
+      dvar set bg_shock_soundModEndDelay -0.75
+WARNING: unknown dvar 'bg_shock_volume_physics' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_autodog' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletimpact' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_bulletwhizby' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_element' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_auto2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehicle' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_vehiclelimited' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_menu' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_body2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_reload2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_item' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects1' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_effects2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_weapon2d' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_nonshock' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_voice' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_local2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_ambient' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_hurt' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player1' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_player2' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_music' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_musicnopause' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_mission' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_announcer' in file 'shock/damage_mp.shock'
+WARNING: unknown dvar 'bg_shock_volume_shellshock' in file 'shock/damage_mp.shock'
+      dvar set bg_shock_lookControl 1
+      dvar set bg_shock_lookControl_maxpitchspeed 35
+      dvar set bg_shock_lookControl_maxyawspeed 35
+      dvar set bg_shock_lookControl_mousesensitivityscale 0.1
+      dvar set bg_shock_lookControl_fadeTime 2
+      dvar set bg_shock_movement 1
+      dvar set scr_testclients 0
+      dvar set mc_current_msg 0
+      dvar set sv_iwds -731582480 2115322797 1043426064 -292863836 173489706 -1846635013 -1079795827 -1041447890 -715502781 489843315 499941093 309900900 -165391090 648005745 -1190209610 
+      dvar set sv_iwdNames wh iw_13 iw_12 iw_11 iw_10 iw_09 iw_08 iw_07 iw_06 iw_05 iw_04 iw_03 iw_02 iw_01 iw_00
+      dvar set sv_referencedIwds -1190209610 -292863836 -731582480 
+      dvar set sv_referencedIwdNames main/iw_00 main/iw_11 mods/wh_promod/wh
+      dvar set sv_referencedFFCheckSums 89196 132970 13517381 35859527
+      dvar set sv_referencedFFNames code_post_gfx_mp mods/wh_promod/mod common_mp mp_strike
+-----------------------------------
+      dvar set sv_punkbuster 1
+      dvar set sv_cheats 0
+PunkBuster Server: pb_sv_GuidRelax = 7 (0 to 7)
+Hitch warning: 2506 msec frame time
+      dvar set mc_current_msg 0
+quitting...
+----- CL_Shutdown -----
+-----------------------
+----- Server Shutdown -----
+==== ShutdownGame (1) ====
+      dvar set sv_running 0
+---------------------------
+Unloaded fastfile mp_strike
+Unloaded fastfile localized_common_mp
+Unloaded fastfile common_mp
+Unloaded fastfile mod
+Unloaded fastfile localized_code_post_gfx_mp
+Unloaded fastfile code_post_gfx_mp

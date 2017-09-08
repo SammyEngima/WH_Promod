@@ -1,0 +1,102 @@
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE	SPECTATORS
+LANG_ENGLISH 	"Shoutcast"
+
+REFERENCE           NOSPECTATORVOICECHAT
+LANG_ENGLISH        "Nézelödõ nem használhat hangcsatit."
+
+REFERENCE           SPECTATOR
+LANG_ENGLISH        "Nézelödõ"
+
+REFERENCE           PRESSYESNO
+LANG_ENGLISH        "Nyomj '&&1' az igen-re, vagy '&&2' a nem-re"
+
+REFERENCE           VOTE
+LANG_ENGLISH        "Szavazás"
+
+REFERENCE           YES
+LANG_ENGLISH        "Igen"
+
+REFERENCE           NO
+LANG_ENGLISH        "Nem"
+
+REFERENCE           FOLLOWING
+LANG_ENGLISH        "Nézelödõ"
+
+REFERENCE           YOUKILLED
+LANG_ENGLISH        "^2Megölted - &&1"
+
+REFERENCE           TEAMMATE
+LANG_ENGLISH        "Csapatgyilkos"
+
+REFERENCE           UNKNOWN
+LANG_ENGLISH        "Ismeretlen"
+
+REFERENCE           PAUSED
+LANG_ENGLISH        "Paused"
+
+REFERENCE           PLAYERRENAMES
+LANG_ENGLISH        "Vissza állítás"
+
+REFERENCE           CONNECTIONINTERUPTED
+LANG_ENGLISH        "Kapcsolat akadozik"
+
+REFERENCE           SB_PLAYER
+LANG_ENGLISH        "&&1"
+
+REFERENCE           SB_PLAYERS
+LANG_ENGLISH        "&&1"
+
+REFERENCE           SPECTATORS
+LANG_ENGLISH        "Nézelödõ"
+
+REFERENCE           SB_SCORE
+LANG_ENGLISH        "Pont"
+
+REFERENCE           SB_DEATHS
+LANG_ENGLISH        "Halál"
+
+REFERENCE           SB_PING
+LANG_ENGLISH        "Válaszidõ"
+
+REFERENCE           MELEE
+LANG_ENGLISH        "Kés"
+
+REFERENCE           SUICIDE
+LANG_ENGLISH        "Gyorshalál"
+
+REFERENCE           WAITINGFORSERVERLOAD
+LANG_ENGLISH        "Pálya betöltése folyamatban... "
+
+REFERENCE           HEAD_SHOT
+LANG_ENGLISH        "Fejlövés"
+
+REFERENCE           PRONE_BLOCKED
+LANG_ENGLISH        "Hasalás tiltott"
+
+REFERENCE           HEALTH
+LANG_ENGLISH        "Sebesülés"
+
+REFERENCE           LISTENSERVER
+LANG_ENGLISH        "Szerver lista"
+
+REFERENCE           YOUWEREKILLED
+LANG_ENGLISH        "^1Megölt - &&1"
+
+REFERENCE           NOW_SAVING
+LANG_ENGLISH        "Mentés..."
+
+REFERENCE           CONTINUE_SAVING
+LANG_ENGLISH        "Mentés és kilép"
+
+REFERENCE           SB_KILLS
+LANG_ENGLISH        "Ölés"
+
+REFERENCE           SB_ASSISTS
+LANG_ENGLISH        "Segítség"
+
+
+ENDMARKER

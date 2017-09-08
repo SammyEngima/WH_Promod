@@ -1,0 +1,874 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KILLCAM
+LANG_ENGLISH        "Halálkamera"
+
+REFERENCE           ROUNDCAM
+LANG_ENGLISH        "Körkamera"
+
+REFERENCE           STARTING_NEW_ROUND
+LANG_ENGLISH        "Új kör indul..."
+
+REFERENCE           MATCH_STARTING_IN
+LANG_ENGLISH        "Küzdelem kezdete: "
+
+REFERENCE           PRESS_ATTACK_TO_SKIP
+LANG_ENGLISH        "Nyomj tûzgombot a továbblépéshez"
+
+REFERENCE           PRESS_USE_TO_SKIP
+LANG_ENGLISH        "Nyomj F-et a továbblépéshez"
+
+REFERENCE           PRESS_ATTACK_TO_RESPAWN
+LANG_ENGLISH        "Nyomj tûzgombot az újraéledéshez"
+
+REFERENCE           PRESS_USE_TO_RESPAWN
+LANG_ENGLISH        "Nyomj F-et az újraéledéshez"
+
+REFERENCE           PRESS_ACTIVATE_TO_RESPAWN
+LANG_ENGLISH        "Nyomj [{+activate}] az újraéledéshez"
+
+REFERENCE           PRESS_ACTIVATE_TO_SKIP
+LANG_ENGLISH        "Nyomj [{+activate}] a továbblépéshez"
+
+REFERENCE           PRESS_USERELOAD_TO_RESPAWN
+LANG_ENGLISH        "Nyomj [{+usereload}] az újraéledéshez"
+
+REFERENCE           PRESS_USERELOAD_TO_SKIP
+LANG_ENGLISH        "Nyomj [{+usereload}] a továbblépéshez"
+
+REFERENCE           CONNECTED
+LANG_ENGLISH        "Kapcsolódás"
+
+REFERENCE           DISCONNECTED
+LANG_ENGLISH        "Szétkapcsolt"
+
+REFERENCE           SCORE_LIMIT_REACHED
+LANG_ENGLISH        "Ponthatár elérve"
+
+REFERENCE           ROUND_LIMIT_REACHED
+LANG_ENGLISH        "Körhatár elérve"
+
+REFERENCE           TIME_LIMIT_REACHED
+LANG_ENGLISH        "Idõhatár elérve"
+
+REFERENCE           WINS
+LANG_ENGLISH        "Gyõzelem!"
+
+REFERENCE           TIE
+LANG_ENGLISH        "A játék döntetlen!"
+
+REFERENCE           MATCH_TIE
+LANG_ENGLISH        "A játék döntetlen!"
+
+REFERENCE           FRIENDLY_FIRE_WILL_NOT
+LANG_ENGLISH        "Csapattárs lelövését nem toleráljuk!"
+
+REFERENCE           AUTOBALANCE_NEXT_ROUND
+LANG_ENGLISH        "Csapatelosztás a következõ körben"
+
+REFERENCE           AUTOBALANCE_SECONDS
+LANG_ENGLISH        "Csapatelosztás &&1 másodperc"
+
+REFERENCE           AUTOBALANCE_NOW
+LANG_ENGLISH        "Csapatelosztás"
+
+REFERENCE           VOTE_CALLED
+LANG_ENGLISH        "Szavazás hívás:  "
+
+REFERENCE           VOTE_YES
+LANG_ENGLISH        "(F1) Igen:  "
+
+REFERENCE           VOTE_NO
+LANG_ENGLISH        "(F2)  Nem:  "
+
+REFERENCE           NEUTRAL
+LANG_ENGLISH        "Semleges:  "
+
+REFERENCE           VOTE_MAPRESTART
+LANG_ENGLISH        "Pálya újraindítás"
+
+REFERENCE           VOTE_NEXTMAP
+LANG_ENGLISH        "Következõ pálya"
+
+REFERENCE           PERCENT
+LANG_ENGLISH        " - &&1%"
+
+REFERENCE           CALLEDAVOTE
+LANG_ENGLISH        "&&1 Szavazást hív."
+
+REFERENCE           VOTECAST
+LANG_ENGLISH        "Szavazás."
+
+REFERENCE           VOTEPASSED
+LANG_ENGLISH        "Szavazás tiltott."
+
+REFERENCE           VOTEFAILED
+LANG_ENGLISH        "Szavazás elutasítva."
+
+REFERENCE           NOSPECTATORCALLVOTE
+LANG_ENGLISH        "Nem hívhat szavazást nézelödõ."
+
+REFERENCE           NOSPECTATORVOTE
+LANG_ENGLISH        "Nem szavazhat nézelödõ."
+
+REFERENCE           NOVOTEINPROGRESS
+LANG_ENGLISH        "Szavazás nem lehetséges."
+
+REFERENCE           VOTEALREADYINPROGRESS
+LANG_ENGLISH        "Szavazás folyamatban."
+
+REFERENCE           MAXVOTESCALLED
+LANG_ENGLISH        "Elérted a maximum szavazást."
+
+REFERENCE           INVALIDGAMETYPE
+LANG_ENGLISH        "Ismeretlen játéktípus."
+
+REFERENCE           INVALIDVOTESTRING
+LANG_ENGLISH        "Ismeretlen szavazás."
+
+REFERENCE           VOTECOMMANDS
+LANG_ENGLISH        "Szavazások: map_restart, map_rotate, map <mapname>, g_gametype <typename>, typemap <typename> <mapname>, kick <player>, clientkick <clientnum>, tempBanUser <player>, tempBanClient <clientNum>"
+
+REFERENCE           VOTE_CHANGEMAP
+LANG_ENGLISH        "Pályacsere: &&1"
+
+REFERENCE           VOTE_GAMETYPE
+LANG_ENGLISH        "Játéktípus: &&1"
+
+REFERENCE           VOTE_KICK
+LANG_ENGLISH        "Játékos kidobása: &&1"
+
+REFERENCE           VOTE_TEMPBAN
+LANG_ENGLISH        "Játékos banolása: &&1"
+
+REFERENCE           UNKNOWN
+LANG_ENGLISH        "Ismeretlen"
+
+REFERENCE           X2
+LANG_ENGLISH        "x2"
+
+REFERENCE           X3
+LANG_ENGLISH        "x3"
+
+REFERENCE           PLUS
+LANG_ENGLISH        "+"
+
+REFERENCE           MINUS
+LANG_ENGLISH        "-"
+
+REFERENCE           PLUS_AMOUNT
+LANG_ENGLISH        "+%s"
+
+REFERENCE           MINUS_AMOUNT
+LANG_ENGLISH        "-%s"
+
+REFERENCE           SLASH
+LANG_ENGLISH        "/"
+
+REFERENCE           EMPTY
+LANG_ENGLISH        "%s"
+
+REFERENCE           TEAMBALANCE_NOTIFICATION_MARINES
+LANG_ENGLISH        "Te mész a Tengerészgyalogos csapathoz"
+
+REFERENCE           TEAMBALANCE_NOTIFICATION_SAS
+LANG_ENGLISH        "Te mész a Különlegesalakulathoz"
+
+REFERENCE           TEAMBALANCE_NOTIFICATION_OPFOR
+LANG_ENGLISH        "Te mész a Terrorista csapathoz"
+
+REFERENCE           TEAMBALANCE_NOTIFICATION_SPETSNAZ
+LANG_ENGLISH        "Te mész a Orosz csapathoz"
+
+REFERENCE           OBJ_TEXT
+LANG_ENGLISH        "Gyûjtsd a pontokat,védd meg a Fõhadiszállásotokat,és az ellenségét pusztitsátok el. Nyertes csapatnak kell &&1 pont."
+
+REFERENCE           OBJ_TEXT_NOSCORE
+LANG_ENGLISH        "Gyûjtsd a pontokat,védd meg a Fõhadiszállásotokat,és az ellenségét pusztitsátok el."
+
+REFERENCE           OBJ_DM_ELIMINATE_OTHERS_SCORE
+LANG_ENGLISH        "Gyûjtsd a pontokat a többi játékos pusztitásával. A nyertes játékosnak kell még &&1 pont."
+
+REFERENCE           OBJ_DM_ELIMINATE_OTHERS
+LANG_ENGLISH        "Gyûjtsd a pontokat a többi játékos pusztitásával."
+
+REFERENCE           OBJ_DM_HINT
+LANG_ENGLISH        "Pusztíts el mindenkit."
+
+REFERENCE           OBJ_WAR_ELIMINATE_ENEMIES_SCORE
+LANG_ENGLISH        "Gyûjtsd a pontokat az ellenség pusztításával. A csapatnak &&1 pont kell a gyözelemhez."
+
+REFERENCE           OBJ_WAR_ELIMINATE_ENEMIES
+LANG_ENGLISH        "Gyûjtsd a pontokat az ellenség pusztításával."
+
+REFERENCE           OBJ_WAR_HINT
+LANG_ENGLISH        "Pusztítsd el az ellenséget."
+
+REFERENCE           REINFORCEMENTS
+LANG_ENGLISH        "Az utánpotlásig még &&1 másodperc"
+
+REFERENCE           REINFORCEMENTS_HUD
+LANG_ENGLISH        "Utánpotlás: &&1"
+
+REFERENCE           LOSING_HQ
+LANG_ENGLISH        "Fõhadiszállás Elvesztése!"
+
+REFERENCE           MAXHOLDTIME_MINUTESANDSECONDS
+LANG_ENGLISH        "&&1 Õrizd a rádiot még maximum &&2 perc,és &&3 másodpercig!"
+
+REFERENCE           MAXHOLDTIME_MINUTES
+LANG_ENGLISH        "&&1 Fõhadiszállás sikeressen megvédve!"
+
+REFERENCE           MAXHOLDTIME_SECONDS
+LANG_ENGLISH        "&&1 Õrizd a rádiot még maximum &&2 percig!"
+
+REFERENCE           MAXHOLDTIME_ALLIES
+LANG_ENGLISH        "Szövetségeseknek még &&1 percig kell védeni a rádiot!"
+
+REFERENCE           MAXHOLDTIME_AXIS
+LANG_ENGLISH        "Tengelyhatalmaknak még &&1 percig kell védeni a rádiót!"
+
+REFERENCE           TIME_TILL_SPAWN
+LANG_ENGLISH        "Éledés "
+
+REFERENCE           RESPAWN_WHEN_RADIO_NEUTRALIZED
+LANG_ENGLISH        "A rádió megsemmisült"
+
+REFERENCE           MATCHSTARTING
+LANG_ENGLISH        "Küzdelem indul"
+
+REFERENCE           MATCHRESUMING
+LANG_ENGLISH        "Küzdelem folytatódik"
+
+REFERENCE           ROUNDDRAW
+LANG_ENGLISH        "Kör elvesztve"
+
+REFERENCE           ENEMIES_ELIMINATED
+LANG_ENGLISH        "Pusztítsd el az ellenséget"
+
+REFERENCE           BOMB_DEFUSED
+LANG_ENGLISH        "Bomba hatástalanítva"
+
+REFERENCE           TARGET_DESTROYED
+LANG_ENGLISH        "Célpont hatástalanítva"
+
+REFERENCE           TIME_EXPIRED
+LANG_ENGLISH        "Lejárt az idõ"
+
+REFERENCE           PLANTING_EXPLOSIVE
+LANG_ENGLISH        "Élesítés..."
+
+REFERENCE           DEFUSING_EXPLOSIVE
+LANG_ENGLISH        "Hatástalanítás..."
+
+REFERENCE           EXPLOSIVESPLANTED
+LANG_ENGLISH        "Robbanásra élesítve"
+
+REFERENCE           EXPLOSIVES_PLANTED
+LANG_ENGLISH        "Az ellenség élesítette a robbanóanyagot!"
+
+REFERENCE           EXPLOSIVES_PLANTED_BY
+LANG_ENGLISH        "&&1 A robbanóanyagot élesítette!"
+
+REFERENCE           EXPLOSIVES_DEFUSED_BY
+LANG_ENGLISH        "&&1 A robbanóanyagot hatástalanította!"
+
+REFERENCE           EXPLOSIVES_RECOVERED_BY
+LANG_ENGLISH        "&&1 A robbanóanyagot visszaszerezte!"
+
+REFERENCE           EXPLOSIVES_DROPPED_BY
+LANG_ENGLISH        "&&1 A robbanóanyagot elhagyta!"
+
+REFERENCE           EXPLOSIVESDEFUSED
+LANG_ENGLISH        "Robbanóanyag hatástalanítva"
+
+REFERENCE           OBJ_ATTACKERS
+LANG_ENGLISH        "Semmisitsd meg az A-t vagy a B-t,élesítsd a robbanó anyagot a kijelölt helyen. Nyertes csapatnak még &&1 pont kell."
+
+REFERENCE           OBJ_ATTACKERS_NOSCORE
+LANG_ENGLISH        "Semmisitsd meg az A-t vagy a B-t,élesítsd a robbanó anyagot a kijelölt helyen."
+
+REFERENCE           OBJ_DEFENDERS
+LANG_ENGLISH        "Védd meg az A-t vagy a B-t, akadályozd meg a robbanó anyag elhelyezését. Nyertes csapatnak &&1 pont kell."
+
+REFERENCE           OBJ_DEFENDERS_NOSCORE
+LANG_ENGLISH        "Védd meg az A-t vagy a B-t, akadályozd meg a robbanó anyag elhelyezését."
+
+REFERENCE           OBJ_SPECTATOR_ALLIESATTACKING
+LANG_ENGLISH        "Tengerészgyalogosok: Semmisitsd meg az A-t vagy a B-t,élesítsd a robbanó anyagot a kijelölt helyen.\n\nOroszerõk: Védd meg az A-t vagy a B-t, akadályozd meg a robbanó anyag elhelyezését."
+
+REFERENCE           OBJ_SPECTATOR_AXISATTACKING
+LANG_ENGLISH        "Tengerészgyalogosok: Védd meg az A-t vagy a B-t, akadályozd meg a robbanó anyag elhelyezését.\n\nOroszerõk: Semmisitsd meg az A-t vagy a B-t,élesítsd a robbanó anyagot a kijelölt helyen."
+
+REFERENCE           ALLIESOBJECTIVEHELD
+LANG_ENGLISH        "Tengerészgyalogosok megvédték az objektumot"
+
+REFERENCE           AXISOBJECTIVEHELD
+LANG_ENGLISH        "Oroszerök megvédték az objektumot."
+
+REFERENCE           ALLIESOBJECTIVECAPTURED
+LANG_ENGLISH        "Tengerészgyalogosok elfoglalták az objektumot"
+
+REFERENCE           AXISOBJECTIVECAPTURED
+LANG_ENGLISH        "Oroszerök elfoglalták az objektumot."
+
+REFERENCE           ALLIES_WIN_MATCH
+LANG_ENGLISH        "Tengerészgyalogosok nyertek!"
+
+REFERENCE           CAPTURING_OBJECTIVE
+LANG_ENGLISH        "Objektum foglalása..."
+
+REFERENCE           ENEMY_CAPTURING_OBJECTIVE
+LANG_ENGLISH        "Az ellenség elfoglalta az objektumot!"
+
+REFERENCE           ALLIED_ATTACK
+LANG_ENGLISH        "Támadás,az oroszerök védenek!"
+
+REFERENCE           ALLIED_DEFEND
+LANG_ENGLISH        "Védd az objektumot,az oroszerõk támadásától!"
+
+REFERENCE           AXIS_ATTACK
+LANG_ENGLISH        "Támadás,a tengerészgyalogosok védenek!"
+
+REFERENCE           AXIS_DEFEND
+LANG_ENGLISH        "Védd az objektumot,a tengerészgyalogos támadástól!"
+
+REFERENCE           WAITING_FOR_TEAMS
+LANG_ENGLISH        "Várj a csapat elkészültére..."
+
+REFERENCE           MATCH_STARTING
+LANG_ENGLISH        "Küzdelem indul"
+
+REFERENCE           MATCH_STARTING_IN
+LANG_ENGLISH        "Küzdelem kezdete: "
+
+REFERENCE           WAITING_MATCH
+LANG_ENGLISH        "Várj a küzdelem idulására..."
+
+REFERENCE           YOU_ALLIED_PLATOON_LEADER
+LANG_ENGLISH        "Te vagy a tengerészgyalogosok vezetõje!"
+
+REFERENCE           YOU_AXIS_PLATOON_LEADER
+LANG_ENGLISH        "Te vagy az oroszerõk vezetõje!"
+
+REFERENCE           IS_PLATOON_LEADER
+LANG_ENGLISH        "%s a csapat vezetõje."
+
+REFERENCE           LEFT_PLAYS
+LANG_ENGLISH        "Balra néz"
+
+REFERENCE           MIDDLE_PLAYS
+LANG_ENGLISH        "Középre néz"
+
+REFERENCE           RIGHT_PLAYS
+LANG_ENGLISH        "Jobbra néz"
+
+REFERENCE           ALL_PLAYS
+LANG_ENGLISH        "Mindent néz"
+
+REFERENCE           PREV_PLAY
+LANG_ENGLISH        "Elözõ nézet"
+
+REFERENCE           NEXT_PLAY
+LANG_ENGLISH        "Következõ nézet"
+
+REFERENCE           THIS_PLAY
+LANG_ENGLISH        "Választott nézet"
+
+REFERENCE           UPTEAM
+LANG_ENGLISH        "Tengerészgyalogos"
+
+REFERENCE           DOWNTEAM
+LANG_ENGLISH        "Terrorista"
+
+REFERENCE           BACK
+LANG_ENGLISH        "Vissza"
+
+REFERENCE           CLOSE
+LANG_ENGLISH        "Bezár"
+
+REFERENCE           WAITING_RESUME
+LANG_ENGLISH        "Játékosra várás a küzdelemhez"
+
+REFERENCE           PLAYER_TOGGLE_MUTE
+LANG_ENGLISH        "Némítás"
+
+REFERENCE           MUTED
+LANG_ENGLISH        "Némitva"
+
+REFERENCE           CAPTURE_AND_HOLD_FLAG
+LANG_ENGLISH        "Foglald el és védd meg a zászlókat. Az elsõ játékosnak &&1 pont kell a gyõzelemhez."
+
+REFERENCE           CAPTURE_AND_HOLD_FLAG_NOSCORE
+LANG_ENGLISH        "Foglald el és védd meg a zászlókat."
+
+REFERENCE           ESTABLISH_AND_DEFEND
+LANG_ENGLISH        "Establish and defend your Headquarters."
+
+REFERENCE           CAPTURE_THE_ENEMY_FLAG
+LANG_ENGLISH        "Elfoglalni az ellenség zászlaját."
+
+REFERENCE           DESTROY_THE_OBJECTIVE
+LANG_ENGLISH        "Objetum elpusztitva."
+
+REFERENCE           DEFEND_THE_OBJECTIVE
+LANG_ENGLISH        "Defend the objective."
+
+REFERENCE           ELIMINATE_ENEMIES
+LANG_ENGLISH        "Pusztítsd az ellenséget."
+
+REFERENCE           ELIMINATE_THE_ENEMY
+LANG_ENGLISH        "Pusztítsd el az ellenséget."
+
+REFERENCE           ENEMY_FLAG_CAPTURED
+LANG_ENGLISH        "Ellenség elfoglalta a zászlót!"
+
+REFERENCE           YOUR_FLAG_WAS_CAPTURED
+LANG_ENGLISH        "Elfoglaltad a zászlót"
+
+REFERENCE           YOUR_FLAG_WAS_RETURNED
+LANG_ENGLISH        "Vissza foglaltad a zászlót"
+
+REFERENCE           YOUR_FLAG_WAS_TAKEN
+LANG_ENGLISH        "Your flag was taken!"
+
+REFERENCE           ENEMY_FLAG_TAKEN
+LANG_ENGLISH        "Enemy flag taken!"
+
+REFERENCE           RADIOS_SPAWN_IN_SECONDS
+LANG_ENGLISH        "Új rádióig még &&1 másodperc"
+
+REFERENCE           KILL
+LANG_ENGLISH        "Ölés"
+
+REFERENCE           HEADSHOT
+LANG_ENGLISH        "Fejlövés"
+
+REFERENCE           ASSIST
+LANG_ENGLISH        "Segítség"
+
+REFERENCE           DEFUSE
+LANG_ENGLISH        "Hatástalanít"
+
+REFERENCE           DEFEND
+LANG_ENGLISH        "Védekezõ"
+
+REFERENCE           CAPTURE
+LANG_ENGLISH        "Foglalás"
+
+REFERENCE           WIN
+LANG_ENGLISH        "Gyõzelem"
+
+REFERENCE           LOSS
+LANG_ENGLISH        "Elveszt"
+
+REFERENCE           TEAMKILL
+LANG_ENGLISH        "Csapat ölés"
+
+REFERENCE           SUICIDE
+LANG_ENGLISH        "Öngyilkosság"
+
+REFERENCE           KILL_PREFIX
+LANG_ENGLISH        "Ölés: "
+
+REFERENCE           HEADSHOT_PREFIX
+LANG_ENGLISH        "Fejlövés: "
+
+REFERENCE           ASSIST_PREFIX
+LANG_ENGLISH        "Segítség: "
+
+REFERENCE           DEFUSE_PREFIX
+LANG_ENGLISH        "Hatástalanít: "
+
+REFERENCE           DEFEND_PREFIX
+LANG_ENGLISH        "Véd: "
+
+REFERENCE           CAPTURE_PREFIX
+LANG_ENGLISH        "Zsákmányol: "
+
+REFERENCE           WIN_PREFIX
+LANG_ENGLISH        "Gyõztes: "
+
+REFERENCE           LOSS_PREFIX
+LANG_ENGLISH        "Elveszt: "
+
+REFERENCE           TEAMKILL_PREFIX
+LANG_ENGLISH        "Csapat ölés: "
+
+REFERENCE           SUICIDE_PREFIX
+LANG_ENGLISH        "Öngyilkosság: "
+
+REFERENCE           PTS
+LANG_ENGLISH        "pts"
+
+REFERENCE           1ST
+LANG_ENGLISH        "1.Hely"
+
+REFERENCE           2ND
+LANG_ENGLISH        "2.Hely"
+
+REFERENCE           3RD
+LANG_ENGLISH        "3.Hely"
+
+REFERENCE           ST
+LANG_ENGLISH        "Helyezés"
+
+REFERENCE           TEMP_DRAW
+LANG_ENGLISH        "Vereség"
+
+REFERENCE           DOM_CAPTURING_FLAG
+LANG_ENGLISH        "Zászló foglalása"
+
+REFERENCE           DOM_LOSING_FLAG
+LANG_ENGLISH        "Zászló elvesztése!"
+
+REFERENCE           FRIENDLY_FLAG_CAPTURED_BY
+LANG_ENGLISH        "&&1 elfoglalta a zászlót!"
+
+REFERENCE           NEUTRAL_FLAG_CAPTURED_BY
+LANG_ENGLISH        "&&1 elfoglalta a zászlót!"
+
+REFERENCE           THE_ENEMY
+LANG_ENGLISH        "Az ellenség"
+
+REFERENCE           YOUR_TEAM
+LANG_ENGLISH        "A csapatod"
+
+REFERENCE           DOM_ENEMY_FLAG_CAPTURED
+LANG_ENGLISH        "Ellenséges zászló elfoglalva"
+
+REFERENCE           DOM_YOUR_FLAG_WAS_CAPTURED
+LANG_ENGLISH        "Zászlót elfoglaltad"
+
+REFERENCE           DOM_NEUTRAL_FLAG_CAPTURED
+LANG_ENGLISH        "Zászló foglalva"
+
+REFERENCE           WAR_WAITING_FOR_RADAR
+LANG_ENGLISH        "Várj még a radarral..."
+
+REFERENCE           WAR_RADAR_ACQUIRED
+LANG_ENGLISH        "Radar aktív &&1 tol &&2 másodpercig"
+
+REFERENCE           WAR_RADAR_ACQUIRED_ENEMY
+LANG_ENGLISH        "Ellenséges radar aktív &&1 másodpercig"
+
+REFERENCE           WAR_RADAR_EXPIRED
+LANG_ENGLISH        "Radar inaktív"
+
+REFERENCE           WAR_RADAR_EXPIRED_ENEMY
+LANG_ENGLISH        "Ellenséges radar inaktív"
+
+REFERENCE           WAR
+LANG_ENGLISH        "Csapatmérkõzés"
+
+REFERENCE           SEARCH_AND_DESTROY
+LANG_ENGLISH        "Keres & pusztít"
+
+REFERENCE           SABOTAGE
+LANG_ENGLISH        "Szabotázs"
+
+REFERENCE           DOMINATION
+LANG_ENGLISH        "Uralom"
+
+REFERENCE           DEATHMATCH
+LANG_ENGLISH        "Darálás"
+
+REFERENCE           KING_OF_THE_HILL
+LANG_ENGLISH        "Fõhadiszállás"
+
+REFERENCE           WAITING_TO_SPAWN
+LANG_ENGLISH        "Várj az újraéledésre"
+
+REFERENCE           SPAWN_NEXT_ROUND
+LANG_ENGLISH        "Újraéledsz a következõ körben."
+
+REFERENCE           WAR_WAITING_FOR_AIRSTRIKE
+LANG_ENGLISH        "Várj még a légicsapással..."
+
+REFERENCE           WAR_AIRSTRIKE_INBOUND
+LANG_ENGLISH        "Légicsapást hívott: &&1"
+
+REFERENCE           WAR_AIRSTRIKE_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "Baráti légicsapás,õrizd a pozíciód!"
+
+REFERENCE           WAR_AIRSTRIKE_CROSSHAIR
+LANG_ENGLISH        "><"
+
+REFERENCE           HELICOPTER_INBOUND
+LANG_ENGLISH        "Helikoptert hívott: &&1"
+
+REFERENCE           POINTS_TO_WIN
+LANG_ENGLISH        "%s ponttal gyõzött."
+
+REFERENCE           MARINES_NAME
+LANG_ENGLISH        "Csatlakozás a Tengerészgyalogosokhoz!"
+
+REFERENCE           SAS_NAME
+LANG_ENGLISH        "Csatlakozás a Különleges alakulathoz!"
+
+REFERENCE           OPFOR_NAME
+LANG_ENGLISH        "Csatlakozás a Terrorista csapathoz!"
+
+REFERENCE           SPETSNAZ_NAME
+LANG_ENGLISH        "Csatlakozás a Orosz csapathoz!"
+
+REFERENCE           EARNED_AIRSTRIKE
+LANG_ENGLISH        "Nyomj [{+actionslot 4}] a légicsapáshoz."
+
+REFERENCE           EARNED_RADAR
+LANG_ENGLISH        "Nyomj [{+actionslot 4}] a radarhoz."
+
+REFERENCE           EARNED_HELICOPTER
+LANG_ENGLISH        "Nyomj [{+actionslot 4}] a helikopterhez."
+
+REFERENCE           FIRSTPLACE_NAME
+LANG_ENGLISH        "1.Hely &&1"
+
+REFERENCE           SECONDPLACE_NAME
+LANG_ENGLISH        "2.Hely &&1"
+
+REFERENCE           THIRDPLACE_NAME
+LANG_ENGLISH        "3.Hely &&1"
+
+REFERENCE           DRAW
+LANG_ENGLISH        "Döntetlen"
+
+REFERENCE           VICTORY
+LANG_ENGLISH        "Gyõzelem!"
+
+REFERENCE           DEFEAT
+LANG_ENGLISH        "Vereség!"
+
+REFERENCE           ROUND_DRAW
+LANG_ENGLISH        "Kör döntetlen"
+
+REFERENCE           ROUND_WIN
+LANG_ENGLISH        "Nyertes kör"
+
+REFERENCE           ROUND_LOSS
+LANG_ENGLISH        "Elvesztett kör"
+
+REFERENCE           HALFTIME
+LANG_ENGLISH        "Félidõ"
+
+REFERENCE           OVERTIME
+LANG_ENGLISH        "Lejárt az idõ"
+
+REFERENCE           SWITCHING_SIDES
+LANG_ENGLISH        "Térfélcsere"
+
+REFERENCE           MATCH_BONUS_IS
+LANG_ENGLISH        "Körbonusz: &&1"
+
+REFERENCE           MARINES_WIN
+LANG_ENGLISH        "Tengerészgyalogosok gyõztek!"
+
+REFERENCE           MARINES_WIN_MATCH
+LANG_ENGLISH        "Tengerészgyalogosok nyertek!"
+
+REFERENCE           MARINES_WIN_ROUND
+LANG_ENGLISH        "Tengerészgyalogosok nyerték a kört!"
+
+REFERENCE           MARINES_MISSION_ACCOMPLISHED
+LANG_ENGLISH        "Tengerészgyalogosok a küldetést elveszítették"
+
+REFERENCE           MARINES_ELIMINATED
+LANG_ENGLISH        "Tengerészgyalogosok megsemmisítve"
+
+REFERENCE           MARINES_FORFEITED
+LANG_ENGLISH        "Tengerészgyalogosok feladták"
+
+REFERENCE           MARINES_DESTROYED_TARGET
+LANG_ENGLISH        "Tengerészgyalogosok elpusztították a célpontot"
+
+REFERENCE           MARINES_DEFENDED_TARGET
+LANG_ENGLISH        "Tengerészgyalogosok megvédték a célpontot"
+
+REFERENCE           SAS_WIN
+LANG_ENGLISH        "Különleges alakulat gyözött!"
+
+REFERENCE           SAS_WIN_MATCH
+LANG_ENGLISH        "Különleges alakulat nyert!"
+
+REFERENCE           SAS_WIN_ROUND
+LANG_ENGLISH        "Különleges alakulat nyerte a kört!"
+
+REFERENCE           SAS_MISSION_ACCOMPLISHED
+LANG_ENGLISH        "Különleges alakulat küldetést elveszítette"
+
+REFERENCE           SAS_ELIMINATED
+LANG_ENGLISH        "Különleges alakulat megsemmisítve"
+
+REFERENCE           SAS_FORFEITED
+LANG_ENGLISH        "Különleges alakulat feladta"
+
+REFERENCE           SAS_DESTROYED_TARGET
+LANG_ENGLISH        "Különleges alakulat elpusztította a célpontot"
+
+REFERENCE           SAS_DEFENDED_TARGET
+LANG_ENGLISH        "Különleges alakulat megvédte a célpontot"
+
+REFERENCE           OPFOR_WIN
+LANG_ENGLISH        "Terrorista csapat gyõzött!"
+
+REFERENCE           OPFOR_WIN_MATCH
+LANG_ENGLISH        "Terrorista csapat nyert!"
+
+REFERENCE           OPFOR_WIN_ROUND
+LANG_ENGLISH        "Terrorista csapat nyerte a kört!"
+
+REFERENCE           OPFOR_MISSION_ACCOMPLISHED
+LANG_ENGLISH        "Terrorista csapat küldetést elveszítette"
+
+REFERENCE           OPFOR_ELIMINATED
+LANG_ENGLISH        "Terrorista csapat megsemmisítve"
+
+REFERENCE           OPFOR_FORFEITED
+LANG_ENGLISH        "Terrorista csapat feladta"
+
+REFERENCE           OPFOR_DESTROYED_TARGET
+LANG_ENGLISH        "Terrorista csapat elpusztította a célpontot"
+
+REFERENCE           OPFOR_DEFENDED_TARGET
+LANG_ENGLISH        "Terrorista csapat megvédte a célpontot"
+
+REFERENCE           SPETSNAZ_WIN
+LANG_ENGLISH        "Orosz csapat gyõzött!"
+
+REFERENCE           SPETSNAZ_WIN_MATCH
+LANG_ENGLISH        "Orosz csapat nyert!"
+
+REFERENCE           SPETSNAZ_WIN_ROUND
+LANG_ENGLISH        "Orosz csapat megnyerte a kört!"
+
+REFERENCE           SPETSNAZ_MISSION_ACCOMPLISHED
+LANG_ENGLISH        "Orosz csapat küldetést elveszítette"
+
+REFERENCE           SPETSNAZ_ELIMINATED
+LANG_ENGLISH        "Orosz csapat megsemmisítve"
+
+REFERENCE           SPETSNAZ_FORFEITED
+LANG_ENGLISH        "Orosz csapat feladta"
+
+REFERENCE           PLAYERS_FORFEITED
+LANG_ENGLISH        "Játékos feladta"
+
+REFERENCE           SPETSNAZ_DESTROYED_TARGET
+LANG_ENGLISH        "Orosz csapat elpusztította a célpontot"
+
+REFERENCE           SPETSNAZ_DEFENDED_TARGET
+LANG_ENGLISH        "Orosz csapat megvédte a célpontot"
+
+REFERENCE           RADAR_NOT_AVAILABLE
+LANG_ENGLISH        "Radar nem elérhetõ"
+
+REFERENCE           AIRSTRIKE_NOT_AVAILABLE
+LANG_ENGLISH        "Légicsapás nem elérhetõ"
+
+REFERENCE           HELICOPTER_NOT_AVAILABLE
+LANG_ENGLISH        "Helikopter nem elérhetõ"
+
+REFERENCE           CONTROL_HQ
+LANG_ENGLISH        "Fõhadiszállás kijelölése."
+
+REFERENCE           CAPTURE_HQ
+LANG_ENGLISH        "Foglald el a Fõhadiszállást."
+
+REFERENCE           DESTROY_HQ
+LANG_ENGLISH        "Pusztítsd el a Fõhadiszállást."
+
+REFERENCE           DEFEND_HQ
+LANG_ENGLISH        "Védd a Fõhadiszállást."
+
+REFERENCE           HQ_AVAILABLE_IN
+LANG_ENGLISH        "Új Fõhadiszállás: &&1"
+
+REFERENCE           HQ_DESPAWN_IN
+LANG_ENGLISH        "Fõhadiszállás: &&1"
+
+REFERENCE           HQ_REINFORCEMENTS_IN
+LANG_ENGLISH        "Utánpótlás: &&1"
+
+REFERENCE           CAPTURING_HQ
+LANG_ENGLISH        "Fõhadiszállás foglalása..."
+
+REFERENCE           DESTROYING_HQ
+LANG_ENGLISH        "Fõhadiszállás elpusztítása..."
+
+REFERENCE           HQ_CAPTURED_BY
+LANG_ENGLISH        "Fõhadiszállást elfoglalta &&1!"
+
+REFERENCE           HQ_CAPTURED_BY_ENEMY
+LANG_ENGLISH        "Ellenség elfoglata a Fõhadiszállást!"
+
+REFERENCE           HQ_DESTROYED_BY
+LANG_ENGLISH        "Fõhadiszállást elpusztította &&1!"
+
+REFERENCE           HQ_DESTROYED_BY_ENEMY
+LANG_ENGLISH        "Ellenség elpusztította a Fõhadiszállást!"
+
+REFERENCE           JOINED_MARINES
+LANG_ENGLISH        "&&1 csatlakozik a Tengerészgyalogosokhoz"
+
+REFERENCE           JOINED_SAS
+LANG_ENGLISH        "&&1 csatlakozik a Különleges alakulathoz"
+
+REFERENCE           JOINED_OPFOR
+LANG_ENGLISH        "&&1 csatlakozik a Terroristákhoz"
+
+REFERENCE           JOINED_SPETSNAZ
+LANG_ENGLISH        "&&1 csatlakozik az Oroszerõkhöz"
+
+REFERENCE           CHANGE_CLASS_NEXT_SPAWN
+LANG_ENGLISH        "Kiválaszott beállítás a következõ újraéledésnél."
+
+REFERENCE           HOST_ENDGAME_RESPONSE
+LANG_ENGLISH        "Action unavailable, outcome already in progress."
+
+REFERENCE           ROUNDEND
+LANG_ENGLISH        "Kör vége"
+
+REFERENCE           INTERMISSION
+LANG_ENGLISH        "Félbeszakadt"
+
+REFERENCE           SUDDEN_DEATH
+LANG_ENGLISH        "Gyors halál"
+
+REFERENCE           TEAM_SCORED
+LANG_ENGLISH        "Csapatod elérte a ponthatárt! "
+
+REFERENCE           ENEMY_SCORED
+LANG_ENGLISH        "Ellenség elérte a ponthatárt!"
+
+REFERENCE           HQ_REVEALED
+LANG_ENGLISH        "Fõhadiszállás kijelölve."
+
+REFERENCE           WAITING_FOR_PLAYERS
+LANG_ENGLISH        "Játékosra várás..."
+
+REFERENCE           OPPONENT_FORFEITING_IN
+LANG_ENGLISH        "Ellenség veszít &&1 másodperc múlva"
+
+REFERENCE           NO_RESPAWN
+LANG_ENGLISH        "Nincs újraéledés"
+
+REFERENCE           WAITING_FOR_HQ
+LANG_ENGLISH        "Várj az új Fõhadiszállásra..."
+
+
+ENDMARKER
+
+

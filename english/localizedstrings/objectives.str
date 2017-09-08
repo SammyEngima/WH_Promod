@@ -1,0 +1,25 @@
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SD_ATTACKER
+LANG_ENGLISH        "Semmisítsd meg az A és B objektumot."
+
+REFERENCE           SD_ATTACKER_SCORE
+LANG_ENGLISH        "Semmisítsd meg az A és B objektumot.  Az elsõ csapat aki eléri a &&1 pontot, nyer."
+
+REFERENCE           SD_ATTACKER_HINT
+LANG_ENGLISH        "Semmisítsd meg az A és B objektumot."
+
+REFERENCE           SD_DEFENDER
+LANG_ENGLISH        "Védd meg a célpontokat."
+
+REFERENCE           SD_DEFENDER_SCORE
+LANG_ENGLISH        "Védd meg a célpontokat Az elsõ csapat aki eléri a &&1 pontot, nyer."
+
+REFERENCE           SD_DEFENDER_HINT
+LANG_ENGLISH        "Védd meg az A és B objektumot."
+
+ENDMARKER
+
+

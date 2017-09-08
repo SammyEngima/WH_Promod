@@ -1,0 +1,13 @@
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           "Strings used in the weapon settings go in this file."
+
+REFERENCE           MW2_MAGNUM
+LANG_ENGLISH        ".44 Magnum"
+
+REFERENCE           DESERTEAGLEGOLD
+LANG_ENGLISH        ".44 Magnum"
+
+ENDMARKER
+
+

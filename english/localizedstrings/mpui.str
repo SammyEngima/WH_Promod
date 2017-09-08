@@ -1,0 +1,1045 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BOG
+LANG_ENGLISH        "Bog"
+
+REFERENCE           SABOTAGE
+LANG_ENGLISH        "Szabotázs"
+
+REFERENCE           DEATHMATCH
+LANG_ENGLISH        "Darálás"
+
+REFERENCE           TEAM_DEATHMATCH
+LANG_ENGLISH        "Csapatmérkõzés"
+
+REFERENCE           HEADQUARTERS
+LANG_ENGLISH        "Fõhadiszállás"
+
+REFERENCE           SEARCH_AND_DESTROY
+LANG_ENGLISH        "Keres & pusztít"
+
+REFERENCE           WAR
+LANG_ENGLISH        "Csapatmérkõzés"
+
+REFERENCE           DOMINATION
+LANG_ENGLISH        "Uralom"
+
+REFERENCE           KING_OF_THE_HILL
+LANG_ENGLISH        "Fõhadiszállás"
+
+REFERENCE           TEAM
+LANG_ENGLISH        "Csapat"
+
+REFERENCE           WEAPON
+LANG_ENGLISH        "Fegyver"
+
+REFERENCE           VIEW_MAP
+LANG_ENGLISH        "Térképet mutat"
+
+REFERENCE           CALL_VOTE
+LANG_ENGLISH        "Szavazás hivása"
+
+REFERENCE           AUTOASSIGN
+LANG_ENGLISH        "Automatikus"
+
+REFERENCE           AMERICAN
+LANG_ENGLISH        "American"
+
+REFERENCE           BRITISH
+LANG_ENGLISH        "British"
+
+REFERENCE           RUSSIAN
+LANG_ENGLISH        "Russian"
+
+REFERENCE           MARINES
+LANG_ENGLISH        "Tengerészgyalogos"
+
+REFERENCE           SPETSNAZ
+LANG_ENGLISH        "Oroszerõk"
+
+REFERENCE           OPFOR
+LANG_ENGLISH        "Terroristák"
+
+REFERENCE           SAS
+LANG_ENGLISH        "Különleges alakulat"
+
+REFERENCE           MARINES_SHORT
+LANG_ENGLISH        "Tengerészgyalogos"
+
+REFERENCE           SPETSNAZ_SHORT
+LANG_ENGLISH        "Oroszerõk"
+
+REFERENCE           OPFOR_SHORT
+LANG_ENGLISH        "Terrorista"
+
+REFERENCE           SAS_SHORT
+LANG_ENGLISH        "Különleges alakulat"
+
+REFERENCE           SPECTATE
+LANG_ENGLISH        "Nézeledõ"
+
+REFERENCE           OK
+LANG_ENGLISH        "Ok"
+
+REFERENCE           CHANGE_WEAPON
+LANG_ENGLISH        "Fegyverválasztás"
+
+REFERENCE           CHANGE_TEAM
+LANG_ENGLISH        "Csapatválasztás"
+
+REFERENCE           LEAVE_GAME
+LANG_ENGLISH        "Kilépés"
+
+REFERENCE           LEAVE_GAME1
+LANG_ENGLISH        "Kilépsz a játékból?"
+
+REFERENCE           END_GAME
+LANG_ENGLISH        "End Game"
+
+REFERENCE           TEAMS
+LANG_ENGLISH        "Teams"
+
+REFERENCE           MUTE_PLAYERS
+LANG_ENGLISH        "Játékos némítása"
+
+REFERENCE           ENDROUND
+LANG_ENGLISH        "Kör vége"
+
+REFERENCE           MENU
+LANG_ENGLISH        "Menü"
+
+REFERENCE           CREATE_A_CLASS
+LANG_ENGLISH        "Egyedi fegyverek"
+
+REFERENCE           BARRACKS
+LANG_ENGLISH        "Játék beállítás"
+
+REFERENCE           INVITE_FRIENDS
+LANG_ENGLISH        "Barát meghívása"
+
+REFERENCE           PARTY_INVITE
+LANG_ENGLISH        "Játékra hívás"
+
+REFERENCE           CREATE_PARTY
+LANG_ENGLISH        "Játék indítás"
+
+REFERENCE           GAME_SUMMARY
+LANG_ENGLISH        "Összegzés"
+
+REFERENCE           N_XP
+LANG_ENGLISH        "&&1 XP"
+
+REFERENCE           RANK
+LANG_ENGLISH        "Rang"
+
+REFERENCE           NAME
+LANG_ENGLISH        "Név"
+
+REFERENCE           X_SLASH_Y
+LANG_ENGLISH        "&&1/&&2"
+
+REFERENCE           MATCHBONUS
+LANG_ENGLISH        "Kör bonusz"
+
+REFERENCE           SCORE_PRE
+LANG_ENGLISH        "Pont:"
+
+REFERENCE           CHALLENGES_PRE
+LANG_ENGLISH        "Kihívás:"
+
+REFERENCE           MATCHBONUS_PRE
+LANG_ENGLISH        "Kör bonusz:"
+
+REFERENCE           TOTALXP_PRE
+LANG_ENGLISH        "Össz XP:"
+
+REFERENCE           RANK_PRE
+LANG_ENGLISH        "Rang:"
+
+REFERENCE           XP_REQUIRED_PRE
+LANG_ENGLISH        "Szükséges XP:"
+
+REFERENCE           NEXT_RANK_PRE
+LANG_ENGLISH        "Következõ rang:"
+
+REFERENCE           WEAPON_PRE
+LANG_ENGLISH        "Fegyver:"
+
+REFERENCE           PERK_PRE
+LANG_ENGLISH        "Képesség:"
+
+REFERENCE           CHALLENGE_PRE
+LANG_ENGLISH        "Kihívás:"
+
+REFERENCE           CAMO_PRE
+LANG_ENGLISH        "Álcaszín:"
+
+REFERENCE           XP_PRE
+LANG_ENGLISH        "XP:"
+
+REFERENCE           ATTACHMENT_PRE
+LANG_ENGLISH        "Fegyverek:"
+
+REFERENCE           FEATURE_PRE
+LANG_ENGLISH        "Feature:"
+
+REFERENCE           START_MATCH
+LANG_ENGLISH        "Kör indítása"
+
+REFERENCE           GAME_SETUP
+LANG_ENGLISH        "Játék beállítás"
+
+REFERENCE           SCORE
+LANG_ENGLISH        "Pont"
+
+REFERENCE           LEVEL_N
+LANG_ENGLISH        "Lv &&1"
+
+REFERENCE           KILLS_PRE
+LANG_ENGLISH        "Ölés:"
+
+REFERENCE           ASSISTS_PRE
+LANG_ENGLISH        "Segítség:"
+
+REFERENCE           STREAK_PRE
+LANG_ENGLISH        "Tarolás:"
+
+REFERENCE           DEATHS_PRE
+LANG_ENGLISH        "Halál:"
+
+REFERENCE           TIME_PLAYED_PRE
+LANG_ENGLISH        "Játszott idõ:"
+
+REFERENCE           WINS
+LANG_ENGLISH        "Gyõzelem"
+
+REFERENCE           LOSSES
+LANG_ENGLISH        "Vereség"
+
+REFERENCE           RATIO
+LANG_ENGLISH        "Ratio"
+
+REFERENCE           ACCURACY
+LANG_ENGLISH        "Pontosság"
+
+REFERENCE           KILLS
+LANG_ENGLISH        "Kills"
+
+REFERENCE           PLAYER
+LANG_ENGLISH        "Játékos"
+
+REFERENCE           TIME_PLAYED
+LANG_ENGLISH        "Játszott idõ"
+
+REFERENCE           LEVEL
+LANG_ENGLISH        "Színt"
+
+REFERENCE           MISSES
+LANG_ENGLISH        "Misses"
+
+REFERENCE           HITS
+LANG_ENGLISH        "Hits"
+
+REFERENCE           FRIENDS
+LANG_ENGLISH        "Barát"
+
+REFERENCE           SCORE_GLOBAL
+LANG_ENGLISH        "Pont (Global)"
+
+REFERENCE           SCORE_FRIENDS
+LANG_ENGLISH        "Pont (Friends)"
+
+REFERENCE           KILLS_GLOBAL
+LANG_ENGLISH        "Ölés (Global)"
+
+REFERENCE           KILLS_FRIENDS
+LANG_ENGLISH        "Ölés (Friends)"
+
+REFERENCE           ACCURACY_GLOBAL
+LANG_ENGLISH        "Pontosság (Global)"
+
+REFERENCE           ACCURACY_FRIENDS
+LANG_ENGLISH        "Pontosság (Friends)"
+
+REFERENCE           WINS_GLOBAL
+LANG_ENGLISH        "Gyõzelem (Global)"
+
+REFERENCE           WINS_FRIENDS
+LANG_ENGLISH        "Gyõzelem (Friends)"
+
+REFERENCE           CLAN_TAG
+LANG_ENGLISH        "Clan Tag"
+
+REFERENCE           PRESTIGE_MODE
+LANG_ENGLISH        "Prestizs mód"
+
+REFERENCE           YOUR_CLASSES
+LANG_ENGLISH        "A te egyedi fegyvereid"
+
+REFERENCE           PERK1
+LANG_ENGLISH        "1.Képesség"
+
+REFERENCE           PERK2
+LANG_ENGLISH        "2.Képesség"
+
+REFERENCE           PERK3
+LANG_ENGLISH        "3.képesség"
+
+REFERENCE           RENAME
+LANG_ENGLISH        "Átnevez"
+
+REFERENCE           PRIMARY_WEAPON
+LANG_ENGLISH        "Elsödleges fegyver"
+
+REFERENCE           SECONDARY_WEAPON
+LANG_ENGLISH        "Másodlagos fegyver"
+
+REFERENCE           SIDE_ARM
+LANG_ENGLISH        "Pisztolyok"
+
+REFERENCE           OFFHAND_GRENADE
+LANG_ENGLISH        "Offhand Grenade"
+
+REFERENCE           TIME_LIMIT_PRE
+LANG_ENGLISH        "Idõ korlát:"
+
+REFERENCE           ROUND_LENGTH_PRE
+LANG_ENGLISH        "Round Length:"
+
+REFERENCE           SCORE_LIMIT_PRE
+LANG_ENGLISH        "Pont határ:"
+
+REFERENCE           SPECTATING_PRE
+LANG_ENGLISH        "Nézelödõ:"
+
+REFERENCE           KILLCAM_PRE
+LANG_ENGLISH        "Halálkamerát használ:"
+
+REFERENCE           FORCE_RESPAWN_PRE
+LANG_ENGLISH        "Force Respawn:"
+
+REFERENCE           FRIENDY_FIRE_PRE
+LANG_ENGLISH        "Csapatsebzés:"
+
+REFERENCE           NUMLIVES_PRE
+LANG_ENGLISH        "Number of Lives:"
+
+REFERENCE           RESPAWN_DELAY_PRE
+LANG_ENGLISH        "Respawn Delay:"
+
+REFERENCE           MAX_HEALTH_PRE
+LANG_ENGLISH        "Max Health:"
+
+REFERENCE           HEALTH_REGEN_PRE
+LANG_ENGLISH        "Health Regeneration:"
+
+REFERENCE           SPRINT_PRE
+LANG_ENGLISH        "Allow Sprint:"
+
+REFERENCE           HEADSHOTS_PRE
+LANG_ENGLISH        "Fejlövés:"
+
+REFERENCE           HEADSHOTS_ONLY_PRE
+LANG_ENGLISH        "Headshots Only:"
+
+REFERENCE           PERKS_PRE
+LANG_ENGLISH        "Allow Perks:"
+
+REFERENCE           OLDSCHOOL_PRE
+LANG_ENGLISH        "Old School Mode:"
+
+REFERENCE           HARDCORE_PRE
+LANG_ENGLISH        "Hardcore Mode:"
+
+REFERENCE           BOMB_TIMER_PRE
+LANG_ENGLISH        "Bomba idõzítõ:"
+
+REFERENCE           PLANT_TIME_PRE
+LANG_ENGLISH        "Bomba élesítési idõ:"
+
+REFERENCE           DEFUSE_PRE
+LANG_ENGLISH        "Bomb Defuse Time:"
+
+REFERENCE           MULTIBOMB_PRE
+LANG_ENGLISH        "Két-Bombás Mód:"
+
+REFERENCE           HOT_POTATO_PRE
+LANG_ENGLISH        "Hot Potato Mode:"
+
+REFERENCE           ROUND_LIMIT_PRE
+LANG_ENGLISH        "Körök száma:"
+
+REFERENCE           ROUND_SWITCH_PRE
+LANG_ENGLISH        "Térfélcsere(körszám):"
+
+REFERENCE           CHANGE_RULES
+LANG_ENGLISH        "Change Rules"
+
+REFERENCE           MOTD
+LANG_ENGLISH        "Szia &&1"
+
+REFERENCE           PLAYER_OPTIONS
+LANG_ENGLISH        "Játékos beállítás"
+
+REFERENCE           YES
+LANG_ENGLISH        "Igen"
+
+REFERENCE           NO
+LANG_ENGLISH        "Nem"
+
+REFERENCE           CHALLENGES
+LANG_ENGLISH        "Kihívások"
+
+REFERENCE           DESC_FIND_GAME
+LANG_ENGLISH        "Pick a game mode and quickly join a game online."
+
+REFERENCE           DESC_FIND_GAME_LOCKED
+LANG_ENGLISH        "Only the party host can find games."
+
+REFERENCE           DESC_PRIVATE_MATCH
+LANG_ENGLISH        "Host a custom game where you can play with your friends."
+
+REFERENCE           DESC_PRIVATE_MATCH_LOCKED
+LANG_ENGLISH        "Only the party host can start a private match."
+
+REFERENCE           DESC_CREATE_A_CLASS_LOCKED
+LANG_ENGLISH        "Unlocked at Lance Corporal (Lv4)."
+
+REFERENCE           DESC_CREATE_A_CLASS
+LANG_ENGLISH        "Create your own custom classes."
+
+REFERENCE           DESC_BARRACKS
+LANG_ENGLISH        "Challenges, Clan Tag, Player Stats and Leaderboards."
+
+REFERENCE           DESC_PARTY_INVITE
+LANG_ENGLISH        "Invite friends to your party."
+
+REFERENCE           DESC_PLAYER_OPTIONS
+LANG_ENGLISH        "Open player options menu."
+
+REFERENCE           DESC_START_MATCH
+LANG_ENGLISH        "Start the match."
+
+REFERENCE           DESC_START_MATCH_LOCKED
+LANG_ENGLISH        "Only the lobby host can start the match."
+
+REFERENCE           DESC_GAME_SETUP
+LANG_ENGLISH        "Change map, game type and rules."
+
+REFERENCE           DESC_GAME_SETUP_LOCKED
+LANG_ENGLISH        "Only the lobby host can change the game options."
+
+REFERENCE           DESC_CHANGE_MAP
+LANG_ENGLISH        "Choose a different map."
+
+REFERENCE           DESC_CHANGE_GAMETYPE
+LANG_ENGLISH        "Choose a different Game Mode."
+
+REFERENCE           DESC_CHANGE_RULES
+LANG_ENGLISH        "Edit the rules for this match."
+
+REFERENCE           DESC_INVITE_FRIENDS
+LANG_ENGLISH        "Invite friends to your game."
+
+REFERENCE           PRIVATE_MATCH_LOBBY
+LANG_ENGLISH        "PRIVATE MATCH LOBBY"
+
+REFERENCE           PUBLIC_MATCH_LOBBY
+LANG_ENGLISH        "PUBLIC MATCH LOBBY"
+
+REFERENCE           UNLOCKXP
+LANG_ENGLISH        "Feloldva a &&1 (Lv&&2)"
+
+REFERENCE           MAXPARTYSIZE
+LANG_ENGLISH        "Maximum party size of &&1"
+
+REFERENCE           NOPUNKBUSTER
+LANG_ENGLISH        "Unable to initialize Punkbuster.  Punkbuster is disabled."
+
+REFERENCE           NONE
+LANG_ENGLISH        "Nincs"
+
+REFERENCE           PRESTIGE
+LANG_ENGLISH        "Presztizs"
+
+REFERENCE           CALLVOTE
+LANG_ENGLISH        "Szavazás hívása"
+
+REFERENCE           VOTE
+LANG_ENGLISH        "Szavazás"
+
+REFERENCE           END_GAME2
+LANG_ENGLISH        "Játék vége?"
+
+REFERENCE           PRIMARY_WEAPON1
+LANG_ENGLISH        "Elsõdleges fegyver"
+
+REFERENCE           SPECTATOR
+LANG_ENGLISH        "Nézelödõ"
+
+REFERENCE           CHOOSE_CLASS
+LANG_ENGLISH        "Egyedi fegyverek"
+
+REFERENCE           CHANGE_GAME_MODE
+LANG_ENGLISH        "Másik játékmód"
+
+REFERENCE           SIDE_ARM1
+LANG_ENGLISH        "Pisztolyok"
+
+REFERENCE           SPECIAL_GRENADE
+LANG_ENGLISH        "Speciális gránát"
+
+REFERENCE           PERK_1
+LANG_ENGLISH        "1.Képesség"
+
+REFERENCE           PERK_2
+LANG_ENGLISH        "2.Képesség"
+
+REFERENCE           PERK_3
+LANG_ENGLISH        "3.Képesség"
+
+REFERENCE           NO_ATTACHMENT
+LANG_ENGLISH        "Nincs Tartozék"
+
+REFERENCE           ACOG_SCOPE
+LANG_ENGLISH        "Roham távcsõ"
+
+REFERENCE           RED_DOT_SIGHT
+LANG_ENGLISH        "Vöröspont"
+
+REFERENCE           SILENCER
+LANG_ENGLISH        "Hangtompító"
+
+REFERENCE           GRENADE_LAUNCHER
+LANG_ENGLISH        "Gránátvetõ"
+
+REFERENCE           DESERT
+LANG_ENGLISH        "Sivatagi"
+
+REFERENCE           WOODLAND
+LANG_ENGLISH        "Erdei"
+
+REFERENCE           DIGITAL
+LANG_ENGLISH        "Digitál"
+
+REFERENCE           RED_TIGER
+LANG_ENGLISH        "Vörös tigriscsíkos"
+
+REFERENCE           BLUE_TIGER
+LANG_ENGLISH        "Kék tigriscsíkos"
+
+REFERENCE           GOLDEN
+LANG_ENGLISH        "Arany"
+
+REFERENCE           PRESTIGE1
+LANG_ENGLISH        "Presztizs"
+
+REFERENCE           ASSAULT_RIFLES
+LANG_ENGLISH        "Rohamfegyverek"
+
+REFERENCE           SUB_MACHINE_GUNS
+LANG_ENGLISH        "Géppisztolyok"
+
+REFERENCE           LIGHT_MACHINE_GUNS
+LANG_ENGLISH        "Géppuskák"
+
+REFERENCE           SHOTGUNS
+LANG_ENGLISH        "Vadászpuskák"
+
+REFERENCE           SNIPER_RIFLES
+LANG_ENGLISH        "Orvlövészfegyverek"
+
+REFERENCE           RENAME_CLASS
+LANG_ENGLISH        "Átnevezés"
+
+REFERENCE           CHOOSE_TEAM
+LANG_ENGLISH        "Csapatválasztás"
+
+REFERENCE           DESC_PRIVATE_JIP
+LANG_ENGLISH        "Toggle to allow friends to join session in progress."
+
+REFERENCE           PISTOL
+LANG_ENGLISH        "Pisztoly"
+
+REFERENCE           SNIPER_RIFLE
+LANG_ENGLISH        "Orvlövész puska"
+
+REFERENCE           ASSAULT_RIFLE
+LANG_ENGLISH        "Rohamfegyverek"
+
+REFERENCE           SUB_MACHINE_GUN
+LANG_ENGLISH        "Géppisztolyok"
+
+REFERENCE           SHOTGUN
+LANG_ENGLISH        "Vadászpuska"
+
+REFERENCE           LIGHT_MACHINE_GUN
+LANG_ENGLISH        "Géppuska"
+
+REFERENCE           UNLOCKED
+LANG_ENGLISH        "Feloldva..."
+
+REFERENCE           NEW_CHALLENGES
+LANG_ENGLISH        "Új kihívás"
+
+REFERENCE           DESC_LEADERBOARDS
+LANG_ENGLISH        "Compare your statistics to the rest of the world."
+
+REFERENCE           DESC_CHALLENGES
+LANG_ENGLISH        "Complete Challenges to gain XP rewards and weapon addons."
+
+REFERENCE           DESC_CHALLENGES2
+LANG_ENGLISH        "Feloldva Lance Corporal I-töl (Lv5)."
+
+REFERENCE           DESC_CLANTAG
+LANG_ENGLISH        "Set your clan tag."
+
+REFERENCE           DESC_CLANTAG2
+LANG_ENGLISH        "Feloldva  Sergeant II-töl (Lv12)."
+
+REFERENCE           DESC_PRESTIGE
+LANG_ENGLISH        "Gain prestige... at a price."
+
+REFERENCE           DESC_PRESTIGE2
+LANG_ENGLISH        "Feloldva  Commander -töl(Lv55)."
+
+REFERENCE           DESC_LEADERBOARD_WINS
+LANG_ENGLISH        "Compare your win/loss record to your friends and the world."
+
+REFERENCE           DESC_LEADERBOARD_KILLS
+LANG_ENGLISH        "See your total kills, deaths, k/d ratio, and best kill streak."
+
+REFERENCE           DESC_LEADERBOARD_ACCURACY
+LANG_ENGLISH        "Find out how well you're doing with your shot placement."
+
+REFERENCE           GRIP
+LANG_ENGLISH        "Markolat"
+
+REFERENCE           END_GAME_WARNING
+LANG_ENGLISH        "Are you sure you wish to end the session for all players?"
+
+REFERENCE           CHOOSE_CLASS_CAP
+LANG_ENGLISH        "Fegyver választás"
+
+REFERENCE           CUSTOM_CLASSES
+LANG_ENGLISH        "Egyedi fegyvereim"
+
+REFERENCE           DEFAULT_CLASSES
+LANG_ENGLISH        "Alap fegyverek"
+
+REFERENCE           PERKS_AND_INVENTORY
+LANG_ENGLISH        "Képességek és kiegészitök"
+
+REFERENCE           CREATE_A_CLASS_CAP
+LANG_ENGLISH        "Egyedi fegyverek"
+
+REFERENCE           VOTE_TO_SKIP
+LANG_ENGLISH        "Vote to Skip"
+
+REFERENCE           DESC_VOTE_TO_SKIP
+LANG_ENGLISH        "Vote to skip current selection. If passed, you can't vote to skip the next one."
+
+REFERENCE           VOTE_CAST
+LANG_ENGLISH        "Vote Cast"
+
+REFERENCE           LAST_STAND
+LANG_ENGLISH        "Last Stand!"
+
+REFERENCE           DESC_MAP_BACKLOT
+LANG_ENGLISH        "Medium sized construction site.  Great level for any mode."
+
+REFERENCE           DESC_MAP_BLOC
+LANG_ENGLISH        "Large Russian apartment bloc.  Intense Domination matches."
+
+REFERENCE           DESC_MAP_BOG
+LANG_ENGLISH        "Small desert bog.  Open level, excellent for smaller groups."
+
+REFERENCE           DESC_MAP_CARGOSHIP
+LANG_ENGLISH        "Medium-large cargoship.  Fast-paced Search and Destroy matches."
+
+REFERENCE           DESC_MAP_CITYSTREETS
+LANG_ENGLISH        "Large urban town with a market in the middle.  Great for team games."
+
+REFERENCE           DESC_MAP_CONVOY
+LANG_ENGLISH        "Large desert town.  Excels in Sabotage matches."
+
+REFERENCE           DESC_MAP_COUNTDOWN
+LANG_ENGLISH        "Open launch pad.  Huge sight lines and dangerous maneuvering."
+
+REFERENCE           DESC_MAP_CRASH
+LANG_ENGLISH        "Downed Sea Knight in a desert town.  Fantastic team games."
+
+REFERENCE           DESC_MAP_CROSSFIRE
+LANG_ENGLISH        "Small desert town.  Intense interior fighting and strong firefights."
+
+REFERENCE           DESC_MAP_FARM
+LANG_ENGLISH        "Big rainy Russian farm.  Excellent for Sabotage matches."
+
+REFERENCE           DESC_MAP_OVERGROWN
+LANG_ENGLISH        "Large overgrown rural Russian area. Sniper ghillie suits make for good cover..."
+
+REFERENCE           DESC_PIPELINE
+LANG_ENGLISH        "Russian trainyard. Excellent team games."
+
+REFERENCE           DESC_MAP_SHIPMENT
+LANG_ENGLISH        "Tiny Russian shipyard.  Fast paced action with no hiding."
+
+REFERENCE           DESC_MAP_SHOWDOWN
+LANG_ENGLISH        "Small desert arena.  Great fast gameplay for small numbers of players."
+
+REFERENCE           DESC_MAP_STRIKE
+LANG_ENGLISH        "Large urban desert town.  Excellent team games."
+
+REFERENCE           DESC_MAP_VACANT
+LANG_ENGLISH        "Deserted Russian office.  Intense interior fighting."
+
+REFERENCE           DESC_MAP_BROADCAST
+LANG_ENGLISH        "TV Station."
+
+REFERENCE           DESC_MAP_PIPELINE
+LANG_ENGLISH        "Russian trainyard.  Excellent team games."
+
+REFERENCE           RULES_PLAYER_OPTIONS
+LANG_ENGLISH        "Player Options"
+
+REFERENCE           RULES_GAMEPLAY_OPTIONS
+LANG_ENGLISH        "Játék beállítások"
+
+REFERENCE           RULES_TEAM_OPTIONS
+LANG_ENGLISH        "Team Options"
+
+REFERENCE           GAME_RULES_CAP
+LANG_ENGLISH        "GAME RULES"
+
+REFERENCE           RULES_ITEM_2LIVES
+LANG_ENGLISH        "2 Lives"
+
+REFERENCE           RULES_ITEM_LIFE
+LANG_ENGLISH        "1 Life"
+
+REFERENCE           RULES_UNLIMITED
+LANG_ENGLISH        "Nincshatár"
+
+REFERENCE           RULES_NUMBER_OF_LIVES
+LANG_ENGLISH        "Number of Lives:"
+
+REFERENCE           RULES_RESPAWN_DELAY
+LANG_ENGLISH        "Respawn Delay:"
+
+REFERENCE           RULES_NONE
+LANG_ENGLISH        "Nincs"
+
+REFERENCE           RULES_5SECONDS
+LANG_ENGLISH        "5 másodperc"
+
+REFERENCE           RULES_MAX_HEALTH
+LANG_ENGLISH        "Max Health:"
+
+REFERENCE           RULES_MINISCULE
+LANG_ENGLISH        "Miniscule"
+
+REFERENCE           RULES_HALF
+LANG_ENGLISH        "Fél"
+
+REFERENCE           RULES_NORMAL
+LANG_ENGLISH        "Normál"
+
+REFERENCE           RULES_DOUBLE
+LANG_ENGLISH        "Dupla"
+
+REFERENCE           RULES_HEALTH_REGEN
+LANG_ENGLISH        "Health Regeneration:"
+
+REFERENCE           RULES_ALLOW_SPRINT
+LANG_ENGLISH        "Allow Sprint:"
+
+REFERENCE           RULES_SLOW
+LANG_ENGLISH        "Slow"
+
+REFERENCE           RULES_SPECTATING
+LANG_ENGLISH        "Nézelödés:"
+
+REFERENCE           RULES_ITEM_3LIVES
+LANG_ENGLISH        "3 Lives"
+
+REFERENCE           RULES_ITEM_5LIVES
+LANG_ENGLISH        "5 Lives"
+
+REFERENCE           RULES_ITEM_9LIVES
+LANG_ENGLISH        "9 Lives"
+
+REFERENCE           RULES_10SECONDS
+LANG_ENGLISH        "10 Másodperc"
+
+REFERENCE           RULES_15SECONDS
+LANG_ENGLISH        "15 Másodperc"
+
+REFERENCE           RULES_30SECONDS
+LANG_ENGLISH        "30 Másodperc"
+
+REFERENCE           RULES_TEAM_ONLY
+LANG_ENGLISH        "Csak csapat"
+
+REFERENCE           RULES_FREE
+LANG_ENGLISH        "Szabad"
+
+REFERENCE           RULES_PLAYERS_ONLY
+LANG_ENGLISH        "Csak játékos"
+
+REFERENCE           RULES_RADAR_ALWAYS_ON
+LANG_ENGLISH        "Radar Always On:"
+
+REFERENCE           RULE_ALLOW_KILLCAM
+LANG_ENGLISH        "Halálkamerával:"
+
+REFERENCE           RULES_FORCE_RESPAWN
+LANG_ENGLISH        "Force Respawn:"
+
+REFERENCE           RULES_FRIENDLY_FIRE
+LANG_ENGLISH        "Baráti tûz:"
+
+REFERENCE           RULES_REFLECT
+LANG_ENGLISH        "Reflect"
+
+REFERENCE           RULES_SHARED
+LANG_ENGLISH        "Shared"
+
+REFERENCE           RULES_HEADSHOTS_ONLY
+LANG_ENGLISH        "Headshots Only:"
+
+REFERENCE           RULES_ALLOW_PERKS
+LANG_ENGLISH        "Allow Perks:"
+
+REFERENCE           RULES_OLDSCHOOL
+LANG_ENGLISH        "Old School Mód:"
+
+REFERENCE           RULES_HARDCORE
+LANG_ENGLISH        "Hardcore Mód:"
+
+REFERENCE           RULES_AIRSUPPORT
+LANG_ENGLISH        "Allow Air Support:"
+
+REFERENCE           RULES_TIME_LIMIT
+LANG_ENGLISH        "Idõhatár:"
+
+REFERENCE           RULES_5MINUTES
+LANG_ENGLISH        "5 Perc"
+
+REFERENCE           RULES_10MINUTES
+LANG_ENGLISH        "10 Perc"
+
+REFERENCE           RULES_15MINUTES
+LANG_ENGLISH        "15 Perc"
+
+REFERENCE           RULES_20MINUTES
+LANG_ENGLISH        "20 Perc"
+
+REFERENCE           RULES_30MINUTES
+LANG_ENGLISH        "30 Perc"
+
+REFERENCE           RULES_SCORE_LIMIT
+LANG_ENGLISH        "Ponthatár:"
+
+REFERENCE           RULES_3POINTS
+LANG_ENGLISH        "3 Pont"
+
+REFERENCE           RULES_5POINTS
+LANG_ENGLISH        "5 Pont"
+
+REFERENCE           RULES_10POINTS
+LANG_ENGLISH        "10 Pont"
+
+REFERENCE           RULES_20POINTS
+LANG_ENGLISH        "20 Pont"
+
+REFERENCE           RULES_30POINTS
+LANG_ENGLISH        "30 Pont"
+
+REFERENCE           RULES_100POINTS
+LANG_ENGLISH        "100 Pont"
+
+REFERENCE           RULES_200POINTS
+LANG_ENGLISH        "200 Pont"
+
+REFERENCE           RULES_300POINTS
+LANG_ENGLISH        "300 Pont"
+
+REFERENCE           RULES_500POINTS
+LANG_ENGLISH        "500 Pont"
+
+REFERENCE           RULES_700POINTS
+LANG_ENGLISH        "700 Pont"
+
+REFERENCE           RULES_1000POINTS
+LANG_ENGLISH        "1000 Pont"
+
+REFERENCE           RULES_50POINTS
+LANG_ENGLISH        "50 Pont"
+
+REFERENCE           RULES_750POINTS
+LANG_ENGLISH        "750 Pont"
+
+REFERENCE           RULES_250POINTS
+LANG_ENGLISH        "250 Pont"
+
+REFERENCE           RULES_1500POINTS
+LANG_ENGLISH        "1500 Pont"
+
+REFERENCE           RULES_HQ_HOLD_TIME
+LANG_ENGLISH        "Fõhadiszállás:"
+
+REFERENCE           RULES_3MINUTES
+LANG_ENGLISH        "3 Perc"
+
+REFERENCE           RULES_2MINUTES
+LANG_ENGLISH        "2 Perc"
+
+REFERENCE           RULES_1_5MINUTES
+LANG_ENGLISH        "1.5 Perc"
+
+REFERENCE           RULES_1MINUTE
+LANG_ENGLISH        "1 Perc"
+
+REFERENCE           RULES_HQ_RESPAWN_DELAY
+LANG_ENGLISH        "HQ Activate Delay:"
+
+REFERENCE           RULES_INSTANT
+LANG_ENGLISH        "Instant"
+
+REFERENCE           RULES_CLASSIC_HQ
+LANG_ENGLISH        "Classic HQ Mode:"
+
+REFERENCE           RULES_45SECONDS
+LANG_ENGLISH        "45 Másodperc"
+
+REFERENCE           RULES_BOMB_TIMER
+LANG_ENGLISH        "Bomba idõzítés:"
+
+REFERENCE           RULES_PLANT_TIME
+LANG_ENGLISH        "Élesítése:"
+
+REFERENCE           RULES_1SECOND
+LANG_ENGLISH        "1 Másodperc"
+
+REFERENCE           RULES_2_5SECONDS
+LANG_ENGLISH        "2.5 Másodperc"
+
+REFERENCE           RULES_7_5SECONDS
+LANG_ENGLISH        "7.5 Másodperc"
+
+REFERENCE           RULES_DEFUSE_TIME
+LANG_ENGLISH        "Hatástalanítási idõ:"
+
+REFERENCE           RULES_HOT_POTATO
+LANG_ENGLISH        "Hot Potato:"
+
+REFERENCE           RULES_ROUND_LIMIT
+LANG_ENGLISH        "Kör határ:"
+
+REFERENCE           RULES_1ROUND
+LANG_ENGLISH        "1 Kör"
+
+REFERENCE           RULES_2ROUNDS
+LANG_ENGLISH        "2 Kör"
+
+REFERENCE           RULES_4ROUNDS
+LANG_ENGLISH        "4 Kör"
+
+REFERENCE           RULES_6ROUNDS
+LANG_ENGLISH        "6 Kör"
+
+REFERENCE           RULES_8ROUNDS
+LANG_ENGLISH        "8 Kör"
+
+REFERENCE           RULES_ROUND_SWITCH
+LANG_ENGLISH        "Térfélcsere:"
+
+REFERENCE           RULES_NEVER
+LANG_ENGLISH        "Mindig"
+
+REFERENCE           RULES_EVERY_ROUND
+LANG_ENGLISH        "Minden körben"
+
+REFERENCE           RULES_EVERY_2ROUNDS
+LANG_ENGLISH        "2 Körönként"
+
+REFERENCE           RULES_EVERY_3ROUNDS
+LANG_ENGLISH        "3 Körönként"
+
+REFERENCE           RULES_EVERY_4ROUNDS
+LANG_ENGLISH        "4 Körönként"
+
+REFERENCE           RULES_ROUND_LENGTH
+LANG_ENGLISH        "Round Length:"
+
+REFERENCE           RULES_2_5MINUTES
+LANG_ENGLISH        "2.5 Perc"
+
+REFERENCE           RULES_8MINUTES
+LANG_ENGLISH        "8 Perc"
+
+REFERENCE           RULES_MULTI_BOMB
+LANG_ENGLISH        "Két bomba:"
+
+REFERENCE           RULES_150POINTS
+LANG_ENGLISH        "150 Pont"
+
+REFERENCE           RULES_FAST
+LANG_ENGLISH        "Fast"
+
+REFERENCE           BARRACKS_CAP
+LANG_ENGLISH        "BARRACKS"
+
+REFERENCE           RECOMMENDEDPLAYERS
+LANG_ENGLISH        "Recommended Max Players: &&1"
+
+REFERENCE           RULES_WAVE_DELAY
+LANG_ENGLISH        "Wave Spawn Delay:"
+
+REFERENCE           RULES_1POINT
+LANG_ENGLISH        "1 Pont"
+
+REFERENCE           RULES_4POINTS
+LANG_ENGLISH        "4 Pont"
+
+REFERENCE           RULES_8POINTS
+LANG_ENGLISH        "8 Pont"
+
+REFERENCE           RULES_12POINTS
+LANG_ENGLISH        "12 Pont"
+
+REFERENCE           RULES_24POINTS
+LANG_ENGLISH        "24 Pont"
+
+REFERENCE           RULES_SHARE_BOMB_TIMER
+LANG_ENGLISH        "Shared Bomb Timer:"
+
+REFERENCE           DESC_INVITE_FRIENDS_FULL
+LANG_ENGLISH        "Lobby is full."
+
+REFERENCE           MUTEPLAYERS
+LANG_ENGLISH        "Játékos némítása"
+
+REFERENCE           RULES_2POINTS
+LANG_ENGLISH        "2 Pont"
+
+REFERENCE           FIND_MATCH
+LANG_ENGLISH        "Keresés vége"
+
+
+ENDMARKER
+
+
